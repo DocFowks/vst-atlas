@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-08-31",
+  "updatedAt": "2026-09-07",
   "plugins": [
     {
       "id": "vital",
@@ -12281,6 +12281,615 @@
       "officialUrl": "https://rekkerd.org/ghost-syndicate-releases-overpass-jungle-sample-pack/",
       "description": "Ghost Syndicate has returned with an atmospheric Jungle sample pack inspired by mist-covered cityscapes, late-night journeys and the unmistakable sound of PS1-era jungle. The royalty-free Overpass contains over 550 MB of loops and one shots for creating rain-soaked rollers, cinem",
       "discoveredAt": "2026-08-31",
+      "source": "rss"
+    },
+    {
+      "id": "cloudreverb",
+      "slug": "cloudreverb",
+      "name": "Cloudreverb",
+      "developer": "xunil-cloud",
+      "category": "reverb",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://github.com/xunil-cloud/CloudReverb",
+      "description": "algorithmic reverb plugin based on CloudSeed",
+      "discoveredAt": "2026-09-07",
+      "source": "github"
+    },
+    {
+      "id": "modaldish",
+      "slug": "modaldish",
+      "name": "Modaldish",
+      "developer": "odoare",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://github.com/odoare/ModalDish",
+      "description": "Audio plugin, modeling of a plate of arbitrary shape, solved by finite elements",
+      "discoveredAt": "2026-09-07",
+      "source": "github"
+    },
+    {
+      "id": "autodafe-releases-vintage-emulator-studio-a-free-mame-powered-instrument-collec",
+      "slug": "autodafe-releases-vintage-emulator-studio-a-free-mame-powered-instrument-collec",
+      "name": "Autodafe releases Vintage Emulator Studio, a FREE MAME-powered instrument collec",
+      "developer": "bedroomproducersblog.com",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/09/07/autodafe-vintage-emulator-studio/",
+      "description": "Autodafe has released Vintage Emulator Studio, a free and open-source plugin that brings more than 40 vintage synthesizers, samplers, drum machines, and sound modules into one interface. VES takes a very different approach from the usual sampled instrument or software recreation.",
+      "discoveredAt": "2026-09-07",
+      "source": "rss"
+    },
+    {
+      "id": "initial-d-artist-motsu-releases-free-zero-latency-vocal-tuner-mottune-midi",
+      "slug": "initial-d-artist-motsu-releases-free-zero-latency-vocal-tuner-mottune-midi",
+      "name": "Initial D artist MOTSU releases FREE zero-latency vocal tuner MotTune MIDI",
+      "developer": "bedroomproducersblog.com",
+      "category": "vocal",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/09/05/mottune-midi/",
+      "description": "MOTSU and DeeJei.Tokyo have released MotTune MIDI, a free real-time vocal pitch correction and vocoder plugin for macOS and Windows. Initial D is one of my favorite anime series, along with Slam Dunk. I binged it back when I had time to binge, so getting an email from someone who",
+      "discoveredAt": "2026-09-07",
+      "source": "rss"
+    },
+    {
+      "id": "never-found-releases-vt-mini-a-free-vocal-tuner-for-windows",
+      "slug": "never-found-releases-vt-mini-a-free-vocal-tuner-for-windows",
+      "name": "NEVER FOUND releases VT-Mini, a FREE vocal tuner for Windows",
+      "developer": "bedroomproducersblog.com",
+      "category": "vocal",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/09/05/never-found-vt-mini/",
+      "description": "NEVER FOUND has released VT-Mini, a free vocal tuning and cleanup plugin for Windows. VT-Mini’s interface has two main panels. TUNE handles the pitch correction, and CLEAN combines a low-cut filter and dynamic de-esser on a single graph. The pitch section gives you Retune, Amount",
+      "discoveredAt": "2026-09-07",
+      "source": "rss"
+    },
+    {
+      "id": "musicdibs-offers-bpb-readers-20-off-its-all-in-one-music-platform",
+      "slug": "musicdibs-offers-bpb-readers-20-off-its-all-in-one-music-platform",
+      "name": "Musicdibs offers BPB readers 20% OFF its all-in-one music platform",
+      "developer": "bedroomproducersblog.com",
+      "category": "mastering",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/09/05/musicdibs-offer/",
+      "description": "Musicdibs is offering BPB readers 20% off its monthly and annual plans with coupon code BPBMUSIC20. The browser-based platform brings several parts of an independent artist’s workflow into one place. It covers demo development, mastering, artwork and promotional content, distribu",
+      "discoveredAt": "2026-09-07",
+      "source": "rss"
+    },
+    {
+      "id": "ripples-releases-pulse-a-free-rhythmic-volume-shaper-plugin",
+      "slug": "ripples-releases-pulse-a-free-rhythmic-volume-shaper-plugin",
+      "name": "RIPPLES releases Pulse, a FREE rhythmic volume shaper plugin",
+      "developer": "bedroomproducersblog.com",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/09/05/ripples-pulse/",
+      "description": "RIPPLES Music has released Pulse, a free rhythmic volume shaper plugin for macOS and Windows. Pulse combines sidechain-style pumping, rhythmic gating, and LFO volume shaping in a simple interface with an editable curve. This type of plugin was first made by Cableguys around a dec",
+      "discoveredAt": "2026-09-07",
+      "source": "rss"
+    },
+    {
+      "id": "audacity-4-is-here-the-biggest-update-audacity-has-ever-seen",
+      "slug": "audacity-4-is-here-the-biggest-update-audacity-has-ever-seen",
+      "name": "Audacity 4 is here: The biggest update Audacity has ever seen",
+      "developer": "bedroomproducersblog.com",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/09/05/audacity-4-update/",
+      "description": "To say Audacity has been down a bumpy road since Muse Group acquired the legendary audio editing and recording app back in 2021 would be an understatement. Audacity went from cult hero to villain, then back to some sort of anti-hero; the sort that might save your life then take o",
+      "discoveredAt": "2026-09-07",
+      "source": "rss"
+    },
+    {
+      "id": "dbdone-releases-wasser-a-free-liquid-multiband-delay-plugin",
+      "slug": "dbdone-releases-wasser-a-free-liquid-multiband-delay-plugin",
+      "name": "dBdone releases Wasser, a FREE liquid multiband delay plugin",
+      "developer": "bedroomproducersblog.com",
+      "category": "eq",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/09/04/dbdone-wasser/",
+      "description": "dBdone has released Wasser, a free multiband delay plugin for macOS and Windows. Wasser splits the incoming signal into frequency bands and lets you draw a different delay time for each one. That’s a pretty cool idea. It’s definitely a fun little tool for sound design because it ",
+      "discoveredAt": "2026-09-07",
+      "source": "rss"
+    },
+    {
+      "id": "yurt-rock-releases-pick-pocket-audio-to-midi-drum-plugin-for-49",
+      "slug": "yurt-rock-releases-pick-pocket-audio-to-midi-drum-plugin-for-49",
+      "name": "Yurt Rock releases Pick Pocket audio-to-MIDI drum plugin for $49",
+      "developer": "bedroomproducersblog.com",
+      "category": "drums",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/09/04/yurt-rock-pick-pocket/",
+      "description": "Yurt Rock has released Pick Pocket, an audio-to-MIDI drum conversion plugin for macOS and Windows, priced at $49. This one is useful if you want to extract the groove from a drum recording without losing the swing and quantizing the performance onto a grid. Pick Pocket preserves ",
+      "discoveredAt": "2026-09-07",
+      "source": "rss"
+    },
+    {
+      "id": "lewitt-releases-space-replicator-free-a-virtual-monitoring-plugin-for-macos-and",
+      "slug": "lewitt-releases-space-replicator-free-a-virtual-monitoring-plugin-for-macos-and",
+      "name": "Lewitt releases Space Replicator Free, a virtual monitoring plugin for macOS and",
+      "developer": "bedroomproducersblog.com",
+      "category": "reverb",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/09/03/lewitt-space-replicator-free/",
+      "description": "Developer Lewitt has released Space Replicator Free, a virtual monitoring plugin for macOS and Windows. Lots of plugins virtually recreate the characteristics of real-life spaces for various reasons, whether it’s something like UAD’s Sound City Studios providing a touch of LA whe",
+      "discoveredAt": "2026-09-07",
+      "source": "rss"
+    },
+    {
+      "id": "jas-i-khorlo-is-a-new-free-physical-modeling-resonator-synth-for-macos-windows",
+      "slug": "jas-i-khorlo-is-a-new-free-physical-modeling-resonator-synth-for-macos-windows",
+      "name": "JAS-I Khorlo is a new FREE physical modeling/resonator synth for macOS, Windows,",
+      "developer": "bedroomproducersblog.com",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/09/03/jas-i-khorlo-beta/",
+      "description": "JAS-I Khorlo, a free physical modeling/resonator synth for macOS, Windows, and Linux, is now in open beta. When we post news about new releases, we occasionally run into a few problems. For example, sometimes installers won’t download, or emails take a while, and that’s not ideal",
+      "discoveredAt": "2026-09-07",
+      "source": "rss"
+    },
+    {
+      "id": "ukdf-releases-graincharlie-a-free-granular-synth-for-macos-and-windows",
+      "slug": "ukdf-releases-graincharlie-a-free-granular-synth-for-macos-and-windows",
+      "name": "ukdf releases GrainCharlie, a FREE granular synth for macOS and Windows",
+      "developer": "bedroomproducersblog.com",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/09/03/ukdf-graincharlie/",
+      "description": "Developer ukdf has released GrainCharlie, a free granular synthesizer plugin for macOS and Windows. The developer, who also releases music as uknowdatfeel, created GrainCharlie after spending around a year looking for an affordable granular synth without unnecessary complexity. G",
+      "discoveredAt": "2026-09-07",
+      "source": "rss"
+    },
+    {
+      "id": "the-new-tone3000-is-free-and-provides-access-to-countless-nam-profiles",
+      "slug": "the-new-tone3000-is-free-and-provides-access-to-countless-nam-profiles",
+      "name": "The new TONE3000 is FREE and provides access to countless NAM profiles",
+      "developer": "bedroomproducersblog.com",
+      "category": "guitar",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/09/02/tone3000-plugin/",
+      "description": "The TONE3000 plugin has been released for macOS, Windows, and Linux, and it is available for free! We’ve mentioned the TONE3000 platform plenty of times when discussing other guitar-related releases. The TONE3000 platform provides access to countless gear models (NAM profiles), a",
+      "discoveredAt": "2026-09-07",
+      "source": "rss"
+    },
+    {
+      "id": "tracktion-labor-day-sale-save-up-to-60-on-plugins-sound-packs-bundles",
+      "slug": "tracktion-labor-day-sale-save-up-to-60-on-plugins-sound-packs-bundles",
+      "name": "Tracktion Labor Day Sale: Save up to 60% on plugins, sound packs & bundles",
+      "developer": "rekkerd.org",
+      "category": "bundle",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/tracktion-labor-day-sale-plugins-sound-packs-bundles/",
+      "description": "Tracktion has announced the launch of its annual Labor Day Sale, offering a sitewide discount on its products for the next few days. Everything at Tracktion is 40% OFF, plus extra deals at checkout. Whether you produce, compose, or you are just diving in, now’s the moment to seri",
+      "discoveredAt": "2026-09-07",
+      "source": "rss"
+    },
+    {
+      "id": "snorkel-audio-releases-disto-disco-rhythmic-distortion-plugin",
+      "slug": "snorkel-audio-releases-disto-disco-rhythmic-distortion-plugin",
+      "name": "Snorkel Audio releases Disto Disco rhythmic distortion plugin",
+      "developer": "rekkerd.org",
+      "category": "delay",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/snorkel-audio-releases-disto-disco-rhythmic-distortion-plugin/",
+      "description": "Snorkel Audio has released a distortion effect built around a selection of sound-shaping modes across 5 sonic territories, with a rhythmic modulator on every dial. Disto Disco starts with familiar drive and distortion, then moves into distorting delays, spectral vocoders and filt",
+      "discoveredAt": "2026-09-07",
+      "source": "rss"
+    },
+    {
+      "id": "save-66-on-blent-6-cinemadrums-for-kontakt-by-audiofier",
+      "slug": "save-66-on-blent-6-cinemadrums-for-kontakt-by-audiofier",
+      "name": "Save 66% on Blent 6 CinemaDrums for Kontakt by Audiofier",
+      "developer": "rekkerd.org",
+      "category": "loop_pack",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/blent-6-cinemadrums-for-kontakt-by-audiofier-on-sale/",
+      "description": "VST Alarm has launched a promotion on Audiofier’s Blent series library designed to add momentum and energy to your tracks. Blent 6 – CinemaDrums is on sale for only $14.95 USD for the next few days. With over 180 cinematic drum loops, ranging from industrial to orchestral and fro",
+      "discoveredAt": "2026-09-07",
+      "source": "rss"
+    },
+    {
+      "id": "skaka-percussion-instrument-by-klevgrand-on-sale-for-19-99-usd",
+      "slug": "skaka-percussion-instrument-by-klevgrand-on-sale-for-19-99-usd",
+      "name": "Skaka percussion instrument by Klevgrand on sale for $19.99 USD",
+      "developer": "rekkerd.org",
+      "category": "eq",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/klevgrand-skaka-percussion-instrument-plugin-sale/",
+      "description": "Audio Plugin Deals has launched an exclusive sale with on Klevgrand’s sample-based sequencer plugin for shaker percussion instruments. Designed to create shaker patterns as played by a human being, Skaka features 12 slots, each with its own instrument, parameters, and pattern. We",
+      "discoveredAt": "2026-09-07",
+      "source": "rss"
+    },
+    {
+      "id": "jd-800-software-synthesizer-by-roland-on-sale-for-69-usd",
+      "slug": "jd-800-software-synthesizer-by-roland-on-sale-for-69-usd",
+      "name": "JD-800 software synthesizer by Roland on sale for $69 USD",
+      "developer": "rekkerd.org",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/jd-800-software-synthesizer-by-roland-on-sale/",
+      "description": "As part of its “Synth Month” promotion, Plugin Boutique is offering an exclusive discount on the JD-800 software synthesizer, a virtual instrument that brings the authentic sound and behavior with advanced modeling and original JD-800 waveforms. In 1991, Roland released the JD-80",
+      "discoveredAt": "2026-09-07",
+      "source": "rss"
+    },
+    {
+      "id": "tunary-instruments-releases-cinematic-soundscape-collection-vresk-drusk-nivr",
+      "slug": "tunary-instruments-releases-cinematic-soundscape-collection-vresk-drusk-nivr",
+      "name": "Tunary Instruments releases Cinematic Soundscape Collection: VRESK, DRUSK & NIVR",
+      "developer": "rekkerd.org",
+      "category": "bundle",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/tunary-instruments-releases-cinematic-soundscape-collection-vresk-drusk-nivren/",
+      "description": "Tunary Instruments has announced the launch of the Cinematic Soundscape Collection, a collection of sound-design instruments that start generating the moment you open them. Built for scoring space, texture and mood, the collection comprises a drone and texture engine, granular sc",
+      "discoveredAt": "2026-09-07",
+      "source": "rss"
+    },
+    {
+      "id": "the-crate-league-releases-spectacle-sample-pack",
+      "slug": "the-crate-league-releases-spectacle-sample-pack",
+      "name": "The Crate League releases Spectacle sample pack",
+      "developer": "rekkerd.org",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/the-crate-league-releases-spectacle-sample-pack/",
+      "description": "The Drum Broker has introduced a new sample pack from The Crate League. A collection of 12 original compositions, Spectacle was created using spacey synths, dark melodies, strange textures, and heavy low end. These samples are futuristic and larger-than-life, made for massive sta",
+      "discoveredAt": "2026-09-07",
+      "source": "rss"
+    },
+    {
+      "id": "save-33-on-blue-iii-synthesizer-plugin-by-rob-papen",
+      "slug": "save-33-on-blue-iii-synthesizer-plugin-by-rob-papen",
+      "name": "Save 33% on BLUE-III synthesizer plugin by Rob Papen",
+      "developer": "rekkerd.org",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/rob-papen-blue-iii-synthesizer-plugin-sale/",
+      "description": "Plugin Boutique has launched an exclusive sale on Rob Papen’s BLUE-III, the latest version of the cross-fusion synthesis instrument. The concept for BLUE-III still remains true to that ethos with even more added sound dimensions and features to its extended name. Firstly adding t",
+      "discoveredAt": "2026-09-07",
+      "source": "rss"
+    },
+    {
+      "id": "free-sonible-pure-unmask-or-bleass-saturator-with-purchase-at-audiodeluxe",
+      "slug": "free-sonible-pure-unmask-or-bleass-saturator-with-purchase-at-audiodeluxe",
+      "name": "FREE Sonible pure:unmask or BLEASS Saturator with purchase at AudioDeluxe",
+      "developer": "rekkerd.org",
+      "category": "eq",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/free-sonible-pureunmask-or-bleass-saturator-with-purchase-at-audiodeluxe/",
+      "description": "AudioDeluxe is offering a choice of two audio plugins as a free gift with a purchase through the month of September. Sonible’s pure:unmask ($19 USD value) is an AI-powered audio mixing plugin that automatically resolves frequency clashes between two competing audio tracks. Clarit",
+      "discoveredAt": "2026-09-07",
+      "source": "rss"
+    },
+    {
+      "id": "synth-month-sale-native-instruments-synthesizer-plugins-for-10-usd",
+      "slug": "synth-month-sale-native-instruments-synthesizer-plugins-for-10-usd",
+      "name": "Synth Month Sale: Native Instruments synthesizer plugins for $10 USD",
+      "developer": "rekkerd.org",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/native-instruments-synthesizer-sale-plugin-boutiue/",
+      "description": "Plugin Boutique has launched a limited time sale on a selection of synthesizer instruments from Native Instruments as part of its “Synth Month” promotion. Save up to 91% on a huge selection of Native Instruments’ synths in our exclusive Synth Month sale with many incredible instr",
+      "discoveredAt": "2026-09-07",
+      "source": "rss"
+    },
+    {
+      "id": "free-vt-mini-vocal-tuner-effect-plugin-by-never-found",
+      "slug": "free-vt-mini-vocal-tuner-effect-plugin-by-never-found",
+      "name": "FREE: VT-Mini vocal tuner effect plugin by Never Found",
+      "developer": "rekkerd.org",
+      "category": "eq",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/free-vt-mini-vocal-tuner-effect-plugin-by-never-found/",
+      "description": "Never Found has released a free vocal tuner plugin for Windows (VST3 and standalone). VT-Mini features voice tuning and pitch correction on one page, and EQ and de-esser on the other. TUNE handles pitch correction, with Retune, Amount, Natural and Variation controls and a chromat",
+      "discoveredAt": "2026-09-07",
+      "source": "rss"
+    },
+    {
+      "id": "uvi-falcon-extended-bundle-on-sale-for-199-usd",
+      "slug": "uvi-falcon-extended-bundle-on-sale-for-199-usd",
+      "name": "UVI Falcon Extended Bundle on sale for $199 USD",
+      "developer": "rekkerd.org",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/uvi-falcon-extended-bundle-on-sale/",
+      "description": "As part of its “Synth Month” promotion, Plugin Boutique has launched an exclusive sale on the Falcon Extended Bundle, offering 80% off for the next few days. The bundle comprises the Falcon creative hybrid instrument and a collection of 19 expansion packs. Falcon gives you everyt",
+      "discoveredAt": "2026-09-07",
+      "source": "rss"
+    },
+    {
+      "id": "save-50-on-korg-m1-software-synthesizer-instrument",
+      "slug": "save-50-on-korg-m1-software-synthesizer-instrument",
+      "name": "Save 50% on KORG M1 software synthesizer instrument",
+      "developer": "rekkerd.org",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/korg-m1-software-synthesizer-instrument-sale/",
+      "description": "Plugin Boutique is offering an exclusive 50% discount on the KORG M1 native software synthesizer, which featuring a complete reproduction of the AI synthesis system of the classic music workstation. The M1, released in 1988, is an epoch-making synthesizer that defined the music s",
+      "discoveredAt": "2026-09-07",
+      "source": "rss"
+    },
+    {
+      "id": "parallels-creative-synthesizer-plugin-by-softube-on-sale-for-49-usd",
+      "slug": "parallels-creative-synthesizer-plugin-by-softube-on-sale-for-49-usd",
+      "name": "Parallels creative synthesizer plugin by Softube on sale for $49 USD",
+      "developer": "rekkerd.org",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/softube-parallels-creative-synthesizer-plugin-sale/",
+      "description": "Plugin Boutique is offering a 67% discount on the Parallels sleek, powerful and creative synthesizer instrument by Softube as part of a “Synth Month” sale. In Stockholm, Sweden, there’s a synth emporium like no other – a store with such vibrancy, such range, such colour, that you",
+      "discoveredAt": "2026-09-07",
+      "source": "rss"
+    },
+    {
+      "id": "native-instruments-updates-kontakt-to-v8-13-0",
+      "slug": "native-instruments-updates-kontakt-to-v8-13-0",
+      "name": "Native Instruments updates Kontakt to v8.13.0",
+      "developer": "rekkerd.org",
+      "category": "guitar",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/native-instruments-updates-kontakt-to-v8-13-0/",
+      "description": "Native Instruments has released an update to its industry-standard software sampler and virtual instrument platform. Version 8.13.0 of Kontakt brings further design improvements in preparation for more advanced features coming next, improved AI tooling for Instrument Builders, an",
+      "discoveredAt": "2026-09-07",
       "source": "rss"
     }
   ]
