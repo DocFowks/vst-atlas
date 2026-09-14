@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-09-07",
+  "updatedAt": "2026-09-14",
   "plugins": [
     {
       "id": "vital",
@@ -12890,6 +12890,636 @@
       "officialUrl": "https://rekkerd.org/native-instruments-updates-kontakt-to-v8-13-0/",
       "description": "Native Instruments has released an update to its industry-standard software sampler and virtual instrument platform. Version 8.13.0 of Kontakt brings further design improvements in preparation for more advanced features coming next, improved AI tooling for Instrument Builders, an",
       "discoveredAt": "2026-09-07",
+      "source": "rss"
+    },
+    {
+      "id": "nine-strip",
+      "slug": "nine-strip",
+      "name": "Nine Strip",
+      "developer": "blablack",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://github.com/blablack/nine-strip",
+      "description": "A VST3/AU/LV2 channel strip plugin built with JUCE, incorporating classic Airwindows processing algorithms into a comprehensive mixing tool.",
+      "discoveredAt": "2026-09-14",
+      "source": "github"
+    },
+    {
+      "id": "classicmasterlimiter-re01",
+      "slug": "classicmasterlimiter-re01",
+      "name": "Classicmasterlimiter Re01",
+      "developer": "AnClark",
+      "category": "compressor",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://github.com/AnClark/ClassicMasterLimiter-RE01",
+      "description": "Reverse-engineered rewrite of Kjaerhus Audio's Classic Master Limiter, a light-weight vintage-style limiter",
+      "discoveredAt": "2026-09-14",
+      "source": "github"
+    },
+    {
+      "id": "classicchorus-re01",
+      "slug": "classicchorus-re01",
+      "name": "Classicchorus Re01",
+      "developer": "AnClark",
+      "category": "modulation",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://github.com/AnClark/ClassicChorus-RE01",
+      "description": "Reverse-engineered rewrite of Kjaerhus Audio Classic Chorus, bringing this legendary chorus plugin to modern environments",
+      "discoveredAt": "2026-09-14",
+      "source": "github"
+    },
+    {
+      "id": "polarity-releases-polarity-glue-a-free-ssl-inspired-bus-compressor",
+      "slug": "polarity-releases-polarity-glue-a-free-ssl-inspired-bus-compressor",
+      "name": "Polarity releases Polarity-Glue, a FREE SSL-inspired bus compressor",
+      "developer": "bedroomproducersblog.com",
+      "category": "compressor",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/09/14/polarity-glue-compressor/",
+      "description": "Polarity has released Polarity-Glue, a free SSL-inspired bus compressor for macOS, Windows, and Linux. Polarity-Glue is designed for compressing drum buses, instrument groups, and complete mixes. It applies one shared gain envelope to help multiple elements move together. It’s cl",
+      "discoveredAt": "2026-09-14",
+      "source": "rss"
+    },
+    {
+      "id": "t4-digital-studio-releases-alterverb-53-a-free-windows-reverb-plugin",
+      "slug": "t4-digital-studio-releases-alterverb-53-a-free-windows-reverb-plugin",
+      "name": "t4 Digital Studio releases AlterVerb 53, a FREE Windows reverb plugin",
+      "developer": "bedroomproducersblog.com",
+      "category": "reverb",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/09/14/t4-alterverb-53/",
+      "description": "t4 Digital Studio has released AlterVerb 53, a free algorithmic reverb plugin for Windows. The developer designed AlterVerb 53 for busy and bright material that needs more space without losing definition. Drums, percussion, keyboards, and vocals are suggested starting points, tho",
+      "discoveredAt": "2026-09-14",
+      "source": "rss"
+    },
+    {
+      "id": "skr4ch-is-a-free-browser-based-waveform-designer-for-synths-and-samplers",
+      "slug": "skr4ch-is-a-free-browser-based-waveform-designer-for-synths-and-samplers",
+      "name": "SKR4CH is a FREE browser-based waveform designer for synths and samplers",
+      "developer": "bedroomproducersblog.com",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/09/13/skr4ch-waveform-designer/",
+      "description": "SKR4CH is a free browser-based tool for designing single-cycle waveforms, wavetable frame sets, and sustained samples. This is a surprisingly capable waveform editor that runs directly in your browser. It’s pretty intuitive, and you can use it to build oscillator material for com",
+      "discoveredAt": "2026-09-14",
+      "source": "rss"
+    },
+    {
+      "id": "vandeta-audio-releases-vas-reverse-reverb-a-free-tempo-synced-riser-plugin",
+      "slug": "vandeta-audio-releases-vas-reverse-reverb-a-free-tempo-synced-riser-plugin",
+      "name": "Vandeta Audio releases VAS Reverse Reverb, a FREE tempo-synced riser plugin",
+      "developer": "bedroomproducersblog.com",
+      "category": "reverb",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/09/13/vas-reverse-reverb/",
+      "description": "Vandeta Audio Software has released VAS Reverse Reverb, a free reverse reverb and riser plugin for macOS and Windows. Risers were among the first SFX I started making at the very beginning of my sound design journey. The usual method involves reversing a sound, adding reverb, ren",
+      "discoveredAt": "2026-09-14",
+      "source": "rss"
+    },
+    {
+      "id": "giveaway-win-golden-dsp-silkbrush-reverb-5-copies",
+      "slug": "giveaway-win-golden-dsp-silkbrush-reverb-5-copies",
+      "name": "GIVEAWAY: Win Golden DSP Silkbrush Reverb (5 copies)",
+      "developer": "bedroomproducersblog.com",
+      "category": "reverb",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/09/12/giveaway-golden-dsp-silkbrush-reverb/",
+      "description": "Golden DSP is giving five BPB readers a free copy of Silkbrush Reverb, a $59 ducking reverb plugin for macOS and Windows. To enter the giveaway, answer the question at the end of the article in the comments section. We will randomly select five comments and announce the winners o",
+      "discoveredAt": "2026-09-14",
+      "source": "rss"
+    },
+    {
+      "id": "wave-mastering-launches-widener-stereo-enhancement-plugin-for-29-99",
+      "slug": "wave-mastering-launches-widener-stereo-enhancement-plugin-for-29-99",
+      "name": "Wave Mastering launches WIDENER stereo enhancement plugin for $29.99",
+      "developer": "bedroomproducersblog.com",
+      "category": "mastering",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/09/12/wave-mastering-widener/",
+      "description": "Wave Mastering LTD has released WIDENER, a stereo enhancement plugin for macOS and Windows, with a $29.99 introductory price through September 30th. WIDENER is the first plugin from Andy De Rosa, a UK-based mixing and mastering engineer who has worked on thousands of tracks and s",
+      "discoveredAt": "2026-09-14",
+      "source": "rss"
+    },
+    {
+      "id": "13x-audio-releases-aurora-a-free-24-band-dynamic-eq-plugin",
+      "slug": "13x-audio-releases-aurora-a-free-24-band-dynamic-eq-plugin",
+      "name": "13X Audio releases Aurora, a FREE 24-band dynamic EQ plugin",
+      "developer": "bedroomproducersblog.com",
+      "category": "eq",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/09/12/13x-audio-aurora-eq/",
+      "description": "13X Audio has released Aurora, a free 24-band dynamic parametric equalizer plugin for macOS, Windows, and Linux. This is probably the fifth or sixth similar EQ plugin I’ve seen over the past year or so. Vibe coding is definitely making dynamic EQ plugins trivial to build right no",
+      "discoveredAt": "2026-09-14",
+      "source": "rss"
+    },
+    {
+      "id": "oxo-music-releases-oxo-steps-a-free-six-track-midi-sequencer-for-macos",
+      "slug": "oxo-music-releases-oxo-steps-a-free-six-track-midi-sequencer-for-macos",
+      "name": "OXO-Music releases OXO Steps, a FREE six-track MIDI sequencer for macOS",
+      "developer": "bedroomproducersblog.com",
+      "category": "eq",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/09/12/oxo-steps-midi-sequencer/",
+      "description": "OXO-Music has released OXO Steps, a free MIDI step sequencer and arpeggiator plugin for macOS. OXO Steps lets you enter one chord and use it to drive up to six independent sequences on separate MIDI channels. So, once you set it up, one track could follow the lowest note as a bas",
+      "discoveredAt": "2026-09-14",
+      "source": "rss"
+    },
+    {
+      "id": "giveaway-win-chimera-cinematic-presets-for-the-free-vital-synthesizer",
+      "slug": "giveaway-win-chimera-cinematic-presets-for-the-free-vital-synthesizer",
+      "name": "GIVEAWAY: Win Chimera cinematic presets for the FREE Vital synthesizer",
+      "developer": "bedroomproducersblog.com",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/09/11/chimera-giveaway/",
+      "description": "We are giving away free copies of Chimera, a cinematic preset collection for the free Vital wavetable synthesizer. We previously featured Chimera during the Flame Sound Easter giveaway, and here is another chance to add it to your sound design toolkit for free. Chimera was create",
+      "discoveredAt": "2026-09-14",
+      "source": "rss"
+    },
+    {
+      "id": "kveik-1-2-expands-its-block-based-midi-sequencer-beyond-drums",
+      "slug": "kveik-1-2-expands-its-block-based-midi-sequencer-beyond-drums",
+      "name": "KVEIK 1.2 expands its block-based MIDI sequencer beyond drums",
+      "developer": "bedroomproducersblog.com",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/09/11/kveik-midi-sequencer/",
+      "description": "Swiss developer BITLANTIS has released KVEIK 1.2, a major update to its block-based MIDI step sequencer for macOS and Windows. KVEIK started as a drum sequencer, but version 1.2 adds a lot more melodic and harmonic functionality, so you can use it to sequence basses, synths, and ",
+      "discoveredAt": "2026-09-14",
+      "source": "rss"
+    },
+    {
+      "id": "the-note-audio-releases-true-panner-spatial-imaging-plugin-for-free",
+      "slug": "the-note-audio-releases-true-panner-spatial-imaging-plugin-for-free",
+      "name": "The Note Audio releases True Panner spatial imaging plugin for FREE",
+      "developer": "bedroomproducersblog.com",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/09/11/the-note-audio-true-panner/",
+      "description": "New plugin developer The Note Audio has released True Panner, a free stereo panning and spatial imaging utility for macOS and Windows. The pan control in most DAWs changes the level sent to the left and right channels. However, and stuff like this never ceases to amaze me, our ea",
+      "discoveredAt": "2026-09-14",
+      "source": "rss"
+    },
+    {
+      "id": "amplimood-releases-gazer-fx-a-free-shoegaze-multi-effect-plugin",
+      "slug": "amplimood-releases-gazer-fx-a-free-shoegaze-multi-effect-plugin",
+      "name": "Amplimood releases Gazer FX, a FREE shoegaze multi-effect plugin",
+      "developer": "bedroomproducersblog.com",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/09/11/amplimood-gazer-fx/",
+      "description": "Amplimood has launched with Gazer FX, its first release and a free multi-effect plugin for macOS and Windows. I love using simple multi-effects that let you get some interesting combos quickly without building a long chain. This one definitely fits my workflow; it’s very easy to ",
+      "discoveredAt": "2026-09-14",
+      "source": "rss"
+    },
+    {
+      "id": "solid-state-logic-s-x-range-of-effect-plugins-on-sale-from-10-usd",
+      "slug": "solid-state-logic-s-x-range-of-effect-plugins-on-sale-from-10-usd",
+      "name": "Solid State Logic’s X range of effect plugins on sale from $10 USD!",
+      "developer": "rekkerd.org",
+      "category": "compressor",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/solid-state-logic-x-range-effect-plugins-sale/",
+      "description": "Plugin Boutique has announced Solid State Logic’s limited time X-Treme Summer Sale, offering deep discounts on classic SSL plugins for the next few days. With prices starting from only $10 USD, the promotion includes the following X-series plugins: X-Comp: Can reproduce the chara",
+      "discoveredAt": "2026-09-14",
+      "source": "rss"
+    },
+    {
+      "id": "xpand-2-virtual-instrument-by-air-music-tech-on-sale-for-29-usd",
+      "slug": "xpand-2-virtual-instrument-by-air-music-tech-on-sale-for-29-usd",
+      "name": "Xpand!2 virtual instrument by AIR Music Tech on sale for $29 USD",
+      "developer": "rekkerd.org",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/air-music-technology-pand2-virtual-instrument-on-sale/",
+      "description": "Plugin Boutique has launched an exclusive “Plugin of the Week” promotion on AIR Music Technology’s Xpand!2, offering 70% off on the popular virtual instrument for a few days only. Xpand!2 is a multitimbral workstation offering four active sound slots, or parts, per patch. Each pa",
+      "discoveredAt": "2026-09-14",
+      "source": "rss"
+    },
+    {
+      "id": "free-red-sounds-mellodyzedd-soundset-for-serum-limited-time",
+      "slug": "free-red-sounds-mellodyzedd-soundset-for-serum-limited-time",
+      "name": "FREE: Red Sounds Mellodyzedd soundset for Serum (limited time)",
+      "developer": "rekkerd.org",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/free-red-sounds-mellodyzedd-soundset-for-serum-limited-time/",
+      "description": "VST Alarm has launched an exclusive promotion on a soundset for the Serum software synthesizer by Xfer Records. Offered as a free download for the next few weeks, Mellodyzedd by Red Sounds aims to bring the sounds of Marshmello and Zedd to your productions. This genre-bending pac",
+      "discoveredAt": "2026-09-14",
+      "source": "rss"
+    },
+    {
+      "id": "shape-sounds-with-playhead-by-describing-the-mix-you-hear-in-your-head",
+      "slug": "shape-sounds-with-playhead-by-describing-the-mix-you-hear-in-your-head",
+      "name": "Shape sounds with Playhead by describing the mix you hear in your head",
+      "developer": "rekkerd.org",
+      "category": "eq",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/shape-sounds-with-playhead-by-describing-the-mix-you-hear-in-your-head/",
+      "description": "Playhead is a music production software that lets artists, producers, and engineers create custom sound Treatments simply by describing the desired effect. They can tell Playhead to “give these drums some funky vintage mojo,” “give this vocal some warmth and body without losing c",
+      "discoveredAt": "2026-09-14",
+      "source": "rss"
+    },
+    {
+      "id": "frctl-audio-updates-grn-granular-effect-to-v4-0-0-incl-new-engine",
+      "slug": "frctl-audio-updates-grn-granular-effect-to-v4-0-0-incl-new-engine",
+      "name": "FRCTL Audio updates GRN granular effect to v4.0.0, incl. new engine",
+      "developer": "rekkerd.org",
+      "category": "vocal",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/frctl-audio-updates-grn-granular-effect-to-v4-0-0-incl-new-engine/",
+      "description": "FRCTL Audio has released a major update to its effect plugin which takes the audio on a track and plays it back as a cloud of overlapping grains, with the pitch quantized to a scale, so a loop, a vocal or a field recording turns into a texture that keeps moving. A free update for",
+      "discoveredAt": "2026-09-14",
+      "source": "rss"
+    },
+    {
+      "id": "gsi-updates-piano-studio-virtual-instrument-to-v1-1-0-desktop-ios",
+      "slug": "gsi-updates-piano-studio-virtual-instrument-to-v1-1-0-desktop-ios",
+      "name": "GSi updates Piano Studio virtual instrument to v1.1.0 (Desktop & iOS)",
+      "developer": "rekkerd.org",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/gsi-updates-piano-studio-virtual-instrument-to-v1-1-0-desktop-ios/",
+      "description": "GSi has released an update to its physical modeled grand piano instrument for Windows, Mac and iOS. Version 1.1.0 of Piano Studio comes with various improvements. There are two ways to recreate the sound of a Grand Piano digitally: either using large sample sets, or using synthes",
+      "discoveredAt": "2026-09-14",
+      "source": "rss"
+    },
+    {
+      "id": "save-50-on-mcompare-mixing-mastering-reference-plugin-by-meldaproduction",
+      "slug": "save-50-on-mcompare-mixing-mastering-reference-plugin-by-meldaproduction",
+      "name": "Save 50% on MCompare mixing & mastering reference plugin by Meldaproduction",
+      "developer": "rekkerd.org",
+      "category": "mastering",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/meldaproduction-mcompare-mixing-mastering-reference-plugin-sale/",
+      "description": "As part of its Eternal Madness promotion, Meldaproduction is offering a 50% discount on its audio reference tool for mixing and mastering. MCompare compares your master to the chosen reference tracks, dry mix, different stages of your mastering chain and even different versions o",
+      "discoveredAt": "2026-09-14",
+      "source": "rss"
+    },
+    {
+      "id": "free-mey-ivy-16-voice-polysynth-with-built-in-sequencer",
+      "slug": "free-mey-ivy-16-voice-polysynth-with-built-in-sequencer",
+      "name": "FREE: Mey IVY 16-voice polysynth with built-in sequencer",
+      "developer": "rekkerd.org",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/free-mey-ivy-16-voice-polysynth-with-built-in-sequencer/",
+      "description": "MEY Audio Engineering has released a free 16-voice polysynth featuring eight sequencer tracks which each carrying a complete, independent sound sharing a set of voices, reverb, and an equalizer. Mey IVY opens with a fixed-layout panel of eight lettered cells and matching knobs th",
+      "discoveredAt": "2026-09-14",
+      "source": "rss"
+    },
+    {
+      "id": "song-cage-releases-melody-rack-midi-chord-plugin-vst3-au",
+      "slug": "song-cage-releases-melody-rack-midi-chord-plugin-vst3-au",
+      "name": "Song Cage releases Melody Rack MIDI chord plugin (VST3/AU)",
+      "developer": "rekkerd.org",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/song-cage-releases-melody-rack-midi-chord-plugin-vst3-au/",
+      "description": "Song Cage has released a MIDI effect plugin that turns a sung or played melody into notes on a grid and runs it through a chain of harmony-aware effects that all read the same underlying chords. Melody Rack makes no sound of its own. The Chords slot writes a progression from the ",
+      "discoveredAt": "2026-09-14",
+      "source": "rss"
+    },
+    {
+      "id": "save-67-on-firespacer-effect-plugin-by-firesonic",
+      "slug": "save-67-on-firespacer-effect-plugin-by-firesonic",
+      "name": "Save 67% on FireSpacer effect plugin by FireSonic",
+      "developer": "rekkerd.org",
+      "category": "eq",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/firespacer-effect-plugin-by-firesonic-sale/",
+      "description": "Plugin Boutique has launched a limited time promotion on FireSonic’s audio plugin which operates in real-time, analyzing the audio frequency content of one channel via a side-chain and applying an intelligent filter to subtract those frequencies from another track. FireSpacer ens",
+      "discoveredAt": "2026-09-14",
+      "source": "rss"
+    },
+    {
+      "id": "venomode-updates-pivot-tilt-equalizer-plugin-to-v1-7-0",
+      "slug": "venomode-updates-pivot-tilt-equalizer-plugin-to-v1-7-0",
+      "name": "Venomode updates Pivot tilt equalizer plugin to v1.7.0",
+      "developer": "rekkerd.org",
+      "category": "eq",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/venomode-updates-pivot-tilt-equalizer-plugin-to-v1-7-0/",
+      "description": "Venomode has announced an update to its audio plugin which lets you quickly rebalance the lows and highs in your mix with a fully adjustable tilt curve. Version 1.7.0 of Pivot brings back a redesigned take on the classic ‘vintage’ look from the original version. The new interface",
+      "discoveredAt": "2026-09-14",
+      "source": "rss"
+    },
+    {
+      "id": "mharmonizermb-effect-plugin-by-meldaproduction-on-sale-at-50-off",
+      "slug": "mharmonizermb-effect-plugin-by-meldaproduction-on-sale-at-50-off",
+      "name": "MHarmonizerMB effect plugin by Meldaproduction on sale at 50% OFF",
+      "developer": "rekkerd.org",
+      "category": "eq",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/meldaproduction-mharmonizermb-pitch-shifter-multi-voice-hamonizer-effect-plugin-sale/",
+      "description": "Meldaproduction is offering a discount on the MHarmonizerMB pitch shifting and multi-voice harmonizing plugin that lets you play like many musicians at once. MHarmonizerMB features multiple harmonizing algorithms, up to 120 voices, formant adjustment, strumming, ADSR envelope, an",
+      "discoveredAt": "2026-09-14",
+      "source": "rss"
+    },
+    {
+      "id": "darkpalace-studio-updates-piranha-multiband-waveshaper-clipper-to-v1-1-0",
+      "slug": "darkpalace-studio-updates-piranha-multiband-waveshaper-clipper-to-v1-1-0",
+      "name": "Darkpalace Studio updates Piranha multiband waveshaper & clipper to v1.1.0",
+      "developer": "rekkerd.org",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/darkpalace-studio-updates-piranha-multiband-waveshaper-clipper-to-v1-1-0/",
+      "description": "Darkpalace Studio has announced an update to its multi-band waveshaper effect plugin for Windows, macOS and Linux. Version 1.1.0 of Piranha comes with 28 new waveshapers in new categories, bringing more sound design options to the plugin. New waveshapers are éverywhere inside PIR",
+      "discoveredAt": "2026-09-14",
+      "source": "rss"
+    },
+    {
+      "id": "initial-audio-updates-difro-melody-ai-plugin-to-v1-1-0-incl-free-edition",
+      "slug": "initial-audio-updates-difro-melody-ai-plugin-to-v1-1-0-incl-free-edition",
+      "name": "Initial Audio updates Difro melody AI plugin to v1.1.0 (incl. free edition)",
+      "developer": "rekkerd.org",
+      "category": "piano",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/initial-audio-updates-difro-melody-ai-plugin-to-v1-1-0-incl-free-edition/",
+      "description": "Initial Audio has released an update to its standalone application which is designed to create unlimited new melodies. Version 1.1 of Difro comes with multiple generations in one click, a SourceLab Player UI with macros, bookmarks for keepers, and a faster prompt-model workflow. ",
+      "discoveredAt": "2026-09-14",
+      "source": "rss"
+    },
+    {
+      "id": "gazillion-industries-releases-beefy-saturation-loudness-plugin-free-drugs-bus",
+      "slug": "gazillion-industries-releases-beefy-saturation-loudness-plugin-free-drugs-bus",
+      "name": "Gazillion Industries releases Beefy saturation/loudness plugin + FREE Drugs bus",
+      "developer": "rekkerd.org",
+      "category": "compressor",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/gazillion-industries-releases-beefy-saturation-loudness-plugin-free-drugs-bus-compressor/",
+      "description": "Gazillion Industries has announced the release of a saturation and loudness effect plugin designed to make sounds thicker, punchier and more up front. Suitable for everything from filling out a thin source to pushing it into overtly saturated territory, Beefy is aimed particularl",
+      "discoveredAt": "2026-09-14",
       "source": "rss"
     }
   ]
