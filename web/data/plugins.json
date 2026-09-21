@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-09-14",
+  "updatedAt": "2026-09-21",
   "plugins": [
     {
       "id": "vital",
@@ -13520,6 +13520,552 @@
       "officialUrl": "https://rekkerd.org/gazillion-industries-releases-beefy-saturation-loudness-plugin-free-drugs-bus-compressor/",
       "description": "Gazillion Industries has announced the release of a saturation and loudness effect plugin designed to make sounds thicker, punchier and more up front. Suitable for everything from filling out a thin source to pushing it into overtly saturated territory, Beefy is aimed particularl",
       "discoveredAt": "2026-09-14",
+      "source": "rss"
+    },
+    {
+      "id": "hakuna-audio-releases-free-hakunizer-one-knob-enhancer-plugin",
+      "slug": "hakuna-audio-releases-free-hakunizer-one-knob-enhancer-plugin",
+      "name": "Hakuna Audio releases FREE Hakunizer one-knob enhancer plugin",
+      "developer": "bedroomproducersblog.com",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/09/20/hakuna-audio-hakunizer/",
+      "description": "Hakuna Audio has released Hakunizer, a free one-knob enhancer plugin for macOS and Windows. The workflow immediately reminded me of Image-Line’s old Soundgoodizer. Just like in FL Studio’s old multiband sound enhancer, you choose one of four programs labeled A, B, C, and D, then ",
+      "discoveredAt": "2026-09-21",
+      "source": "rss"
+    },
+    {
+      "id": "modeaudio-quiet-piano-ambient-loops-cinematic-upright-piano-samples",
+      "slug": "modeaudio-quiet-piano-ambient-loops-cinematic-upright-piano-samples",
+      "name": "ModeAudio Quiet Piano Ambient Loops: Cinematic upright piano samples",
+      "developer": "bedroomproducersblog.com",
+      "category": "loop_pack",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/09/20/modeaudio-quiet-piano-ambient-loops/",
+      "description": "ModeAudio has released the Quiet Piano Ambient Loops, a collection of 833MB worth of royalty-free music loops and MIDI.  The piano is arguably the most versatile instrument; a single performance can be percussive, rhythmic, harmonic, and melodic all at once, with as much polyphon",
+      "discoveredAt": "2026-09-21",
+      "source": "rss"
+    },
+    {
+      "id": "get-safari-audio-time-machine-free-in-ujam-collaboration",
+      "slug": "get-safari-audio-time-machine-free-in-ujam-collaboration",
+      "name": "Get Safari Audio Time Machine FREE in UJAM collaboration",
+      "developer": "bedroomproducersblog.com",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/09/20/safari-audio-time-machine-free/",
+      "description": "Safari Audio and UJAM have teamed up to give Time Machine away for free to UJAM users for a limited time. The vintage character plugin normally costs $49, and Safari Audio has not published an expiry date for the collaboration offer, so it is probably best to claim it sooner rath",
+      "discoveredAt": "2026-09-21",
+      "source": "rss"
+    },
+    {
+      "id": "get-unitedplugins-firemaximizer-free-until-october-18",
+      "slug": "get-unitedplugins-firemaximizer-free-until-october-18",
+      "name": "Get UnitedPlugins FireMaximizer FREE until October 18",
+      "developer": "bedroomproducersblog.com",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/09/19/unitedplugins-firemaximizer-free/",
+      "description": "UnitedPlugins is offering FireMaximizer for free until October 18, 2026, as part of a collaboration with the Japanese シユウの作曲・DTM講座 channel. Add the plugin to your cart, then enter the coupon code SiyuFMX100 at checkout to reduce the price to zero. FireMaximizer is currently liste",
+      "discoveredAt": "2026-09-21",
+      "source": "rss"
+    },
+    {
+      "id": "almudio-3d-panner-adds-aax-and-standalone-support-plus-50-bpb-discount",
+      "slug": "almudio-3d-panner-adds-aax-and-standalone-support-plus-50-bpb-discount",
+      "name": "Almudio 3D Panner adds AAX and standalone support plus 50% BPB discount",
+      "developer": "bedroomproducersblog.com",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/09/19/almudio-3d-panner-deal/",
+      "description": "Almudio has released version 2.0.3 of 3D Panner, adding AAX support and a standalone application to the binaural spatial audio tool for macOS and Windows. BPB readers can use the code BPB50 to get 50% off the usual $29.99 price. The code is limited to the first 50 buyers. We feat",
+      "discoveredAt": "2026-09-21",
+      "source": "rss"
+    },
+    {
+      "id": "orph-releases-plush-a-free-exciter-and-loudness-plugin",
+      "slug": "orph-releases-plush-a-free-exciter-and-loudness-plugin",
+      "name": "orph releases PLUSH, a FREE exciter and loudness plugin",
+      "developer": "bedroomproducersblog.com",
+      "category": "mastering",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/09/19/orph-plush/",
+      "description": "Developer orph has released PLUSH, a free brilliance enhancer and loudness plugin for macOS and Windows. PLUSH is designed as a compact finishing processor for the end of a mixing or mastering chain. It combines two processing stages, adding brightness through the Brilliance sect",
+      "discoveredAt": "2026-09-21",
+      "source": "rss"
+    },
+    {
+      "id": "two-legs-five-arms-is-a-free-generative-drum-machine-for-macos",
+      "slug": "two-legs-five-arms-is-a-free-generative-drum-machine-for-macos",
+      "name": "Two Legs, Five Arms is a FREE generative drum machine for macOS",
+      "developer": "bedroomproducersblog.com",
+      "category": "drums",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/09/18/two-legs-five-arms/",
+      "description": "François Pé has released Two Legs, Five Arms, a free generative drum machine and AU MIDI effect for macOS. We recently featured the developer’s free Euclid3an Arp, which builds polyrhythmic arpeggios without making you program every note manually. Two Legs, Five Arms applies that",
+      "discoveredAt": "2026-09-21",
+      "source": "rss"
+    },
+    {
+      "id": "playhead-builds-custom-effects-chains-from-your-sound-descriptions",
+      "slug": "playhead-builds-custom-effects-chains-from-your-sound-descriptions",
+      "name": "Playhead builds custom effects chains from your sound descriptions",
+      "developer": "bedroomproducersblog.com",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/09/18/playhead-custom-effects/",
+      "description": "Playhead is a new music production tool that turns descriptions of a sound into editable effect chains in your DAW. It is available for macOS, with a free two-week trial. Sometimes you know exactly what a track needs, but not the right combination of effects needed to get there. ",
+      "discoveredAt": "2026-09-21",
+      "source": "rss"
+    },
+    {
+      "id": "azpex-audio-releases-regent-free-clipper-with-adaa-and-parallel-processing",
+      "slug": "azpex-audio-releases-regent-free-clipper-with-adaa-and-parallel-processing",
+      "name": "AZPEX Audio releases REGENT FREE clipper with ADAA and parallel processing",
+      "developer": "bedroomproducersblog.com",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/09/18/azpex-audio-regent-clipper/",
+      "description": "AZPEX Audio has released REGENT, a free clipper plugin for macOS and Windows. I still find it fascinating how many free clippers there are. The number is probably well into the hundreds by now. You can cut through the noise with our recently updated free clipper roundup, which fe",
+      "discoveredAt": "2026-09-21",
+      "source": "rss"
+    },
+    {
+      "id": "riverflux-audio-releases-phixer-a-free-phase-correction-plugin",
+      "slug": "riverflux-audio-releases-phixer-a-free-phase-correction-plugin",
+      "name": "RiverFlux Audio releases PHIXER, a FREE phase correction plugin",
+      "developer": "bedroomproducersblog.com",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/09/18/riverflux-phixer/",
+      "description": "RiverFlux Audio has released PHIXER, a free phase correction plugin for macOS, Windows, and Linux. PHIXER is designed for stereo basses, synths, and full mixes that lose weight when summed to mono. It is available through Gumroad at a name-your-price rate, with €0 accepted. We ha",
+      "discoveredAt": "2026-09-21",
+      "source": "rss"
+    },
+    {
+      "id": "west-highland-sound-releases-cinematic-wineglasses-a-free-wine-glass-library-fo",
+      "slug": "west-highland-sound-releases-cinematic-wineglasses-a-free-wine-glass-library-fo",
+      "name": "West Highland Sound releases Cinematic Wineglasses, a FREE wine glass library fo",
+      "developer": "bedroomproducersblog.com",
+      "category": "eq",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/09/17/west-highland-cinematic-wineglasses/",
+      "description": "Cinematic Wineglasses from developer West Highland Sound is a free wine glass library for Kontakt. The library requires the full version of Kontakt 6.8 or later and isn’t compatible with the free Kontakt Player. Composers often look to the acoustic resonance of natural or manufac",
+      "discoveredAt": "2026-09-21",
+      "source": "rss"
+    },
+    {
+      "id": "lunacy-launches-nova-platform-with-five-free-virtual-instruments",
+      "slug": "lunacy-launches-nova-platform-with-five-free-virtual-instruments",
+      "name": "Lunacy launches NOVA platform with five FREE virtual instruments",
+      "developer": "bedroomproducersblog.com",
+      "category": "bundle",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/09/17/lunacy-nova-free-instruments/",
+      "description": "Lunacy has launched NOVA, a new instrument platform and marketplace for macOS and Windows, with a free host plugin and five free virtual instruments. The basic idea is somewhat similar to what Spitfire Audio LABS used to represent. You install one free host in your DAW and access",
+      "discoveredAt": "2026-09-21",
+      "source": "rss"
+    },
+    {
+      "id": "initial-audio-updates-difro-melody-generator-software-to-v1-2-0",
+      "slug": "initial-audio-updates-difro-melody-generator-software-to-v1-2-0",
+      "name": "Initial Audio updates Difro melody generator software to v1.2.0",
+      "developer": "rekkerd.org",
+      "category": "piano",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/initial-audio-updates-difro-melody-generator-software-to-v1-2-0/",
+      "description": "Initial Audio has announced an update to its AI-powered melody generator for Windows and Mac. Version 1.2.0 of Difro comes with Gate, Arp, and Rhythm as post-generation modifiers, a piano roll that finally behaves like a DAW, and MIDI files that name themselves. Play live into th",
+      "discoveredAt": "2026-09-21",
+      "source": "rss"
+    },
+    {
+      "id": "save-up-to-50-on-ssl-autoseries-plugins-by-solid-state-logic",
+      "slug": "save-up-to-50-on-ssl-autoseries-plugins-by-solid-state-logic",
+      "name": "Save up to 50% on SSL autoSeries plugins by Solid State Logic",
+      "developer": "rekkerd.org",
+      "category": "eq",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/ssl-autoseries-plugin-bundle-by-solid-state-logic-on-sale/",
+      "description": "Plugin Boutique is offering an exclusive discount on a bundle of Solid State Logic’s audio plugins which pair the legendary analog character of the SSL 4000 console with sonible’s industry-leading AI‑assisted audio analysis. Comprising the autoBUS, autoDYN and autoEQ plugins (VST",
+      "discoveredAt": "2026-09-21",
+      "source": "rss"
+    },
+    {
+      "id": "free-punch-monkey-and-width-monkey-effect-plugins-by-knobmonkey",
+      "slug": "free-punch-monkey-and-width-monkey-effect-plugins-by-knobmonkey",
+      "name": "FREE: Punch Monkey and Width Monkey effect plugins by Knobmonkey",
+      "developer": "rekkerd.org",
+      "category": "compressor",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/free-punch-monkey-and-width-monkey-effect-plugins-by-knobmonkey/",
+      "description": "Knobmonkey has released two free, zero-latency Windows VST3 utilities: a thresholdless transient shaper and a Mid/Side stereo width tool. Punch Monkey shapes attack and body without thresholds, ratios, or compressor-style setup, using linked-stereo detection and three detector-ti",
+      "discoveredAt": "2026-09-21",
+      "source": "rss"
+    },
+    {
+      "id": "flash-sale-save-90-on-aurora-ambient-chords-by-samplescience",
+      "slug": "flash-sale-save-90-on-aurora-ambient-chords-by-samplescience",
+      "name": "Flash Sale: Save 90% on Aurora Ambient Chords by SampleScience",
+      "developer": "rekkerd.org",
+      "category": "guitar",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/flash-sale-aurora-ambient-chords-by-samplescience/",
+      "description": "SampleScience has announced a 24-hour flash sale on its virtual instrument designed for drum and bass, jungle, ambient, new age, and liquid drum and bass music production. offered at a 90% discount, Aurora Ambient Chords features 100 ambient chord pads. It is amazing how a single",
+      "discoveredAt": "2026-09-21",
+      "source": "rss"
+    },
+    {
+      "id": "intrect-releases-de-artifact-ai-generated-music-cleanup-plugin",
+      "slug": "intrect-releases-de-artifact-ai-generated-music-cleanup-plugin",
+      "name": "Intrect releases de-artifact AI-generated music cleanup plugin",
+      "developer": "rekkerd.org",
+      "category": "eq",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/intrect-releases-de-artifact-ai-generated-music-cleanup-plugin/",
+      "description": "Intrect has released a master bus plugin built to remove RVQ ghosting, codec residue, and high-frequency aliasing from full mixes generated by tools like Suno, Udio, Stable Audio, MusicGen, and Riffusion, or pulled from separator tools such as htdemucs and Spleeter. de-artifact r",
+      "discoveredAt": "2026-09-21",
+      "source": "rss"
+    },
+    {
+      "id": "santacruzeq6-effect-plugin-by-maat-on-sale-for-39-usd",
+      "slug": "santacruzeq6-effect-plugin-by-maat-on-sale-for-39-usd",
+      "name": "SantaCruzEQ6 effect plugin by MAAT on sale for $39 USD",
+      "developer": "rekkerd.org",
+      "category": "eq",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/antacruzeq6-effect-plugin-by-maat-on-sale/",
+      "description": "Audio Plugin Deals has launched an exclusive promotion on MAAT’s minimum phase equalizer effect plugin based on thEQblue. SantaCruzEQ6 is offered at an 80% discount for the next two weeks. Choosing between surgical digital EQs and character-rich analog models often means compromi",
+      "discoveredAt": "2026-09-21",
+      "source": "rss"
+    },
+    {
+      "id": "yurt-rock-releases-decade-drum-sound-effect-plugin",
+      "slug": "yurt-rock-releases-decade-drum-sound-effect-plugin",
+      "name": "Yurt Rock releases Decade drum sound effect plugin",
+      "developer": "rekkerd.org",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/yurt-rock-releases-decade-drum-sound-effect-plugin/",
+      "description": "Yurt Rock has released a new audio plugin which puts eight decades of drum sound on a single timeline. Move the puck from 1950 to now and the whole chain follows — the console, the room, and the format the record was heard on. This isn’t a preset browser with era names on it. The",
+      "discoveredAt": "2026-09-21",
+      "source": "rss"
+    },
+    {
+      "id": "reveal-sound-autumn-sale-save-60-on-spire-synthesizer-and-sound-packs",
+      "slug": "reveal-sound-autumn-sale-save-60-on-spire-synthesizer-and-sound-packs",
+      "name": "Reveal Sound Autumn Sale: Save 60% on Spire synthesizer and sound packs",
+      "developer": "rekkerd.org",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/reveal-sound-autumn-sale-spire-synthesizer-and-sound-packs/",
+      "description": "Reveal Sound has launched its annual Autumn Sale, offering a 50% discount on the popular Spire synthesizer instrument for the next few days. Spire is a software polyphonic synthesizer that combines powerful sound engine modulation, flexible architecture and a graphical interface ",
+      "discoveredAt": "2026-09-21",
+      "source": "rss"
+    },
+    {
+      "id": "sintelab-releases-xf-comp-smart-compression-assistant",
+      "slug": "sintelab-releases-xf-comp-smart-compression-assistant",
+      "name": "Sintelab releases XF Comp smart compression assistant",
+      "developer": "rekkerd.org",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/sintelab-releases-xf-comp-smart-compression-assistant/",
+      "description": "Sintelab has announced the release of a free VST3 plugin for Windows that is designed to recommend compression settings for your audio. XF Comp is an intelligent compression assistant that analyzes an audio file and suggests starting values for Threshold, Ratio, Attack, Release a",
+      "discoveredAt": "2026-09-21",
+      "source": "rss"
+    },
+    {
+      "id": "avalanche-tones-releases-noise-suite-multi-effect-plugin-for-guitar",
+      "slug": "avalanche-tones-releases-noise-suite-multi-effect-plugin-for-guitar",
+      "name": "Avalanche Tones releases Noise Suite multi-effect plugin for guitar",
+      "developer": "rekkerd.org",
+      "category": "bundle",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/avalanche-tones-releases-noise-suite-multi-effect-plugin-for-guitar/",
+      "description": "Following its debut of Chainsaw Suite, independent audio developer Avalanche Tones has officially released its second guitar plugin tool. Engineered specifically for metalcore, djent, and thall production, Noise Suite gives producers and guitarists a dedicated workspace for creat",
+      "discoveredAt": "2026-09-21",
+      "source": "rss"
+    },
+    {
+      "id": "free-wind-gusts-sfx-library-at-a-sound-effect-limited-time",
+      "slug": "free-wind-gusts-sfx-library-at-a-sound-effect-limited-time",
+      "name": "FREE: Wind Gusts sfx library at A Sound Effect (limited time)",
+      "developer": "rekkerd.org",
+      "category": "guitar",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/free-wind-gusts-sfx-library-at-a-sound-effect-limited-time/",
+      "description": "Indie sound community site and marketplace A Sound Effect has announced that it is giving away the popular Wind Gusts (regular $35 USD) sound effects library for free for a very limited time. Wind Gusts by indie sound creator Krampfstadt Studio features the sounds of a violent st",
+      "discoveredAt": "2026-09-21",
+      "source": "rss"
+    },
+    {
+      "id": "zenology-pro-synthesizer-by-roland-on-sale-for-99-usd",
+      "slug": "zenology-pro-synthesizer-by-roland-on-sale-for-99-usd",
+      "name": "ZENOLOGY PRO synthesizer by Roland on sale for $99 USD",
+      "developer": "rekkerd.org",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/zenology-pro-synthesizer-by-roland-sale/",
+      "description": "Plugin Boutique has launched a limited time sale on Roland’s expandable software synthesizer ZENOLOGY PRO, offering a 56% discount for the next few weeks. For decades, Roland sounds have had a massive influence on music. Our legendary instruments have defined genres like techno, ",
+      "discoveredAt": "2026-09-21",
+      "source": "rss"
+    },
+    {
+      "id": "save-33-on-ohmicide-s-ohmboyz-infinity-plugins-by-ohmforce",
+      "slug": "save-33-on-ohmicide-s-ohmboyz-infinity-plugins-by-ohmforce",
+      "name": "Save 33% on Ohmicide-S & Ohmboyz Infinity plugins by Ohmforce",
+      "developer": "rekkerd.org",
+      "category": "delay",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/ohmicide-s-multiband-distortion-ohmboyz-infinity-advanced-delayplugins-by-ohmforce-on-sale/",
+      "description": "Plugin Boutique has launched an exclusive limited time promotion on a bundle of Ohmforce’s multiband distortion and advanced delay effect plugins for Windows and macOS (VST/VST3, AU and AAX). Ohmboyz Infinity is a multi-FX delay plugin designed for creative sound design and modul",
+      "discoveredAt": "2026-09-21",
+      "source": "rss"
+    },
+    {
+      "id": "sonnox-producer-power-bundle-oxford-inflator-limiter-on-sale-for-59-usd",
+      "slug": "sonnox-producer-power-bundle-oxford-inflator-limiter-on-sale-for-59-usd",
+      "name": "Sonnox Producer Power Bundle (Oxford Inflator & Limiter) on sale for $59 USD",
+      "developer": "rekkerd.org",
+      "category": "compressor",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/sonnox-producer-power-bundle-oxford-inflator-limiter-sale/",
+      "description": "Plugin Boutique has launched a limited time sale on the exclusive Sonnox Producer Power Bundle, offering an 85% discount for the next few weeks. A professional loudness and enhancement bundle combining dynamic-preserving saturation (Oxford Inflator) with transparent peak limiting",
+      "discoveredAt": "2026-09-21",
       "source": "rss"
     }
   ]
