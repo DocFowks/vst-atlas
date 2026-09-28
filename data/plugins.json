@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-09-21",
+  "updatedAt": "2026-09-28",
   "plugins": [
     {
       "id": "vital",
@@ -14066,6 +14066,657 @@
       "officialUrl": "https://rekkerd.org/sonnox-producer-power-bundle-oxford-inflator-limiter-sale/",
       "description": "Plugin Boutique has launched a limited time sale on the exclusive Sonnox Producer Power Bundle, offering an 85% discount for the next few weeks. A professional loudness and enhancement bundle combining dynamic-preserving saturation (Oxford Inflator) with transparent peak limiting",
       "discoveredAt": "2026-09-21",
+      "source": "rss"
+    },
+    {
+      "id": "neuralnote",
+      "slug": "neuralnote",
+      "name": "Neuralnote",
+      "developer": "DamRsn",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://github.com/DamRsn/NeuralNote",
+      "description": "Audio Plugin for Audio to MIDI transcription using deep learning.",
+      "discoveredAt": "2026-09-28",
+      "source": "github"
+    },
+    {
+      "id": "soemdsp-sandbox-audioplugin",
+      "slug": "soemdsp-sandbox-audioplugin",
+      "name": "Soemdsp Sandbox Audioplugin",
+      "developer": "soundemote",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://github.com/soundemote/soemdsp-sandbox-audioplugin",
+      "description": "audio plugin vst and clap version of soemdsp sandbox",
+      "discoveredAt": "2026-09-28",
+      "source": "github"
+    },
+    {
+      "id": "mix-buddy",
+      "slug": "mix-buddy",
+      "name": "Mix Buddy",
+      "developer": "joegasewicz",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://github.com/joegasewicz/mix-buddy",
+      "description": "Mix Buddy is a VST audio plugin that helps producers analyze tracks and get AI-assisted mix feedback directly inside a DAW.",
+      "discoveredAt": "2026-09-28",
+      "source": "github"
+    },
+    {
+      "id": "mpe-emulator",
+      "slug": "mpe-emulator",
+      "name": "Mpe Emulator",
+      "developer": "attilammagyar",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://github.com/attilammagyar/mpe-emulator",
+      "description": "A VST® plugin for enhancing non-MPE MIDI streams with MPE (MIDI Polyphonic Expression) capabilities based on user-defined mappings and rules.",
+      "discoveredAt": "2026-09-28",
+      "source": "github"
+    },
+    {
+      "id": "get-safari-audio-camel-strip-free-exclusively-at-bpb",
+      "slug": "get-safari-audio-camel-strip-free-exclusively-at-bpb",
+      "name": "Get Safari Audio Camel Strip FREE exclusively at BPB",
+      "developer": "bedroomproducersblog.com",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/09/28/safari-audio-camel-strip-free/",
+      "description": "Safari Audio is giving away Camel Strip, its $49 vintage-inspired channel strip plugin, exclusively to BPB readers. Add Camel Strip to your cart on the official product page and enter the code BPB100OFF at checkout. It will reduce the price from $49 to $0. The promo ends on Octob",
+      "discoveredAt": "2026-09-28",
+      "source": "rss"
+    },
+    {
+      "id": "libelula-audio-releases-ultiverb-a-feature-packed-free-reverb-for-windows",
+      "slug": "libelula-audio-releases-ultiverb-a-feature-packed-free-reverb-for-windows",
+      "name": "Libelula Audio releases Ultiverb, a feature-packed FREE reverb for Windows",
+      "developer": "bedroomproducersblog.com",
+      "category": "reverb",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/09/27/libelula-audio-ultiverb/",
+      "description": "Libelula Audio has released Ultiverb, a free algorithmic reverb plugin for Windows. Free reverb plugins are hardly rare these days, and our free reverb roundup already lists the best ones. Ultiverb is still worth covering, though, because it packs an unusually broad range of soun",
+      "discoveredAt": "2026-09-28",
+      "source": "rss"
+    },
+    {
+      "id": "noiseash-heater-v2-129-value-is-free-for-a-limited-time",
+      "slug": "noiseash-heater-v2-129-value-is-free-for-a-limited-time",
+      "name": "NoiseAsh Heater V2 ($129 value) is FREE for a limited time",
+      "developer": "bedroomproducersblog.com",
+      "category": "distortion",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/09/27/noiseash-heater-free/",
+      "description": "Audio Plugin Deals is offering NoiseAsh Heater V2, an analog-style saturation and tone-shaping plugin for macOS and Windows, as a free download for a limited time. Heater V2 normally has a $129 list price, although NoiseAsh currently sells it for $39.90. The Audio Plugin Deals gi",
+      "discoveredAt": "2026-09-28",
+      "source": "rss"
+    },
+    {
+      "id": "suno-confirms-v6-is-trained-on-user-generated-interactions-as-new-copyright-laws",
+      "slug": "suno-confirms-v6-is-trained-on-user-generated-interactions-as-new-copyright-laws",
+      "name": "Suno confirms v6 is trained on user-generated interactions as new copyright laws",
+      "developer": "bedroomproducersblog.com",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/09/26/suno-lawsuit/",
+      "description": "Suno recently released v6 of its AI music generation models, marking a new beginning for the platform and a step out of the shadows of its legally murky past. Well, that was the plan. The trouble is, the company faced new lawsuits from Sony and UMG barely a week after releasing S",
+      "discoveredAt": "2026-09-28",
+      "source": "rss"
+    },
+    {
+      "id": "rue-blose-releases-oppressor-a-free-spectral-sidechain-compressor",
+      "slug": "rue-blose-releases-oppressor-a-free-spectral-sidechain-compressor",
+      "name": "Rue Blose releases Oppressor, a FREE spectral sidechain compressor",
+      "developer": "bedroomproducersblog.com",
+      "category": "compressor",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/09/25/rue-blose-oppressor/",
+      "description": "Rue Blose has released Oppressor, a free multiband and spectral sidechain compressor for macOS and Windows. This free compressor was designed specifically to help you create space between competing sounds without turning down the entire target track. You can place it on the sound",
+      "discoveredAt": "2026-09-28",
+      "source": "rss"
+    },
+    {
+      "id": "ybk-instrument-player-for-windows-is-free-until-october-19th",
+      "slug": "ybk-instrument-player-for-windows-is-free-until-october-19th",
+      "name": "YBK Instrument Player for Windows is FREE until October 19th",
+      "developer": "bedroomproducersblog.com",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/09/25/ybk-instrument-player/",
+      "description": "YBK Audio is offering Instrument Player, a standalone VST3 instrument host for Windows, free until October 19th. Instrument Player normally costs $10 and strips away the timeline, mixer, and track setup you’d normally find in a full DAW. With this one, you simply open it, choose ",
+      "discoveredAt": "2026-09-28",
+      "source": "rss"
+    },
+    {
+      "id": "apollo-view-releases-scope-a-free-oscilloscope-plugin-for-mac-and-windows",
+      "slug": "apollo-view-releases-scope-a-free-oscilloscope-plugin-for-mac-and-windows",
+      "name": "Apollo View releases Scope, a FREE oscilloscope plugin for Mac and Windows",
+      "developer": "bedroomproducersblog.com",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/09/25/apollo-view-scope/",
+      "description": "Apollo View Modular has released Scope 1.2, a free beat-synced oscilloscope plugin for macOS and Windows. The latest update makes this one worth a look for Windows users, as Scope was previously available only on macOS. Version 1.2 also adds AAX and CLAP formats, along with featu",
+      "discoveredAt": "2026-09-28",
+      "source": "rss"
+    },
+    {
+      "id": "thenatan-gives-away-dial-radio-effect-free-for-72-hours",
+      "slug": "thenatan-gives-away-dial-radio-effect-free-for-72-hours",
+      "name": "Thenatan gives away DIAL radio effect FREE for 72 hours",
+      "developer": "bedroomproducersblog.com",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/09/25/thenatan-dial-radio-free/",
+      "description": "Thenatan is giving away DIAL, a new radio signal designer plugin for macOS and Windows, free for 72 hours. The plugin normally costs $50, but you can currently claim it for $0 with no coupon code. Thenatan does not show an exact cutoff time on the official product page, so I woul",
+      "discoveredAt": "2026-09-28",
+      "source": "rss"
+    },
+    {
+      "id": "ilio-releases-10-free-sines-presets-for-omnisphere-3",
+      "slug": "ilio-releases-10-free-sines-presets-for-omnisphere-3",
+      "name": "ILIO releases 10 FREE SINES presets for Omnisphere 3",
+      "developer": "bedroomproducersblog.com",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/09/25/ilio-sines-presets/",
+      "description": "ILIO and LifeStyleDidIt have released the SINES Demo Pack, a free collection of ten presets for Spectrasonics Omnisphere 3. The full version of Omnisphere 3 is required. Obviously, there is no free Omnisphere player (I wish!), so this offer is for producers who already own Spectr",
+      "discoveredAt": "2026-09-28",
+      "source": "rss"
+    },
+    {
+      "id": "soundpaint-rebuilt-one-free-sampler-to-rule-them-all",
+      "slug": "soundpaint-rebuilt-one-free-sampler-to-rule-them-all",
+      "name": "Soundpaint rebuilt: One FREE sampler to rule them all?",
+      "developer": "bedroomproducersblog.com",
+      "category": "guitar",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/09/25/soundpaint-5-update/",
+      "description": "Soundpaint came onto the scene back in 2021 as an ambitious project with a lot of potential. The free music instrument technology ticked a lot of boxes from the get-go, not least because it comes from the people behind 8dio, the masters of deep sampling. From the start, it was cl",
+      "discoveredAt": "2026-09-28",
+      "source": "rss"
+    },
+    {
+      "id": "dawception-is-a-free-mini-daw-that-runs-inside-your-daw",
+      "slug": "dawception-is-a-free-mini-daw-that-runs-inside-your-daw",
+      "name": "DAWception is a FREE mini DAW that runs inside your DAW",
+      "developer": "bedroomproducersblog.com",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/09/24/dawception-mini-daw/",
+      "description": "JohnmanJohnston has released DAWception, a free and open-source mini DAW that runs as a VST3 plugin inside another digital audio workstation. The developer created it as a pretty clever workaround for the track limits in lower-tier software such as Ableton Live Lite, which allows",
+      "discoveredAt": "2026-09-28",
+      "source": "rss"
+    },
+    {
+      "id": "nclear-releases-gluon-a-free-bus-compressor-with-multi-instance-control",
+      "slug": "nclear-releases-gluon-a-free-bus-compressor-with-multi-instance-control",
+      "name": "nClear releases Gluon, a FREE bus compressor with multi-instance control",
+      "developer": "bedroomproducersblog.com",
+      "category": "compressor",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/09/24/nclear-gluon-bus-compressor/",
+      "description": "nClear Audio has released Gluon, a free bus compressor for macOS, Windows, and Linux. You may remember nClear Audio from the free VocRide and Sibalance vocal plugins, which we featured earlier this year. Their new release is quite different, though, and I’m surprised that it’s av",
+      "discoveredAt": "2026-09-28",
+      "source": "rss"
+    },
+    {
+      "id": "frctl-audio-updates-dlay-to-v1-3-0-with-modulation-band-ripple-motion",
+      "slug": "frctl-audio-updates-dlay-to-v1-3-0-with-modulation-band-ripple-motion",
+      "name": "FRCTL Audio updates DLAY to v1.3.0 with modulation band & ripple motion",
+      "developer": "rekkerd.org",
+      "category": "delay",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/frctl-audio-updates-dlay-to-v1-3-0-with-modulation-band-ripple-motion/",
+      "description": "FRCTL Audio has updated its multi-tap delay effect for Windows, macOS and Linux (VST3, AU and CLAP). Version 1.3.0 of the plugin adds motion to what was previously a static, drawn echo pattern. DLAY shows every echo as a draggable, shapeable line on a timeline, up to 64 taps, eac",
+      "discoveredAt": "2026-09-28",
+      "source": "rss"
+    },
+    {
+      "id": "unusable-engineering-releases-residual-breakdown-distortion-plugin",
+      "slug": "unusable-engineering-releases-residual-breakdown-distortion-plugin",
+      "name": "Unusable Engineering releases Residual Breakdown distortion plugin",
+      "developer": "rekkerd.org",
+      "category": "eq",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/unusable-engineering-releases-residual-breakdown-distortion-plugin/",
+      "description": "Unusable Engineering has introduced a transistor-inspired fuzz effect plugin built around interacting circuit controls, unstable feedback and an eight-slot sequencer. Residual Breakdown moves from dense saturation and hard clipping to gated sputter and sustained self-oscillation,",
+      "discoveredAt": "2026-09-28",
+      "source": "rss"
+    },
+    {
+      "id": "save-up-to-50-on-korg-collection-6-plugin-bundle-upgrades-crossgrades",
+      "slug": "save-up-to-50-on-korg-collection-6-plugin-bundle-upgrades-crossgrades",
+      "name": "Save up to 50% on KORG Collection 6 plugin bundle (upgrades/crossgrades)",
+      "developer": "rekkerd.org",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/korg-collection-plugin-bundle-on-sale/",
+      "description": "Plugin Boutique has announced a flash sale on the KORG Collection 6 bundle, a suite of software synthesizers that methodically and accurately recreates the authentic sound and behavior of legendary KORG synthesizers for the present day and beyond. The KORG Collection is a suite o",
+      "discoveredAt": "2026-09-28",
+      "source": "rss"
+    },
+    {
+      "id": "flash-sale-waves-horizon-bundle-on-sale-for-199-99-usd",
+      "slug": "flash-sale-waves-horizon-bundle-on-sale-for-199-99-usd",
+      "name": "Flash Sale: Waves Horizon Bundle on sale for $199.99 USD",
+      "developer": "rekkerd.org",
+      "category": "bundle",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/waves-audio-horizon-bundle-sale/",
+      "description": "Plugin Boutique has announced a limited time deal on Waves Audio’s #1 best-selling bundle. Featuring 93 plugins encompassing vintage analog-modeled tools, advanced mastering plugins, and a myriad of additional mixing essentials, the Horizon Bundle is on sale at a 95% discount for",
+      "discoveredAt": "2026-09-28",
+      "source": "rss"
+    },
+    {
+      "id": "save-50-on-lounge-lizard-ep-5-by-applied-acoustics-systems",
+      "slug": "save-50-on-lounge-lizard-ep-5-by-applied-acoustics-systems",
+      "name": "Save 50% on Lounge Lizard EP-5 by Applied Acoustics Systems",
+      "developer": "rekkerd.org",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/lounge-lizard-electric-piano-by-applied-acoustics-systems-on-sale/",
+      "description": "Plugin Boutique has launched an exclusive promotion on Applied Acoustics Systems’ virtual instrument which is modeled after the most sought-after vintage electric pianos. Lounge Lizard EP-5 is offered at a 50% discount for the next few days as part of its “Synth Month” promotion.",
+      "discoveredAt": "2026-09-28",
+      "source": "rss"
+    },
+    {
+      "id": "audiothing-updates-the-orb-formant-filter-plugin-to-v2-0",
+      "slug": "audiothing-updates-the-orb-formant-filter-plugin-to-v2-0",
+      "name": "AudioThing updates The Orb formant filter plugin to v2.0",
+      "developer": "rekkerd.org",
+      "category": "vocal",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/audiothing-updates-the-orb-formant-filter-plugin-to-v2-0/",
+      "description": "AudioThing has released an update to its formant filter plugin that is designed to simulate the characteristics of the human voice. The Orb 2 brings various improvements. Featuring a set of three band pass filters, The Orb can transform any sound into a vowel-like formant-filtere",
+      "discoveredAt": "2026-09-28",
+      "source": "rss"
+    },
+    {
+      "id": "free-field-four-4-track-recorder-for-windows-by-filmic-gaze",
+      "slug": "free-field-four-4-track-recorder-for-windows-by-filmic-gaze",
+      "name": "FREE: Field Four 4-track recorder for Windows by Filmic Gaze",
+      "developer": "rekkerd.org",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/free-field-four-4-track-recorder-for-windows-by-filmic-gaze/",
+      "description": "Filmic Gaze has recently released a free 4-track recorder software for Windows inspired by the tactile way of recording with classic hardware 4-trackers such as the TASCAM Portastudio. Field Four records 4 continuous mono tracks with support for overdubbing, punch-in/out, same-re",
+      "discoveredAt": "2026-09-28",
+      "source": "rss"
+    },
+    {
+      "id": "rekordbox-for-mac-windows-and-pro-dj-link-bridge-now-support-soundswitch",
+      "slug": "rekordbox-for-mac-windows-and-pro-dj-link-bridge-now-support-soundswitch",
+      "name": "rekordbox for Mac/Windows and PRO DJ LINK Bridge now support SoundSwitch",
+      "developer": "rekkerd.org",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/rekordbox-for-mac-windows-and-pro-dj-link-bridge-now-support-soundswitch/",
+      "description": "AlphaTheta has announced that is DJ software rekordbox for Mac/Windows and synchronization app PRO DJ LINK Bridge now support SoundSwitch, the lighting automation software from inMusic that automatically synchronizes lighting effects in sync with the beats and phrases in music. T",
+      "discoveredAt": "2026-09-28",
+      "source": "rss"
+    },
+    {
+      "id": "mantube-fuzz-effect-plugin-by-racoon-audio-on-sale-for-39-usd",
+      "slug": "mantube-fuzz-effect-plugin-by-racoon-audio-on-sale-for-39-usd",
+      "name": "ManTube Fuzz effect plugin by Racoon Audio on sale for $39 USD",
+      "developer": "rekkerd.org",
+      "category": "distortion",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/mantube-fuzz-effect-plugin-by-racoon-audio-on-sale/",
+      "description": "Audio Plugin Deals has announced a limited time promotion on Racoon Audio’s tube-fed fuzz effect plugin for Windows and macOS, which is available to purchase for $39 USD for the next two weeks. ManTube Fuzz puts multiple classic fuzz and distortion personalities into one plugin. ",
+      "discoveredAt": "2026-09-28",
+      "source": "rss"
+    },
+    {
+      "id": "djw-audio-releases-lustre-true-stereo-algorithmic-reverb-for-macos",
+      "slug": "djw-audio-releases-lustre-true-stereo-algorithmic-reverb-for-macos",
+      "name": "DJW Audio releases Lustre true-stereo algorithmic reverb for macOS",
+      "developer": "rekkerd.org",
+      "category": "reverb",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/djw-audio-releases-lustre-true-stereo-algorithmic-reverb-for-macos/",
+      "description": "DJW Audio has released a true-stereo algorithmic reverb built on an original engine. Lustre spans 7 algorithm families with 10 presets each, covering natural spaces, dense plates, short ambience, gated and reverse-style effects, and expansive tails. Living, breathing reverb with ",
+      "discoveredAt": "2026-09-28",
+      "source": "rss"
+    },
+    {
+      "id": "cyberdrive-distortion-by-united-plugins-on-sale-at-65-off",
+      "slug": "cyberdrive-distortion-by-united-plugins-on-sale-at-65-off",
+      "name": "Cyberdrive distortion by United Plugins on sale at 65% OFF",
+      "developer": "rekkerd.org",
+      "category": "distortion",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/cyberdrive-distortion-by-united-plugins-on-sale/",
+      "description": "Plugin Boutique has launched an exclusive promotion on JMG Sound’s creative distortion effect plugin, offering 65% off for the next few days. Cyberdrive features 3 advanced distortion units, 64 distortion types, a powerful feedback module, and additional effects with are routable",
+      "discoveredAt": "2026-09-28",
+      "source": "rss"
+    },
+    {
+      "id": "audio-voltage-releases-cinematic-treatments-for-omnisphere-3",
+      "slug": "audio-voltage-releases-cinematic-treatments-for-omnisphere-3",
+      "name": "Audio Voltage releases Cinematic Treatments for Omnisphere 3",
+      "developer": "rekkerd.org",
+      "category": "bundle",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/audio-voltage-releases-cinematic-treatments-for-omnisphere-3/",
+      "description": "Audio Voltage has released a collection of 100 FX Rack presets for Spectrasonics Omnisphere 3 and its included FX plugin, exploring the character of Omnisphere 3’s effects across expansive spaces, resonating materials, worn atmospheres, spectral transformations, and imagined acou",
+      "discoveredAt": "2026-09-28",
+      "source": "rss"
+    },
+    {
+      "id": "intensity-2-dynamic-processor-by-zynaptiq-on-sale-for-99-usd",
+      "slug": "intensity-2-dynamic-processor-by-zynaptiq-on-sale-for-99-usd",
+      "name": "Intensity 2 dynamic processor by Zynaptiq on sale for $99 USD",
+      "developer": "rekkerd.org",
+      "category": "mastering",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/zynaptiq-intensity-dynamic-processor-plugin-sale/",
+      "description": "Plugin Boutique has launched a limited time sale on Zynaptiq’s Intensity 2, offering a discount on the dynamic audio processor for mixing, mastering and sound design. Conceptually similar to what HDR does for photography, INTENSITY 2 brings out a sound’s inherent detail, increase",
+      "discoveredAt": "2026-09-28",
+      "source": "rss"
+    },
+    {
+      "id": "audentity-records-releases-strings-adventure-5-sample-pack",
+      "slug": "audentity-records-releases-strings-adventure-5-sample-pack",
+      "name": "Audentity Records releases Strings Adventure 5 sample pack",
+      "developer": "rekkerd.org",
+      "category": "loop_pack",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/audentity-records-releases-strings-adventure-5-sample-pack/",
+      "description": "Audentity Records has launched another installment in its Strings Adventure series of sample packs. Bringing authentic musicality, Strings Adventure 5 offers another inspiring collection of premium guitar performances for today’s music producers. Over the years, the Strings Adven",
+      "discoveredAt": "2026-09-28",
+      "source": "rss"
+    },
+    {
+      "id": "soniclab-updates-polynodes-spatial-sonic-sculptor-to-v2-3",
+      "slug": "soniclab-updates-polynodes-spatial-sonic-sculptor-to-v2-3",
+      "name": "sonicLAB updates PolyNodes spatial sonic sculptor to v2.3",
+      "developer": "rekkerd.org",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/soniclab-updates-polynodes-spatial-sonic-sculptor-to-v2-3/",
+      "description": "sonicLAB has announced an update to its cutting-edge sound synthesis / generative audio platform that aims to transform the way one interacts with sound. Version 2.3 of PolyNodes brings various workflow enhancements. PolyNodes audio output can now be routed directly to the PolyNo",
+      "discoveredAt": "2026-09-28",
       "source": "rss"
     }
   ]
