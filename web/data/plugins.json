@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-09-28",
+  "updatedAt": "2026-10-05",
   "plugins": [
     {
       "id": "vital",
@@ -14717,6 +14717,636 @@
       "officialUrl": "https://rekkerd.org/soniclab-updates-polynodes-spatial-sonic-sculptor-to-v2-3/",
       "description": "sonicLAB has announced an update to its cutting-edge sound synthesis / generative audio platform that aims to transform the way one interacts with sound. Version 2.3 of PolyNodes brings various workflow enhancements. PolyNodes audio output can now be routed directly to the PolyNo",
       "discoveredAt": "2026-09-28",
+      "source": "rss"
+    },
+    {
+      "id": "drosophila-melanogaster",
+      "slug": "drosophila-melanogaster",
+      "name": "Drosophila Melanogaster",
+      "developer": "Maksym-Lazirko",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://github.com/Maksym-Lazirko/Drosophila-melanogaster",
+      "description": "Fruit Fly VST effect plugin and standalone app. It drives a real FlyWire-derived auditory subgraph with incoming audio, using simulated neural population activity to control creative DSP and visualization.",
+      "discoveredAt": "2026-10-05",
+      "source": "github"
+    },
+    {
+      "id": "globalvsthost",
+      "slug": "globalvsthost",
+      "name": "Globalvsthost",
+      "developer": "pelletierjy",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://github.com/pelletierjy/GlobalVstHost",
+      "description": "A lightweight system-wide VST host for routing plugins into any audio setup.",
+      "discoveredAt": "2026-10-05",
+      "source": "github"
+    },
+    {
+      "id": "d110emu",
+      "slug": "d110emu",
+      "name": "D110Emu",
+      "developer": "springboobsquirepin",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://github.com/springboobsquirepin/d110emu",
+      "description": "Munt fork with D-110 support and a new UI for Windows, macOS and Linux with plugin variants (VST2, VST3, AU)",
+      "discoveredAt": "2026-10-05",
+      "source": "github"
+    },
+    {
+      "id": "arswerk-releases-nyx-a-free-harmonic-reverb-that-lets-you-draw-the-room",
+      "slug": "arswerk-releases-nyx-a-free-harmonic-reverb-that-lets-you-draw-the-room",
+      "name": "Arswerk releases Nyx, a FREE harmonic reverb that lets you draw the room",
+      "developer": "bedroomproducersblog.com",
+      "category": "eq",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/10/05/arswerk-nyx-reverb/",
+      "description": "Arswerk has released Nyx, a free harmonic reverb that lets you design the room in meters and shape a tail around the notes in your source. The developer also released Harmonia EQ, a dynamic and spectral equalizer plugin. Nyx The latest Nyx 1.3 update introduces a new engine with ",
+      "discoveredAt": "2026-10-05",
+      "source": "rss"
+    },
+    {
+      "id": "luxora-audio-releases-lega-effect-a-free-voice-and-lo-fi-multi-effect",
+      "slug": "luxora-audio-releases-lega-effect-a-free-voice-and-lo-fi-multi-effect",
+      "name": "Luxora Audio releases Lega Effect, a FREE voice and lo-fi multi-effect",
+      "developer": "bedroomproducersblog.com",
+      "category": "vocal",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/10/05/luxora-lega-effect/",
+      "description": "Luxora Audio has released Lega Effect, a free multi-effect for turning clean audio into telephone calls, radio transmissions, old recordings, public-address systems, and sounds heard through physical spaces. I’m a sucker for lo-fi plugins, and there’s definitely been no shortage ",
+      "discoveredAt": "2026-10-05",
+      "source": "rss"
+    },
+    {
+      "id": "the-crow-hill-company-has-released-pedal-bass-its-latest-free-vaults-instrument",
+      "slug": "the-crow-hill-company-has-released-pedal-bass-its-latest-free-vaults-instrument",
+      "name": "The Crow Hill Company has released Pedal Bass, its latest FREE Vaults instrument",
+      "developer": "bedroomproducersblog.com",
+      "category": "guitar",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/10/05/crow-hill-pedal-bass/",
+      "description": "The Crow Hill Company releases Pedal Bass, the latest instalment for the free Vaults instrument. The Crow Hill Company’s Vaults series has been around for a few years now, and despite a 2025 Season Two rebrand, some things never change. From Bridge Guitar to Solo Bodrán, and 1986",
+      "discoveredAt": "2026-10-05",
+      "source": "rss"
+    },
+    {
+      "id": "polarity-releases-meq-a-free-match-eq-with-dynamic-processing",
+      "slug": "polarity-releases-meq-a-free-match-eq-with-dynamic-processing",
+      "name": "Polarity releases MEQ, a FREE match EQ with dynamic processing",
+      "developer": "bedroomproducersblog.com",
+      "category": "eq",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/10/03/polarity-meq-dynamic/",
+      "description": "Polarity has released Polarity-MEQ, a free spectral matching equalizer for macOS, Windows, and Linux. This is a simplified explanation, but Polarity-MEQ basically learns the spectrum of a reference, compares it with your current signal, and generates an EQ curve that moves your c",
+      "discoveredAt": "2026-10-05",
+      "source": "rss"
+    },
+    {
+      "id": "soundins-offers-phaxer-stereo-phase-optimizer-for-free",
+      "slug": "soundins-offers-phaxer-stereo-phase-optimizer-for-free",
+      "name": "Soundins offers PhaXer stereo phase optimizer for FREE",
+      "developer": "bedroomproducersblog.com",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/10/03/soundins-phaxer-free/",
+      "description": "Soundins offers PhaXer, a free stereo phase correction plugin for macOS and Windows. PhaXer is designed to improve the phase correlation between the left and right channels of a single stereo signal, especially when the low end loses weight in mono. This happens a lot with stereo",
+      "discoveredAt": "2026-10-05",
+      "source": "rss"
+    },
+    {
+      "id": "j-mp3-labs-releases-pulse-ducker-free-sidechain-volume-shaper",
+      "slug": "j-mp3-labs-releases-pulse-ducker-free-sidechain-volume-shaper",
+      "name": "j.mp3 labs releases Pulse Ducker FREE sidechain volume shaper",
+      "developer": "bedroomproducersblog.com",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/10/02/pulse-ducker-sidechain/",
+      "description": "j.mp3 labs has released Pulse Ducker, a free sidechain-style volume shaper for macOS, Windows, and Linux. Instead of using compression to duck the signal whenever a kick hits, Pulse Ducker lets you apply a volume envelope. This makes the amount and timing of the movement predicta",
+      "discoveredAt": "2026-10-05",
+      "source": "rss"
+    },
+    {
+      "id": "you-at-midnight-releases-dreamwater-free-vocal-sample-pack",
+      "slug": "you-at-midnight-releases-dreamwater-free-vocal-sample-pack",
+      "name": "You At Midnight releases Dreamwater FREE vocal sample pack",
+      "developer": "bedroomproducersblog.com",
+      "category": "loop_pack",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/10/02/dreamwater-vocals/",
+      "description": "You At Midnight has released Dreamwater, a free collection of 36 dreamy female vocal samples. Free vocal sample packs are still relatively rare, and in this age of machine-generated vocals, I think it is nice to have another real human voice that you can add to a track for free. ",
+      "discoveredAt": "2026-10-05",
+      "source": "rss"
+    },
+    {
+      "id": "riverflux-audio-releases-relic-with-12-free-analog-style-plugins",
+      "slug": "riverflux-audio-releases-relic-with-12-free-analog-style-plugins",
+      "name": "RiverFlux Audio releases Relic with 12 FREE analog-style plugins",
+      "developer": "bedroomproducersblog.com",
+      "category": "eq",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/10/02/riverflux-audio-relic/",
+      "description": "RiverFlux Audio has released Relic, a free collection of 12 analog-style compressors, equalizers, and tape effects for macOS, Windows, and Linux. First of all, this is a huge freebie. We don’t often get twelve plugins in one pack for free, but it does happen occasionally. KG Seri",
+      "discoveredAt": "2026-10-05",
+      "source": "rss"
+    },
+    {
+      "id": "get-moog-mf-109s-saturator-free-with-any-plugin-boutique-purchase",
+      "slug": "get-moog-mf-109s-saturator-free-with-any-plugin-boutique-purchase",
+      "name": "Get Moog MF-109S Saturator FREE with any Plugin Boutique purchase",
+      "developer": "bedroomproducersblog.com",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/10/02/moog-mf-109s-saturator-free/",
+      "description": "Plugin Boutique is giving away the Moogerfooger MF-109S Saturator with any paid purchase as part of its October gift promotion. There are two additional gifts for larger orders. Spending at least $79 / €79 / £79 unlocks Synthesizer V Studio 2 Core, while an order of at least $99 ",
+      "discoveredAt": "2026-10-05",
+      "source": "rss"
+    },
+    {
+      "id": "apogee-soft-limit-is-free-again-after-moving-to-plugin-alliance",
+      "slug": "apogee-soft-limit-is-free-again-after-moving-to-plugin-alliance",
+      "name": "Apogee Soft Limit is FREE again after moving to Plugin Alliance",
+      "developer": "bedroomproducersblog.com",
+      "category": "compressor",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/10/02/apogee-soft-limit-free-again/",
+      "description": "Apogee’s Soft Limit limiter and saturation plugin is free again following its move to Plugin Alliance. BPB covered Soft Limit when it originally launched as freeware in 2022. It later became a paid product, but the new Plugin Alliance edition is now included with every free accou",
+      "discoveredAt": "2026-10-05",
+      "source": "rss"
+    },
+    {
+      "id": "hivetune-releases-ens-86-a-free-vintage-bbd-chorus-plugin",
+      "slug": "hivetune-releases-ens-86-a-free-vintage-bbd-chorus-plugin",
+      "name": "Hivetune releases ENS-86, a FREE vintage BBD chorus plugin",
+      "developer": "bedroomproducersblog.com",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/10/01/hivetune-ens-86/",
+      "description": "Hivetune has released ENS-86, a free vintage chorus plugin for macOS and Windows. The developer recently gave us Delta6, a surprisingly user-friendly (for an FM synth) six-operator FM synthesizer with a flexible modulation matrix. ENS-86 is a much simpler release, but once again,",
+      "discoveredAt": "2026-10-05",
+      "source": "rss"
+    },
+    {
+      "id": "segment-cph-launches-palora-virtual-analog-synthesizer",
+      "slug": "segment-cph-launches-palora-virtual-analog-synthesizer",
+      "name": "Segment CPH launches Palora virtual-analog synthesizer",
+      "developer": "bedroomproducersblog.com",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/10/01/segment-cph-palora/",
+      "description": "Segment CPH has released Palora, a virtual analog synthesizer for macOS and Windows, available at an introductory price of €47.40. This is the first release from Copenhagen-based developer and music producer Peter Bojesen. Palora began as a pluck synthesizer for his deep-house pr",
+      "discoveredAt": "2026-10-05",
+      "source": "rss"
+    },
+    {
+      "id": "free-karmakick-kick-drum-synthesizer-instrument-vst3-au",
+      "slug": "free-karmakick-kick-drum-synthesizer-instrument-vst3-au",
+      "name": "FREE: KarmaKick kick drum synthesizer instrument (VST3/AU)",
+      "developer": "rekkerd.org",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/free-karmakick-kick-drum-synthesizer-instrument-vst3-au/",
+      "description": "KarmaStation has announced a free kick drum instrument that generates the kick from scratch through synthesis. No samples, no layering, no scrolling through nine hundred one-shots hoping one of them sits right. You shape the sound with a handful of controls that each do exactly o",
+      "discoveredAt": "2026-10-05",
+      "source": "rss"
+    },
+    {
+      "id": "audentity-records-releases-hard-delta-techno-2-sample-pack",
+      "slug": "audentity-records-releases-hard-delta-techno-2-sample-pack",
+      "name": "Audentity Records releases Hard Delta Techno 2 sample pack",
+      "developer": "rekkerd.org",
+      "category": "loop_pack",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/audentity-records-releases-hard-delta-techno-2-sample-pack/",
+      "description": "Audentity Records has introduced the second edition of its popular hard techno sample series, delivering an even bigger collection of cutting-edge sounds for today’s underground productions. Designed for producers who crave driving, industrial-inspired energy, Hard Delta Techno 2",
+      "discoveredAt": "2026-10-05",
+      "source": "rss"
+    },
+    {
+      "id": "alien-plugins-releases-alien-kicklab-kick-synthesis-and-bass-analysis-plugin",
+      "slug": "alien-plugins-releases-alien-kicklab-kick-synthesis-and-bass-analysis-plugin",
+      "name": "Alien Plugins releases Alien KickLab kick synthesis and bass analysis plugin",
+      "developer": "rekkerd.org",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/alien-plugins-releases-alien-kicklab-kick-synthesis-and-bass-analysis-plugin/",
+      "description": "Alien Plugins has released a kick synthesizer and sample engine that also analyzes how a kick and bassline interact across a whole phrase. Aimed at psytrance and other kick-driven genres, Alien KickLab builds a kick from click, body, and tail layers, each sourced from the synth e",
+      "discoveredAt": "2026-10-05",
+      "source": "rss"
+    },
+    {
+      "id": "free-compact-acoustic-piano-instrument-by-samplescience",
+      "slug": "free-compact-acoustic-piano-instrument-by-samplescience",
+      "name": "FREE: Compact Acoustic Piano instrument by SampleScience",
+      "developer": "rekkerd.org",
+      "category": "guitar",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/free-compact-acoustic-piano-instrument-by-samplescience/",
+      "description": "SampleScience has introduced a new virtual instrument which delivers a pristine acoustic piano sound designed to cut cleanly through any mix. Sampled with precision, Compact Acoustic Piano features 4 dynamic velocity layers to capture the full expressive range of an authentic per",
+      "discoveredAt": "2026-10-05",
+      "source": "rss"
+    },
+    {
+      "id": "alonso-sound-introduces-revealed-serum-2-screech-supremacy",
+      "slug": "alonso-sound-introduces-revealed-serum-2-screech-supremacy",
+      "name": "Alonso Sound introduces Revealed Serum 2 Screech Supremacy",
+      "developer": "rekkerd.org",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/alonso-sound-introduces-revealed-serum-2-screech-supremacy/",
+      "description": "Alonso Sound has announced the release of the final chapter of Revealed’s Screech Conquest Trilogy aims at Hardstyle, Hardcore, and Hard Techno music production. A fresh batch of 50 presets and 50 MIDI files, Serum 2 Screech Supremacy is designed to capture the overwhelming force",
+      "discoveredAt": "2026-10-05",
+      "source": "rss"
+    },
+    {
+      "id": "save-70-on-key-nyckelharpa-instrument-for-kontakt-by-auddict",
+      "slug": "save-70-on-key-nyckelharpa-instrument-for-kontakt-by-auddict",
+      "name": "Save 70% on Key nyckelharpa instrument for Kontakt by Auddict",
+      "developer": "rekkerd.org",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/auddict-key-nyckelharpa-instrument-for-kontakt-sale/",
+      "description": "Audio Plugin Deals has launched a two-week promotion on a Kontakt instrument library that aims to capture the haunting, resonant beauty of the traditional Swedish nyckelharpa. Key by Auddict is offered at 70% off regular. Auddict’s Key captures the nyckelharpa in the hands of Vic",
+      "discoveredAt": "2026-10-05",
+      "source": "rss"
+    },
+    {
+      "id": "free-goldsmelt-multi-effect-plugin-by-mfkne-vst3",
+      "slug": "free-goldsmelt-multi-effect-plugin-by-mfkne-vst3",
+      "name": "FREE: GOLDSMELT multi-effect plugin by MFKNE (VST3)",
+      "developer": "rekkerd.org",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/free-goldsmelt-multi-effect-plugin-by-mfkne-vst3/",
+      "description": "MFKNE has introduced the first plugin in a new Golden Series. It takes the heart of 7 previously released effects and combines them into a single device that is tuned to play together. GOLDSMELT allows users to apply a touch of warmth and air so a track simply sits better, a new ",
+      "discoveredAt": "2026-10-05",
+      "source": "rss"
+    },
+    {
+      "id": "parish-audio-releases-warpfield-time-manipulation-plugin",
+      "slug": "parish-audio-releases-warpfield-time-manipulation-plugin",
+      "name": "Parish Audio releases Warpfield time-manipulation plugin",
+      "developer": "rekkerd.org",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/parish-audio-releases-warpfield-time-manipulation-plugin/",
+      "description": "Parish Audio has announced the release of a new creative time-manipulation effect plugin designed to transform existing audio into new melodies, countermelodies, rhythms, and textures. Featuring 6 different processing modes (Stretch, Reverse, Stop, Stutter, Repeat, and Warp), eac",
+      "discoveredAt": "2026-10-05",
+      "source": "rss"
+    },
+    {
+      "id": "save-75-on-oxford-transmod-transient-shaper-plugin-by-sonnox",
+      "slug": "save-75-on-oxford-transmod-transient-shaper-plugin-by-sonnox",
+      "name": "Save 75% on Oxford TransMod transient shaper plugin by Sonnox",
+      "developer": "rekkerd.org",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/oxford-transmod-transient-shaper-plugin-by-sonnox-sale/",
+      "description": "Plugin Boutique has launched an exclusive sale on Oxford TransMod, an audio plugin from Sonnox that allows you to harden or soften attacks and transients. Modify the transients in your tracks by either increasing or reducing their attacks. Sounds simple, though our bespoke adapti",
+      "discoveredAt": "2026-10-05",
+      "source": "rss"
+    },
+    {
+      "id": "free-ca-72-minimoog-model-d-inspired-synth-by-idle-foundry",
+      "slug": "free-ca-72-minimoog-model-d-inspired-synth-by-idle-foundry",
+      "name": "FREE: CA-72 Minimoog Model D-inspired synth by Idle Foundry",
+      "developer": "rekkerd.org",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/free-ca-72-minimoog-model-d-inspired-synth-by-idle-foundry/",
+      "description": "Idle Foundry has announced a free, open-source synthesizer for Windows, macOS and Linux. Modeled after the Minimoog Model D and its CA3046 circuit used in the second-revision oscillator boards of the vintage synth, CA-72 adds 2–10-voice polyphony, per-voice variation and drift, s",
+      "discoveredAt": "2026-10-05",
+      "source": "rss"
+    },
+    {
+      "id": "gazillion-industries-releases-journeyman-monosynth-vst3-au",
+      "slug": "gazillion-industries-releases-journeyman-monosynth-vst3-au",
+      "name": "Gazillion Industries releases Journeyman monosynth (VST3/AU)",
+      "developer": "rekkerd.org",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/gazillion-industries-releases-journeyman-monosynth-vst3-au/",
+      "description": "Gazillion Industries has released a monophonic synthesizer built around funk, boogie, and neo-soul tones. Bringing fat basses, soaring leads, lush pads, and FX/percussion patches, Journeyman runs one voice through 3 oscillators, 2 ladder filters, 2 envelopes, and 2 modulation bus",
+      "discoveredAt": "2026-10-05",
+      "source": "rss"
+    },
+    {
+      "id": "evoke-vocal-processor-by-minimal-audio-on-sale-for-79-usd",
+      "slug": "evoke-vocal-processor-by-minimal-audio-on-sale-for-79-usd",
+      "name": "Evoke vocal processor by Minimal Audio on sale for $79 USD",
+      "developer": "rekkerd.org",
+      "category": "vocal",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/evoke-vocal-processor-by-minimal-audio-on-sale/",
+      "description": "Plugin Boutique is offering an exclusive deal on a powerful and inspiring vocal processing effect from Minimal Audio, designed to give vocalists and creative producers of all levels the tools to shape, enhance, and transform their sound. Evoke is offered at nearly 40% off for the",
+      "discoveredAt": "2026-10-05",
+      "source": "rss"
+    },
+    {
+      "id": "low-end-candy-releases-premix-song-to-session-reference-and-stem-tool",
+      "slug": "low-end-candy-releases-premix-song-to-session-reference-and-stem-tool",
+      "name": "Low End Candy releases Premix song-to-session reference and stem tool",
+      "developer": "rekkerd.org",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/low-end-candy-releases-premix-song-to-session-reference-and-stem-tool/",
+      "description": "Low End Candy has released plugin and companion app that pulls a reference song, its key and BPM, its stems, and a project-synced copy directly into the DAW session. Premix searches for a song and picks the official audio rather than a music video, or takes an imported file of th",
+      "discoveredAt": "2026-10-05",
+      "source": "rss"
+    },
+    {
+      "id": "save-89-on-softube-producer-collection-at-plugin-boutique",
+      "slug": "save-89-on-softube-producer-collection-at-plugin-boutique",
+      "name": "Save 89% on Softube Producer Collection at Plugin Boutique",
+      "developer": "rekkerd.org",
+      "category": "bundle",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/softube-producer-collection-at-plugin-boutique/",
+      "description": "As part of its “Analog Emulations” promotion, Plugin Boutique is offering an 89% discount on an exclusive premium suite of essential production tools, combining analog warmth, classic tone, and modern flexibility: Softube Producer Collection. This exclusive collection features th",
+      "discoveredAt": "2026-10-05",
+      "source": "rss"
+    },
+    {
+      "id": "32classic-channel-strip-effect-plugin-by-harrison-audio-on-sale-for-24-usd",
+      "slug": "32classic-channel-strip-effect-plugin-by-harrison-audio-on-sale-for-24-usd",
+      "name": "32Classic Channel Strip effect plugin by Harrison Audio on sale for $24 USD",
+      "developer": "rekkerd.org",
+      "category": "eq",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/32classic-channel-effect-plugin-by-harrison-consoles-sale/",
+      "description": "AudioDeluxe has announced an exclusive sale on Harrison Audio’s fully featured channel strip effect plugin. Offered at a deep discount, the 32Classic Channel Strip comes with a 4-band parametric EQ, high pass and low pass filters, transformer saturation with ‘drive’ control, comp",
+      "discoveredAt": "2026-10-05",
       "source": "rss"
     }
   ]
