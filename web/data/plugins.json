@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-10-05",
+  "updatedAt": "2026-10-12",
   "plugins": [
     {
       "id": "vital",
@@ -15347,6 +15347,678 @@
       "officialUrl": "https://rekkerd.org/32classic-channel-effect-plugin-by-harrison-consoles-sale/",
       "description": "AudioDeluxe has announced an exclusive sale on Harrison Audio’s fully featured channel strip effect plugin. Offered at a deep discount, the 32Classic Channel Strip comes with a 4-band parametric EQ, high pass and low pass filters, transformer saturation with ‘drive’ control, comp",
       "discoveredAt": "2026-10-05",
+      "source": "rss"
+    },
+    {
+      "id": "ex-vst3",
+      "slug": "ex-vst3",
+      "name": "Ex Vst3",
+      "developer": "akbishnoi292929",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://github.com/akbishnoi292929/EX-VST3",
+      "description": "EX Audio VST3 Plugin",
+      "discoveredAt": "2026-10-12",
+      "source": "github"
+    },
+    {
+      "id": "classicflanger-re01",
+      "slug": "classicflanger-re01",
+      "name": "Classicflanger Re01",
+      "developer": "AnClark",
+      "category": "modulation",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://github.com/AnClark/ClassicFlanger-RE01",
+      "description": "Reverse-engineered rewrite of Kjaerhus Audio's Classic Flanger",
+      "discoveredAt": "2026-10-12",
+      "source": "github"
+    },
+    {
+      "id": "brack",
+      "slug": "brack",
+      "name": "Brack",
+      "developer": "hsshss",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://github.com/hsshss/brack",
+      "description": "Play many CLAP, VST3 and VST2 instruments at once: many-to-many MIDI and audio routing, each plugin in its own process. GUI, CLI and C/.NET library.",
+      "discoveredAt": "2026-10-12",
+      "source": "github"
+    },
+    {
+      "id": "mpc-vst-ringsfx",
+      "slug": "mpc-vst-ringsfx",
+      "name": "Mpc Vst Ringsfx",
+      "developer": "saustin2010",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://github.com/saustin2010/mpc-vst-ringsfx",
+      "description": "Rings as an audio effect: the track's sound excites the resonator, with 12 presets. A native VST2 plugin with its own touchscreen skin for MPC OS standalone devices.",
+      "discoveredAt": "2026-10-12",
+      "source": "github"
+    },
+    {
+      "id": "mpc-vst-verglas",
+      "slug": "mpc-vst-verglas",
+      "name": "Mpc Vst Verglas",
+      "developer": "saustin2010",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://github.com/saustin2010/mpc-vst-verglas",
+      "description": "Mutable Instruments Clouds: a granular texture processor as an audio effect, with 12 presets. A native VST2 plugin with its own touchscreen skin for MPC OS standalone devices.",
+      "discoveredAt": "2026-10-12",
+      "source": "github"
+    },
+    {
+      "id": "fsvr-brings-the-yamaha-fs1r-to-your-daw-as-a-free-synth-plugin",
+      "slug": "fsvr-brings-the-yamaha-fs1r-to-your-daw-as-a-free-synth-plugin",
+      "name": "FSVR brings the Yamaha FS1R to your DAW as a FREE synth plugin",
+      "developer": "bedroomproducersblog.com",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/10/12/fsvr-yamaha-fs1r/",
+      "description": "Musica Studio’s FSVR is a free, open-source recreation of the Yamaha FS1R for macOS, Windows, and Linux. The original FS1R is a 1998 rackmount synth that combined FM with formant synthesis. It can produce all of those classic metallic and glassy FM tones, but its formant sequence",
+      "discoveredAt": "2026-10-12",
+      "source": "rss"
+    },
+    {
+      "id": "safari-audio-launches-everything-bundle-v2-with-16-plugins",
+      "slug": "safari-audio-launches-everything-bundle-v2-with-16-plugins",
+      "name": "Safari Audio launches Everything Bundle V2 with 16 plugins",
+      "developer": "bedroomproducersblog.com",
+      "category": "delay",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/10/12/safari-audio-everything-bundle/",
+      "description": "Safari Audio has launched Everything Bundle V2, a collection of 16 effects, instruments, and studio tools for macOS and Windows. The new bundle updates the effects lineup with redesigned interfaces, a shared preset browser, revised processing algorithms, and new controls in indiv",
+      "discoveredAt": "2026-10-12",
+      "source": "rss"
+    },
+    {
+      "id": "nopeaudio-releases-nopescope-a-free-oscilloscope-plugin",
+      "slug": "nopeaudio-releases-nopescope-a-free-oscilloscope-plugin",
+      "name": "NopeAudio releases NopeScope, a FREE oscilloscope plugin",
+      "developer": "bedroomproducersblog.com",
+      "category": "eq",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/10/12/nopescope/",
+      "description": "Developer NopeAudio has released NopeScope, a free oscilloscope plugin for macOS and Windows that lets you compare two signals and inspect separate frequency layers. Oscilloscopes are pretty useful when a kick and bass, or any other clashing elements, are fighting for the same sp",
+      "discoveredAt": "2026-10-12",
+      "source": "rss"
+    },
+    {
+      "id": "morphoice-releases-chiptune-a-free-sid-chip-synth-beta",
+      "slug": "morphoice-releases-chiptune-a-free-sid-chip-synth-beta",
+      "name": "Morphoice releases ChipTune, a FREE SID chip synth (beta)",
+      "developer": "bedroomproducersblog.com",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/10/12/morphoice-chiptune/",
+      "description": "Morphoice has released ChipTune, a free beta synthesizer that recreates the Commodore 64’s SID sound chip. I’m a massive, massive SID fan. The Commodore 64 was the first computer I ever owned, and the tones from those early game tunes are engraved in my brain. The NES and Game Bo",
+      "discoveredAt": "2026-10-12",
+      "source": "rss"
+    },
+    {
+      "id": "soundtrap-adds-third-party-vst3-and-au-effects-to-collaborative-projects",
+      "slug": "soundtrap-adds-third-party-vst3-and-au-effects-to-collaborative-projects",
+      "name": "Soundtrap adds third-party VST3 and AU effects to collaborative projects",
+      "developer": "bedroomproducersblog.com",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/10/12/soundtrap-third-party-plugins/",
+      "description": "Soundtrap now supports third-party effects plugins in its collaborative music production app. The update lets you use effects already installed on your computer while working on a project with someone elsewhere. The point of Soundtrap’s new plugin support is that your collaborato",
+      "discoveredAt": "2026-10-12",
+      "source": "rss"
+    },
+    {
+      "id": "pointless-audio-offers-portatwin-a-free-tascam-porta-two-inspired-cassette-plug",
+      "slug": "pointless-audio-offers-portatwin-a-free-tascam-porta-two-inspired-cassette-plug",
+      "name": "Pointless Audio offers PortaTwin, a FREE Tascam Porta Two-inspired cassette plug",
+      "developer": "bedroomproducersblog.com",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/10/11/pointless-audio-portatwin/",
+      "description": "Pointless Audio offers PortaTwin, a free cassette channel strip inspired by the 1987 Tascam Porta Two Ministudio. So, yet another tape emulation has arrived in what feels like a sea of them lately. I’m all for tape emulations, but I feel like there’s hardly anything new to offer ",
+      "discoveredAt": "2026-10-12",
+      "source": "rss"
+    },
+    {
+      "id": "sq8l-returns-as-a-free-64-bit-ensoniq-sq-80-synth-for-macos-windows-and-linux",
+      "slug": "sq8l-returns-as-a-free-64-bit-ensoniq-sq-80-synth-for-macos-windows-and-linux",
+      "name": "SQ8L returns as a FREE 64-bit Ensoniq SQ-80 synth for macOS, Windows, and Linux",
+      "developer": "bedroomproducersblog.com",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/10/11/sq8l-64-bit/",
+      "description": "The free SQ8L synth is back as an unofficial 64-bit port for macOS, Windows, and Linux. Siegfried Kullmann’s original Ensoniq SQ-80 emulation was a 32-bit Windows VST, last updated in 2008. Its source code was never released, so the revival team rebuilt the plugin from the origin",
+      "discoveredAt": "2026-10-12",
+      "source": "rss"
+    },
+    {
+      "id": "xln-audio-rc-20-retro-color-drops-to-29-in-a-70-off-sale",
+      "slug": "xln-audio-rc-20-retro-color-drops-to-29-in-a-70-off-sale",
+      "name": "XLN Audio RC-20 Retro Color drops to $29 in a 70% off sale",
+      "developer": "bedroomproducersblog.com",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/10/11/xln-audio-rc-20-sale/",
+      "description": "Plugin Boutique is offering XLN Audio RC-20 Retro Color for only $29 until October 16, 2026. That’s 70% off its regular $99 price. You can get RC-20 at Plugin Boutique while the sale is running. We covered a $39 offer in June, and $29 is the lowest price I remember seeing for it.",
+      "discoveredAt": "2026-10-12",
+      "source": "rss"
+    },
+    {
+      "id": "variety-of-sound-releases-free-edgerunner-retrograde-analog-processor-for-window",
+      "slug": "variety-of-sound-releases-free-edgerunner-retrograde-analog-processor-for-window",
+      "name": "Variety of Sound releases FREE edgeRunner retrograde analog processor for Window",
+      "developer": "bedroomproducersblog.com",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/10/11/variety-of-sound-releases-edgerunner/",
+      "description": "Variety of Sound releases edgeRunner retrograde, a FREE analog processor plugin for Windows. It’s always a good day for Windows users when Variety of Sound releases a new plugin. You’re almost guaranteed to tick every box; it comes from a trusted developer with a history of high-",
+      "discoveredAt": "2026-10-12",
+      "source": "rss"
+    },
+    {
+      "id": "w-a-production-s-155-techno-mega-pack-is-free-exclusively-for-bpb-readers",
+      "slug": "w-a-production-s-155-techno-mega-pack-is-free-exclusively-for-bpb-readers",
+      "name": "W. A. Production’s $155 Techno Mega Pack is FREE exclusively for BPB readers",
+      "developer": "bedroomproducersblog.com",
+      "category": "loop_pack",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/10/09/wa-production-techno-mega-pack/",
+      "description": "W. A. Production is offering Techno Mega Pack, a bundle of seven sample packs and a video course, FREE exclusively to Bedroom Producers Blog readers. We’ve teamed up with W. A. Production again following our earlier Combustor giveaway, and this time we have 10,000 redemption code",
+      "discoveredAt": "2026-10-12",
+      "source": "rss"
+    },
+    {
+      "id": "orra-audio-releases-orra-key-a-free-key-detection-plugin-with-midi-chord-export",
+      "slug": "orra-audio-releases-orra-key-a-free-key-detection-plugin-with-midi-chord-export",
+      "name": "Orra Audio releases Orra Key, a FREE key detection plugin with MIDI chord export",
+      "developer": "bedroomproducersblog.com",
+      "category": "modulation",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/10/09/orra-key/",
+      "description": "Orra Audio has released Orra Key, a free key detection plugin with chord previews and drag-and-drop MIDI export for macOS and Windows. We’ve previously covered the developer’s Tone Zone tonal curve corrector and Orra Pump modulation filter. This latest freebie lets you figure out",
+      "discoveredAt": "2026-10-12",
+      "source": "rss"
+    },
+    {
+      "id": "idealism-releases-hetki-piano-plugin-with-a-free-seven-day-trial",
+      "slug": "idealism-releases-hetki-piano-plugin-with-a-free-seven-day-trial",
+      "name": "idealism releases hetki piano plugin with a FREE seven-day trial",
+      "developer": "bedroomproducersblog.com",
+      "category": "guitar",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/10/09/idealism-hetki-piano/",
+      "description": "idealism has released hetki, a character piano plugin for macOS and Windows built around a sampled 1908 Steinway Model O. It costs €24.99 including VAT, and the free seven-day trial lets you try the full instrument without feature restrictions. The piano was recorded at Greystoke",
+      "discoveredAt": "2026-10-12",
+      "source": "rss"
+    },
+    {
+      "id": "marula-music-launches-veld-multiband-stereo-imaging-effect-plugin",
+      "slug": "marula-music-launches-veld-multiband-stereo-imaging-effect-plugin",
+      "name": "Marula Music launches Veld multiband stereo imaging effect plugin",
+      "developer": "rekkerd.org",
+      "category": "eq",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/marula-music-launches-veld-multiband-stereo-imaging-effect-plugin/",
+      "description": "Marula Music has introduced new audio plugin that is designed to shape the stereo image across up to four frequency bands. Veld allows users to keep bass centered while widening upper frequencies, or generate stereo width from mono sources using Haas delay, Allpass decorrelation,",
+      "discoveredAt": "2026-10-12",
+      "source": "rss"
+    },
+    {
+      "id": "iced-audio-launches-audiocortex-2-nova-sound-library-for-mac-public-beta",
+      "slug": "iced-audio-launches-audiocortex-2-nova-sound-library-for-mac-public-beta",
+      "name": "Iced Audio launches AudioCortex 2 Nova sound library for Mac (public beta)",
+      "developer": "rekkerd.org",
+      "category": "guitar",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/iced-audio-launches-audiocortex-2-nova-sound-library-for-mac-public-beta/",
+      "description": "Iced Audio has announced a public beta of the successor of its AudioFinder sample manager for Mac. AudioCortex 2 Nova lets users describe a sound to find it. For twenty years, sample browsers have known your files by name. AudioCortex 2 knows them by ear. It listens, organizes, t",
+      "discoveredAt": "2026-10-12",
+      "source": "rss"
+    },
+    {
+      "id": "w-a-production-launches-total-synths-bundle-at-14-90-usd",
+      "slug": "w-a-production-launches-total-synths-bundle-at-14-90-usd",
+      "name": "W.A. Production launches Total Synths Bundle at $14.90 USD",
+      "developer": "rekkerd.org",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/w-a-production-launches-total-synths-bundle/",
+      "description": "W.A. Production has introduced a new value bundle featuring a collection of 1,455 synth loops taken from 40 sample packs. Offered at 97% off regular, the Total Synths Bundle is only $14.90 USD for the first 100 customers. Inside, you’ll discover everything from euphoric melodies ",
+      "discoveredAt": "2026-10-12",
+      "source": "rss"
+    },
+    {
+      "id": "2b-shaped-music-releases-2b-shaped-2-creative-multi-effect-plugin",
+      "slug": "2b-shaped-music-releases-2b-shaped-2-creative-multi-effect-plugin",
+      "name": "2B Shaped Music releases 2B Shaped 2 creative multi-effect plugin",
+      "developer": "rekkerd.org",
+      "category": "compressor",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/2b-shaped-music-releases-2b-shaped-2-creative-multi-effect-plugin/",
+      "description": "2B Played Music has released a new multi-effect plugin featuring 17 creative effect modules, drawable motion shapes, dynamic modulation and advanced sidechain control. 2B Shaped 2 combines Volume, Filter, Pan, Delay, Reverb, Flanger, Pitch, Crusher, Phaser, Distortion, Noise, Scr",
+      "discoveredAt": "2026-10-12",
+      "source": "rss"
+    },
+    {
+      "id": "save-40-on-poly-flanger-effect-plugin-by-minimal-audio",
+      "slug": "save-40-on-poly-flanger-effect-plugin-by-minimal-audio",
+      "name": "Save 40% on Poly Flanger effect plugin by Minimal Audio",
+      "developer": "rekkerd.org",
+      "category": "modulation",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/poly-flanger-effect-plugin-by-minimal-audio-sale/",
+      "description": "Plugin Boutique has launched an exclusive limited time sale on Minimal Audio’s musically-intelligent flanger plugin. Designed to help you create rich modulation effects that stay in key, build harmony, and evolve musically, Poly Flanger is on sale for $29 USD for the next few day",
+      "discoveredAt": "2026-10-12",
+      "source": "rss"
+    },
+    {
+      "id": "save-50-on-denise-audio-total-bundle",
+      "slug": "save-50-on-denise-audio-total-bundle",
+      "name": "Save 50% on Denise Audio Total Bundle",
+      "developer": "rekkerd.org",
+      "category": "bundle",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/denise-audio-total-bundle-on-sale/",
+      "description": "As part of its “Boutique Week” promotion, Plugin Boutique is offering a 50% discount on the full collection of Denise Audio’s plugins which allow users to uniquely sweeten, deepen, expand, bend, twist, compress, or even completely destroy their tracks. Comprising 14 plugins, the ",
+      "discoveredAt": "2026-10-12",
+      "source": "rss"
+    },
+    {
+      "id": "diphonic-launches-counterpart-ai-assistant-for-your-daw",
+      "slug": "diphonic-launches-counterpart-ai-assistant-for-your-daw",
+      "name": "Diphonic launches Counterpart AI assistant for your DAW",
+      "developer": "rekkerd.org",
+      "category": "guitar",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/diphonic-launches-counterpart-ai-assistant-for-your-daw/",
+      "description": "Diphonic has announced the release of an AI assistant for creating and manipulating MIDI and intelligently searching your presets and samples, while you’re working in your DAW. You can ask Counterpart to create, modify, and create variations of MIDI through chat, then pull the re",
+      "discoveredAt": "2026-10-12",
+      "source": "rss"
+    },
+    {
+      "id": "decent-samples-releases-grainwerk-granular-synth-and-effect-plugins",
+      "slug": "decent-samples-releases-grainwerk-granular-synth-and-effect-plugins",
+      "name": "Decent Samples releases Grainwerk granular synth and effect plugins",
+      "developer": "rekkerd.org",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/decent-samples-releases-grainwerk-granular-synth-and-effect-plugins/",
+      "description": "Decent Samples has released a pair of granular plugins built on the same grain engine, one an instrument that plays loaded WAV or AIFF files and the other an effect that turns any track into a cloud of grains. Grainwerk chops a sound into thousands of tiny overlapping grains, so ",
+      "discoveredAt": "2026-10-12",
+      "source": "rss"
+    },
+    {
+      "id": "free-duckingspace-reverb-effect-plugin-updated-to-v1-1",
+      "slug": "free-duckingspace-reverb-effect-plugin-updated-to-v1-1",
+      "name": "FREE: DuckingSpace reverb effect plugin updated to v1.1",
+      "developer": "rekkerd.org",
+      "category": "reverb",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/free-duckingspace-reverb-effect-plugin-updated-to-v1-1/",
+      "description": "Sonic Skunk has announced an update to its an open-source reverb plugin with sidechaining built in. Version 1.1 of DuckingSpace brings support for Mac, a redesigned interface, and more. DuckingSpace pulls its own reverb down while your sound plays and lets it bloom in the gaps. B",
+      "discoveredAt": "2026-10-12",
+      "source": "rss"
+    },
+    {
+      "id": "sourcelab-2-virtual-instrument-by-initial-audio-on-sale-for-49-usd",
+      "slug": "sourcelab-2-virtual-instrument-by-initial-audio-on-sale-for-49-usd",
+      "name": "SourceLab 2 virtual instrument by Initial Audio on sale for $49 USD",
+      "developer": "rekkerd.org",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/initial-audio-sourcelab-virtual-synthesizer-instrument-on-sale/",
+      "description": "Audio Plugin Deals is offering over 50% off regular on Initial Audio’s wavetable synthesizer, multi-sample player and loop slicer instrument for Windows and macOS. SourceLab 2 is on sale for $49 USD for the next few days. Initial Audio’s SourceLab 2 replaces separate synths, samp",
+      "discoveredAt": "2026-10-12",
+      "source": "rss"
+    },
+    {
+      "id": "liljeholmen-dsp-releases-trumsynt-kit-analog-modeling-drum-machine-vst3-au",
+      "slug": "liljeholmen-dsp-releases-trumsynt-kit-analog-modeling-drum-machine-vst3-au",
+      "name": "Liljeholmen DSP releases Trumsynt-KIT analog modeling drum machine (VST3/AU)",
+      "developer": "rekkerd.org",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/liljeholmen-dsp-releases-trumsynt-kit-analog-modeling-drum-machine-vst3-au/",
+      "description": "Liljeholmen DSP has introduced an eight-voice analog modeling drum machine with a pattern sequencer and per-step parameter locks. Each voice in Trumsynt-KIT is a full synthesizer and can take any role in the kit, from kicks, snares and hats to bass and pitched percussion. The Tru",
+      "discoveredAt": "2026-10-12",
+      "source": "rss"
+    },
+    {
+      "id": "octo8r-releases-aluid-soundset-for-knifonium",
+      "slug": "octo8r-releases-aluid-soundset-for-knifonium",
+      "name": "OCTO8R releases Aluid soundset for Knifonium",
+      "developer": "rekkerd.org",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/octo8r-releases-aluid-soundset-for-knifonium/",
+      "description": "OCTO8R has introduced a new collection of 140 presets for Plugin Alliance’s Knifonium tube-driven synthesizer emulation. Aluid explores the instrument’s thick, oil-slick character with fat, analog-inspired tones designed to feel alive and rough around the edges. On sale for the i",
+      "discoveredAt": "2026-10-12",
+      "source": "rss"
+    },
+    {
+      "id": "jeesonic-releases-eq-pro-studio-equalizer-effect-plugin",
+      "slug": "jeesonic-releases-eq-pro-studio-equalizer-effect-plugin",
+      "name": "Jeesonic releases EQ Pro Studio equalizer effect plugin",
+      "developer": "rekkerd.org",
+      "category": "eq",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/jeesonic-releases-eq-pro-studio-equalizer-effect-plugin/",
+      "description": "Jeesonic has announced the release of a new version of its popular EQ Pro 24-band dynamic equalizer for Windows and macOS. An enhanced edition, EQ Pro Studio adds advanced features such as spectral bands, upward dynamics, adjustable slopes, full-range bands and more. EQ Pro Studi",
+      "discoveredAt": "2026-10-12",
+      "source": "rss"
+    },
+    {
+      "id": "hollywood-orchestra-opus-edition-by-eastwest-on-sale-for-149-usd",
+      "slug": "hollywood-orchestra-opus-edition-by-eastwest-on-sale-for-149-usd",
+      "name": "Hollywood Orchestra Opus Edition by EastWest on sale for $149 USD",
+      "developer": "rekkerd.org",
+      "category": "orchestral",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/eastwest-hollywood-orchestra-opus-edition-sale/",
+      "description": "AudioDeluxe has launched an exclusive limited time promotion on EastWest’s virtual orchestra Hollywood Orchestra Opus Edition, offering a 63% discount for the next few days. Hollywood Orchestra Opus Edition is the highly anticipated expansion to Hollywood Orchestra, the best-sell",
+      "discoveredAt": "2026-10-12",
+      "source": "rss"
+    },
+    {
+      "id": "save-up-to-79-on-session-series-instruments-by-applied-acoustics-systems",
+      "slug": "save-up-to-79-on-session-series-instruments-by-applied-acoustics-systems",
+      "name": "Save up to 79% on Session Series instruments by Applied Acoustics Systems",
+      "developer": "rekkerd.org",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/applied-acoustics-systems-session-series-instruments-sale/",
+      "description": "Plugin Boutique has launched an exclusive promotion on the Session Bundle by Applied Acoustics Systems, a collection of three virtual instruments. The bundle includes the Lounge Lizard Session electric piano, Strum Session virtual guitar and Ultra Analog Session synthesizer instr",
+      "discoveredAt": "2026-10-12",
       "source": "rss"
     }
   ]
