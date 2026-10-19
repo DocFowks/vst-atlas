@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-10-12",
+  "updatedAt": "2026-10-19",
   "plugins": [
     {
       "id": "vital",
@@ -16019,6 +16019,678 @@
       "officialUrl": "https://rekkerd.org/applied-acoustics-systems-session-series-instruments-sale/",
       "description": "Plugin Boutique has launched an exclusive promotion on the Session Bundle by Applied Acoustics Systems, a collection of three virtual instruments. The bundle includes the Lounge Lizard Session electric piano, Strum Session virtual guitar and Ultra Analog Session synthesizer instr",
       "discoveredAt": "2026-10-12",
+      "source": "rss"
+    },
+    {
+      "id": "obs-mix-track-filter",
+      "slug": "obs-mix-track-filter",
+      "name": "Obs Mix Track Filter",
+      "developer": "haL3021",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://github.com/haL3021/obs-mix-track-filter",
+      "description": "OBS Studio plugin to apply audio filters and VST effects to final mixed audio tracks (Tracks 1-6).",
+      "discoveredAt": "2026-10-19",
+      "source": "github"
+    },
+    {
+      "id": "mpc-vst-meta-mod",
+      "slug": "mpc-vst-meta-mod",
+      "name": "Mpc Vst Meta Mod",
+      "developer": "saustin2010",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://github.com/saustin2010/mpc-vst-meta-mod",
+      "description": "Meta Mod: a meta-modulator (ring mod, fold, vocoder...) as an audio effect, with 12 presets, from Émilie Gillet's open-source Warps. A native VST2 plugin with its own touchscreen skin for MPC OS standalone devices.",
+      "discoveredAt": "2026-10-19",
+      "source": "github"
+    },
+    {
+      "id": "mpc-vst-resonator-fx",
+      "slug": "mpc-vst-resonator-fx",
+      "name": "Mpc Vst Resonator Fx",
+      "developer": "saustin2010",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://github.com/saustin2010/mpc-vst-resonator-fx",
+      "description": "Resonator FX: Resonator as an audio effect, the track's sound excites the resonator, with 12 presets. A native VST2 plugin with its own touchscreen skin for MPC OS standalone devices.",
+      "discoveredAt": "2026-10-19",
+      "source": "github"
+    },
+    {
+      "id": "sonic-pilot",
+      "slug": "sonic-pilot",
+      "name": "Sonic Pilot",
+      "developer": "Jose-108",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://github.com/Jose-108/Sonic-Pilot",
+      "description": "An original VST audio plugin for music production",
+      "discoveredAt": "2026-10-19",
+      "source": "github"
+    },
+    {
+      "id": "blissbox",
+      "slug": "blissbox",
+      "name": "Blissbox",
+      "developer": "MichaelBokatius",
+      "category": "guitar",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://github.com/MichaelBokatius/BlissBox",
+      "description": "A guitar pedal VST plug-in made with the JUCE framework.",
+      "discoveredAt": "2026-10-19",
+      "source": "github"
+    },
+    {
+      "id": "riverflux-audio-adds-rf-e-free-channel-strip-to-the-relic-bundle",
+      "slug": "riverflux-audio-adds-rf-e-free-channel-strip-to-the-relic-bundle",
+      "name": "RiverFlux Audio adds RF-E FREE channel strip to the Relic bundle",
+      "developer": "bedroomproducersblog.com",
+      "category": "eq",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/10/18/riverflux-rfe-channel-strip/",
+      "description": "RiverFlux Audio has released RF-E, a free channel strip plugin for macOS, Windows, and Linux, as the latest addition to its Relic collection. We covered the original Relic bundle earlier this month, when it included twelve analog-style processors. RF-E brings that total to thirte",
+      "discoveredAt": "2026-10-19",
+      "source": "rss"
+    },
+    {
+      "id": "tdr-nova-free-dynamic-eq-now-supports-linux",
+      "slug": "tdr-nova-free-dynamic-eq-now-supports-linux",
+      "name": "TDR Nova FREE dynamic EQ now supports Linux",
+      "developer": "bedroomproducersblog.com",
+      "category": "eq",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/10/18/tdr-nova-linux/",
+      "description": "Tokyo Dawn Labs has updated TDR Nova, its free dynamic equalizer, to version 2.2.3 with native Linux support. The update arrived on October 12, and it marks the first official Linux version of Nova. I’m not a Linux user, but I know many of you are, and one of the best free plugin",
+      "discoveredAt": "2026-10-19",
+      "source": "rss"
+    },
+    {
+      "id": "voidscan-audio-offers-parasite-fm-synth-for-59-until-october-23",
+      "slug": "voidscan-audio-offers-parasite-fm-synth-for-59-until-october-23",
+      "name": "Voidscan Audio offers Parasite FM synth for €59 until October 23",
+      "developer": "bedroomproducersblog.com",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/10/18/voidscan-audio-parasite/",
+      "description": "Voidscan Audio is offering Parasite, a three-operator FM synthesizer for macOS and Windows, for €59 until October 23, when its price increases to €89. Parasite is the first plugin from the French developer Voidscan Audio, who spent a year building it, focusing on gritty textures ",
+      "discoveredAt": "2026-10-19",
+      "source": "rss"
+    },
+    {
+      "id": "nembrini-audio-s-137-cali-reverb-guitar-amp-plugin-is-free-again-until-october",
+      "slug": "nembrini-audio-s-137-cali-reverb-guitar-amp-plugin-is-free-again-until-october",
+      "name": "Nembrini Audio’s $137 Cali Reverb guitar amp plugin is FREE again until October",
+      "developer": "bedroomproducersblog.com",
+      "category": "reverb",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/10/17/nembrini-audio-cali-reverb-2/",
+      "description": "Nembrini Audio is offering Cali Reverb, its Mesa Boogie-inspired guitar amp plugin for macOS and Windows, for free again until October 31, 2026. The regular price is $137. We covered the previous Cali Reverb giveaway in October 2024, so I guess this is another chance to pick it u",
+      "discoveredAt": "2026-10-19",
+      "source": "rss"
+    },
+    {
+      "id": "play-the-m-vave-fm-1-and-its-custom-firmwares-for-free-in-your-browser",
+      "slug": "play-the-m-vave-fm-1-and-its-custom-firmwares-for-free-in-your-browser",
+      "name": "Play the M-VAVE FM-1 and its custom firmwares for FREE in your browser",
+      "developer": "bedroomproducersblog.com",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/10/17/m-wave-browser/",
+      "description": "Joakim Eriksson has released fm1-emu, a free browser-based emulator that lets you play the M-VAVE FM-1 synthesizer and explore its custom firmwares without owning the hardware. The FM-1 has become a hot topic lately, partly because of its low price and partly because the communit",
+      "discoveredAt": "2026-10-19",
+      "source": "rss"
+    },
+    {
+      "id": "samplicity-number-seven-reverb-is-50-off-until-october-21",
+      "slug": "samplicity-number-seven-reverb-is-50-off-until-october-21",
+      "name": "Samplicity Number Seven reverb is 50% off until October 21",
+      "developer": "bedroomproducersblog.com",
+      "category": "reverb",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/10/17/samplicity-number-seven/",
+      "description": "Samplicity is offering Number Seven, its Bricasti M7-inspired reverb plugin, at 50% off through October 21, 2026. Use the coupon code SEVEN50 at checkout on Samplicity’s website to bring Number Seven Core down to €84.50 (normally €169), or Number Seven Professional to €114.50 (no",
+      "discoveredAt": "2026-10-19",
+      "source": "rss"
+    },
+    {
+      "id": "poll-what-do-you-think-about-ai-in-music-software",
+      "slug": "poll-what-do-you-think-about-ai-in-music-software",
+      "name": "POLL: What do you think about AI in music software?",
+      "developer": "bedroomproducersblog.com",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/10/17/ai-in-music-software-poll/",
+      "description": "I’ve noticed a huge shift in the plugin industry recently, and I’m sure you’re noticing it too. The sheer number of plugins released daily has made it hard to keep up, and the average quality has dropped drastically. A lot of it comes down to the fact that AI tools are now being ",
+      "discoveredAt": "2026-10-19",
+      "source": "rss"
+    },
+    {
+      "id": "that-worship-sound-offers-mammoth-bass-moog-one-shots-free-until-october-31",
+      "slug": "that-worship-sound-offers-mammoth-bass-moog-one-shots-free-until-october-31",
+      "name": "That Worship Sound offers Mammoth Bass Moog one-shots FREE until October 31",
+      "developer": "bedroomproducersblog.com",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/10/16/mammoth-bass-moog-free/",
+      "description": "That Worship Sound is offering Mammoth Bass – Moog Subsequent 37 One Shots, a collection of analog synth bass samples, for free until October 31. The pack normally costs $15. With so many new plugins appearing daily, I think it’s actually becoming more interesting to cover things",
+      "discoveredAt": "2026-10-19",
+      "source": "rss"
+    },
+    {
+      "id": "slate-digital-launches-free-16-plugin-collection-with-ssl-harrison-and-sonible",
+      "slug": "slate-digital-launches-free-16-plugin-collection-with-ssl-harrison-and-sonible",
+      "name": "Slate Digital launches FREE 16-plugin collection with SSL, Harrison, and sonible",
+      "developer": "bedroomproducersblog.com",
+      "category": "bundle",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/10/16/slate-free-plugin-collection/",
+      "description": "Slate Digital has launched Complete Access Free Collection, a bundle of 16 plugins from Slate Digital, SSL, Harrison Audio, and sonible that you can keep forever. Another day, another massive free plugin bundle. Yesterday, we covered the new free plugin collection from Plugin All",
+      "discoveredAt": "2026-10-19",
+      "source": "rss"
+    },
+    {
+      "id": "noiseworks-releases-ploseassist-a-free-plugin-for-removing-vocal-plosives",
+      "slug": "noiseworks-releases-ploseassist-a-free-plugin-for-removing-vocal-plosives",
+      "name": "NoiseWorks releases PloseAssist, a FREE plugin for removing vocal plosives",
+      "developer": "bedroomproducersblog.com",
+      "category": "eq",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/10/16/noiseworks-ploseassist/",
+      "description": "NoiseWorks has released PloseAssist, a free plugin that automatically reduces the low-frequency pops caused by hard P and B sounds in vocal recordings. Back when I was learning to record vocals for the first time, the standard bedroom studio trick was to put a thin sock or simila",
+      "discoveredAt": "2026-10-19",
+      "source": "rss"
+    },
+    {
+      "id": "luftrum-releases-20-free-arturia-memory-v-presets",
+      "slug": "luftrum-releases-20-free-arturia-memory-v-presets",
+      "name": "Luftrum releases 20 FREE Arturia Memory V presets",
+      "developer": "bedroomproducersblog.com",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/10/16/luftrum-memory-v/",
+      "description": "Luftrum has released Luftrum 35, a free bank of 20 presets for Arturia Memory V, also usable in Analog Lab. It’s a relatively small set, but there’s a very good selection of sounds. The bank covers classic polysynth patches, some wonderfully lush pads (no surprise really, coming ",
+      "discoveredAt": "2026-10-19",
+      "source": "rss"
+    },
+    {
+      "id": "oddment-ships-the-odd-1-microsonic-lab-and-releases-odd-1v-plugin",
+      "slug": "oddment-ships-the-odd-1-microsonic-lab-and-releases-odd-1v-plugin",
+      "name": "Oddment ships the ODD-1 Microsonic Lab and releases ODD-1V plugin",
+      "developer": "bedroomproducersblog.com",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/10/16/oddment-odd-1-microsonic-lab/",
+      "description": "Oddment has started shipping the ODD-1 Microsonic Lab, a desktop granular instrument that can also sample, process live audio, and build loops. ODD-1V is a plugin that brings its engine to Mac and Windows. We don’t often see a new synthesizer arrive in hardware and software varia",
+      "discoveredAt": "2026-10-19",
+      "source": "rss"
+    },
+    {
+      "id": "xtrmraw-releases-gabberack-multi-effect-plugin-for-hardcore",
+      "slug": "xtrmraw-releases-gabberack-multi-effect-plugin-for-hardcore",
+      "name": "XTRMRAW releases Gabberack multi-effect plugin for hardcore",
+      "developer": "rekkerd.org",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/xtrmraw-releases-gabberack-multi-effect-plugin-for-hardcore/",
+      "description": "XTRMRAW has announced the release of a new multi-effect plugin that aims to bring the raw, powerful character of early 2000s hardcore into your productions. An intuitive multi-effect plugin, Gabberack is built around a straightforward processing chain to deliver everything from c",
+      "discoveredAt": "2026-10-19",
+      "source": "rss"
+    },
+    {
+      "id": "manufacturer-focus-sale-save-up-to-90-on-solid-state-logic-plugins-bundles",
+      "slug": "manufacturer-focus-sale-save-up-to-90-on-solid-state-logic-plugins-bundles",
+      "name": "Manufacturer Focus Sale: Save up to 90% on Solid State Logic plugins & bundles",
+      "developer": "rekkerd.org",
+      "category": "bundle",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/solid-state-logic-plugins-bundles-sale/",
+      "description": "Plugin Boutique has launched an exclusive limited time Manufacturer Focus promotion on Solid State Logic, offering a selection of its plugins and bundles at discounts of up to 90% off regular for the next few days. Solid State Logic consoles and production tools are found in the ",
+      "discoveredAt": "2026-10-19",
+      "source": "rss"
+    },
+    {
+      "id": "audiodeluxe-celebrates-16th-anniversary-with-2x-deluxebucks",
+      "slug": "audiodeluxe-celebrates-16th-anniversary-with-2x-deluxebucks",
+      "name": "AudioDeluxe celebrates 16th Anniversary with 2x DeluxeBucks",
+      "developer": "rekkerd.org",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/audiodeluxe-celebrates-16th-anniversary-with-2x-deluxebucks/",
+      "description": "AudioDeluxe has announced a promotion in celebration of its 16-year anniversary. For the next few days, all customers will receive double DeluxeBucks with a purchase. The customer loyalty program lets you earn points on eligible purchases and redeem them for instant discounts at ",
+      "discoveredAt": "2026-10-19",
+      "source": "rss"
+    },
+    {
+      "id": "free-bundle-of-6-mixing-and-mastering-plugins-from-plugin-alliance",
+      "slug": "free-bundle-of-6-mixing-and-mastering-plugins-from-plugin-alliance",
+      "name": "FREE: Bundle of 6 mixing and mastering plugins from Plugin Alliance",
+      "developer": "rekkerd.org",
+      "category": "bundle",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/free-6-mixing-and-mastering-plugins-from-plugin-alliance/",
+      "description": "Plugin Alliance has announced that it is offering 6 of its audio plugins for free. Upgrade your sound with mixing and mastering plugins from Brainworx, Apogee, and Lindell. bx_masterdesk: High end analog mastering in-the-box, the easy way. bx_console N: High-end vintage analog co",
+      "discoveredAt": "2026-10-19",
+      "source": "rss"
+    },
+    {
+      "id": "harrison-lookahead-compressor-effect-plugin-on-sale-for-15-usd",
+      "slug": "harrison-lookahead-compressor-effect-plugin-on-sale-for-15-usd",
+      "name": "Harrison Lookahead Compressor effect plugin on sale for $15 USD",
+      "developer": "rekkerd.org",
+      "category": "compressor",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/harrison-lookahead-compressor-effect-plugin-on-sale/",
+      "description": "AudioDeluxe has announced a limited time promotion on Harrison Audio’s AVA series dynamics processor plugin. Offered at nearly 70% off regular, the versatile and powerful Lookahead Compressor is designed for taming sound sources with wide dynamic range, such as acoustic guitar, v",
+      "discoveredAt": "2026-10-19",
+      "source": "rss"
+    },
+    {
+      "id": "sound-city-studios-plugin-by-universal-audio-on-sale-for-49-usd",
+      "slug": "sound-city-studios-plugin-by-universal-audio-on-sale-for-49-usd",
+      "name": "Sound City Studios Plugin by Universal Audio on sale for $49 USD",
+      "developer": "rekkerd.org",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/sound-city-studios-plugin-by-universal-audio-sale/",
+      "description": "As part of its “Analogue Emulations” promotion, Plugin Boutique has launched a sale on Universal Audio’s plugin designed to bring the authentic sound of the world’s most famous rock & roll studio. The Sound City Studios Plugin lets you add the vibe and character of this legendary",
+      "discoveredAt": "2026-10-19",
+      "source": "rss"
+    },
+    {
+      "id": "halloween-sale-save-50-on-spire-synthesizer-by-reveal-sound",
+      "slug": "halloween-sale-save-50-on-spire-synthesizer-by-reveal-sound",
+      "name": "Halloween Sale: Save 50% on Spire Synthesizer by Reveal Sound",
+      "developer": "rekkerd.org",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/spire-synthesizer-reveal-sound-halloween-sale/",
+      "description": "Reveal Sound has announced the launch of its annual Halloween Sale, offering 50% off on the Spire synthesizer instrument for the next few days. Spire is a polyphonic software synthesizer that combines powerful sound engine modulation and flexible architecture, and a graphical int",
+      "discoveredAt": "2026-10-19",
+      "source": "rss"
+    },
+    {
+      "id": "bluezone-releases-cinematic-fear-sound-library",
+      "slug": "bluezone-releases-cinematic-fear-sound-library",
+      "name": "Bluezone releases Cinematic Fear sound library",
+      "developer": "rekkerd.org",
+      "category": "loop_pack",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/bluezone-releases-cinematic-fear-sound-library/",
+      "description": "Bluezone Corporation has introduced a new sound library featuring 119 ready-to-use samples with insidious and tormented sound effects. Cinematic Fear is aimed at producers composing soundtracks with nightmarish atmospheres. CINEMATIC FEAR is a royalty-free sample pack designed fo",
+      "discoveredAt": "2026-10-19",
+      "source": "rss"
+    },
+    {
+      "id": "save-87-on-ssl-native-bus-compressor-2-plugin-on-sale-for-19-usd",
+      "slug": "save-87-on-ssl-native-bus-compressor-2-plugin-on-sale-for-19-usd",
+      "name": "Save 87% on SSL Native Bus Compressor 2 plugin, on sale for $19 USD",
+      "developer": "rekkerd.org",
+      "category": "compressor",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/solid-state-logic-ssl-native-bus-compressor-2-plugin-sale/",
+      "description": "AudioDeluxe has launched a limited time promotion on Solid State Logic’s SSL Native Bus Compressor 2, offering an 87% discount on the effect plugin that delivers the sound of the legendary SSL stereo bus compressor. Few pieces of gear are as universally revered as the SSL G-Serie",
+      "discoveredAt": "2026-10-19",
+      "source": "rss"
+    },
+    {
+      "id": "karanyi-sounds-releases-megamass-mk2-kick-drum-processor-plugin",
+      "slug": "karanyi-sounds-releases-megamass-mk2-kick-drum-processor-plugin",
+      "name": "Karanyi Sounds releases Megamass MK2 kick & drum processor plugin",
+      "developer": "rekkerd.org",
+      "category": "distortion",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/karanyi-sounds-releases-megamass-mk2-kick-drum-processor-plugin/",
+      "description": "Karanyi Sounds has announced the release of an updated version of its drum processor plugin that is designed to make your kicks hit hard. Megamass MK2 comes with a rebuilt DSP engine, new preset browser, 4 distortion modes, and a selection of tone controls. Megamass MK2 is a kick",
+      "discoveredAt": "2026-10-19",
+      "source": "rss"
+    },
+    {
+      "id": "free-chiptune-c64-sid-chip-emulation-public-beta",
+      "slug": "free-chiptune-c64-sid-chip-emulation-public-beta",
+      "name": "FREE: ChipTune C64 SID chip emulation (public beta)",
+      "developer": "rekkerd.org",
+      "category": "reverb",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/free-chiptune-c64-sid-chip-emulation-public-beta/",
+      "description": "Morphoice has introduced a new virtual instrument that delivers a faithful recreation of the SID sound chip of the Commodore 64, the classic home computer from the early ’80s. ChipTune comes with solo, poly and classic chiptune chord arpeggio modes, Juno-style chorus, vintage tap",
+      "discoveredAt": "2026-10-19",
+      "source": "rss"
+    },
+    {
+      "id": "inotrak-releases-banshee-sustainer-effect-plugin-vst3-au",
+      "slug": "inotrak-releases-banshee-sustainer-effect-plugin-vst3-au",
+      "name": "Inotrak releases Banshee Sustainer effect plugin (VST3/AU)",
+      "developer": "rekkerd.org",
+      "category": "guitar",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/inotrak-releases-banshee-sustainer-effect-plugin-vst3-au/",
+      "description": "Inotrak has announced the release of a bowed sustain effect plugin for guitar. Every note swells in with no pick attack and holds instead of dying away – then breaks into feedback, up an octave, a fifth or two octaves, or down an octave. Freeze a note and play over it, or hold on",
+      "discoveredAt": "2026-10-19",
+      "source": "rss"
+    },
+    {
+      "id": "past-to-future-plugins-releases-sp-12-sampler-plugin-vst3-au",
+      "slug": "past-to-future-plugins-releases-sp-12-sampler-plugin-vst3-au",
+      "name": "Past To Future Plugins releases SP-12 sampler plugin (VST3/AU)",
+      "developer": "rekkerd.org",
+      "category": "drums",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/past-to-future-plugins-releases-sp-12-sampler-plugin-vst3-au/",
+      "description": "Past To Future Plugins has recently released an audio plugin that aims to bring the raw, crunchy, unmistakable 12-bit magic of the E-mu SP-12 sampling drum machine. Designed to give your drums that iconic hip-hop and electronic punch, the PTF SP-12 runs the original Z-80 firmware",
+      "discoveredAt": "2026-10-19",
+      "source": "rss"
+    },
+    {
+      "id": "save-62-on-harsher-reality-signal-damage-recovery-plugin-by-piruz-labs",
+      "slug": "save-62-on-harsher-reality-signal-damage-recovery-plugin-by-piruz-labs",
+      "name": "Save 62% on Harsher Reality signal damage & recovery plugin by Piruz Labs",
+      "developer": "rekkerd.org",
+      "category": "distortion",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/harsher-reality-signal-damage-recovery-plugin-by-piruz-labs/",
+      "description": "Audio Plugin Deals has launched a limited time promotion on an audio plugin that breaks your audio across 6 iconic media formats before giving you the tools to rebuild it. Harsher Reality by Piruz Labs is on sale for $14.99 USD for the next two weeks. While typical distortion eff",
+      "discoveredAt": "2026-10-19",
+      "source": "rss"
+    },
+    {
+      "id": "highlife-samples-releases-tension-musical-build-up-effect-plugin",
+      "slug": "highlife-samples-releases-tension-musical-build-up-effect-plugin",
+      "name": "HighLife Samples releases Tension musical build-up effect plugin",
+      "developer": "rekkerd.org",
+      "category": "reverb",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/highlife-samples-releases-tension-musical-build-up-effect-plugin/",
+      "description": "HighLife Samples has released a build-up effect plugin that combines filtering, tempo-synced echo, reverb, and saturation around one main control. Tension is made for subtle lifts or intense transitions: raise or automate the main control before a drop, then return it to 0% when ",
+      "discoveredAt": "2026-10-19",
       "source": "rss"
     }
   ]
