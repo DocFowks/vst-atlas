@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-10-19",
+  "updatedAt": "2026-10-26",
   "plugins": [
     {
       "id": "vital",
@@ -16691,6 +16691,699 @@
       "officialUrl": "https://rekkerd.org/highlife-samples-releases-tension-musical-build-up-effect-plugin/",
       "description": "HighLife Samples has released a build-up effect plugin that combines filtering, tempo-synced echo, reverb, and saturation around one main control. Tension is made for subtle lifts or intense transitions: raise or automate the main control before a drop, then return it to 0% when ",
       "discoveredAt": "2026-10-19",
+      "source": "rss"
+    },
+    {
+      "id": "godot-audio-plugin-host",
+      "slug": "godot-audio-plugin-host",
+      "name": "Godot Audio Plugin Host",
+      "developer": "podulator",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://github.com/podulator/godot-audio-plugin-host",
+      "description": "Run CLAP and VST 3 audio effect plugins inside Godot's Audio Engine",
+      "discoveredAt": "2026-10-26",
+      "source": "github"
+    },
+    {
+      "id": "animal-audio-plugins",
+      "slug": "animal-audio-plugins",
+      "name": "Animal Audio Plugins",
+      "developer": "SammyEl-Sherif",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://github.com/SammyEl-Sherif/animal-audio-plugins",
+      "description": "Monorepo for VST Development.",
+      "discoveredAt": "2026-10-26",
+      "source": "github"
+    },
+    {
+      "id": "dawdreamer",
+      "slug": "dawdreamer",
+      "name": "Dawdreamer",
+      "developer": "AnEntrypoint",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://github.com/AnEntrypoint/dawdreamer",
+      "description": "DawDreamer: programmatic audio processing with VST plugins, Faust DSP and audio routing graphs",
+      "discoveredAt": "2026-10-26",
+      "source": "github"
+    },
+    {
+      "id": "k1x",
+      "slug": "k1x",
+      "name": "K1X",
+      "developer": "iamtew",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://github.com/iamtew/K1X",
+      "description": "Kick Drum Creator",
+      "discoveredAt": "2026-10-26",
+      "source": "github"
+    },
+    {
+      "id": "purrfect-cut",
+      "slug": "purrfect-cut",
+      "name": "Purrfect Cut",
+      "developer": "SpeakingColors",
+      "category": "vocal",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://github.com/SpeakingColors/purrfect-cut",
+      "description": "Audio editor and VST plugin from one install (Linux, Windows, macOS): cut, trim, fade, normalise, reverse, plus Auto-Tune style pitch pages for voices and leads. Free and open source.",
+      "discoveredAt": "2026-10-26",
+      "source": "github"
+    },
+    {
+      "id": "scratchcatfx-vst",
+      "slug": "scratchcatfx-vst",
+      "name": "Scratchcatfx Vst",
+      "developer": "SpeakingColors",
+      "category": "eq",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://github.com/SpeakingColors/scratchcatfx-vst",
+      "description": "Scratch effect plugin (VST3 and standalone): scratch, brake and backspin audio from your DAW, with EQ, colour and a 3 slot FX chain. Early, free and open source.",
+      "discoveredAt": "2026-10-26",
+      "source": "github"
+    },
+    {
+      "id": "get-sampleroll-s-shft-drft-and-fltr-bundle-for-49-with-our-exclusive-coupon",
+      "slug": "get-sampleroll-s-shft-drft-and-fltr-bundle-for-49-with-our-exclusive-coupon",
+      "name": "Get SampleRoll’s SHFT, DRFT, and FLTR bundle for $49 with our exclusive coupon",
+      "developer": "bedroomproducersblog.com",
+      "category": "bundle",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/10/24/sampleroll-bundle/",
+      "description": "SampleRoll is offering its SHFT, DRFT, and FLTR effects bundle for $59, combining rhythmic gating, VHS-style degradation, and playable filtering for macOS and Windows. BPB readers can use BPB10 at checkout to take another $10 off the three-plugin bundle, bringing it to $49 instea",
+      "discoveredAt": "2026-10-26",
+      "source": "rss"
+    },
+    {
+      "id": "morningdew-media-releases-morningdaw-a-free-daw-for-macos-windows-and-linux",
+      "slug": "morningdew-media-releases-morningdaw-a-free-daw-for-macos-windows-and-linux",
+      "name": "Morningdew Media releases MorningDAW, a FREE DAW for macOS, Windows, and Linux",
+      "developer": "bedroomproducersblog.com",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/10/24/morningdew-media-releases-morningdaw-a-free-daw-for-macos-windows-and-linux/",
+      "description": "Free digital audio workstations aren’t hard to find these days; we have familiar favourites like Tracktion’s Waveform Free, quirky newcomers like Septabee, and plenty in between. With several newcomers hoping to top the list of the best free DAWs, Morningdew Media is now throwing",
+      "discoveredAt": "2026-10-26",
+      "source": "rss"
+    },
+    {
+      "id": "the-crow-hill-company-releases-free-100-year-old-piano-instrument",
+      "slug": "the-crow-hill-company-releases-free-100-year-old-piano-instrument",
+      "name": "The Crow Hill Company releases FREE 100 Year Old Piano instrument",
+      "developer": "bedroomproducersblog.com",
+      "category": "bundle",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/10/24/crow-hill-100-year-old-piano/",
+      "description": "As part of their Vaults collection, developer The Crow Hill Company has released the 100 Year Old Piano for macOS and Windows. I’ve praised the Vaults series almost universally since The Crow Hill Company introduced it, and not just for the sound quality. I love the variety and u",
+      "discoveredAt": "2026-10-26",
+      "source": "rss"
+    },
+    {
+      "id": "soundmorph-releases-first-contact-a-free-1-16-gb-cinematic-sound-effects-librar",
+      "slug": "soundmorph-releases-first-contact-a-free-1-16-gb-cinematic-sound-effects-librar",
+      "name": "SoundMorph releases First Contact, a FREE 1.16 GB cinematic sound effects librar",
+      "developer": "bedroomproducersblog.com",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/10/23/soundmorph-first-contact/",
+      "description": "SoundMorph is offering First Contact, a free cinematic sound effects library with over 100 WAV files and 1.16 GB of content. First Contact combines previously unreleased material with selections from Sinematic, Sinematic 2, WATER, Rainscapes, and Robotic Lifeforms 2. We’ve covere",
+      "discoveredAt": "2026-10-26",
+      "source": "rss"
+    },
+    {
+      "id": "cableguys-releases-timestop-tape-stop-plugin-and-launches-black-friday-sale-gi",
+      "slug": "cableguys-releases-timestop-tape-stop-plugin-and-launches-black-friday-sale-gi",
+      "name": "Cableguys releases TimeStop tape-stop plugin and launches Black Friday sale + GI",
+      "developer": "bedroomproducersblog.com",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/10/23/cableguys-timestop/",
+      "description": "Cableguys has released TimeStop, a $16 tape-stop plugin for macOS and Windows, alongside its Black Friday sale. They are also offering two free TimeStop licenses to BPB readers What is TimeStop? TimeStop lets you draw slowdowns directly in your DAW’s automation lanes. You can aut",
+      "discoveredAt": "2026-10-26",
+      "source": "rss"
+    },
+    {
+      "id": "d16-group-releases-echolite-a-free-stereo-delay-plugin",
+      "slug": "d16-group-releases-echolite-a-free-stereo-delay-plugin",
+      "name": "D16 Group releases Echolite, a FREE stereo delay plugin",
+      "developer": "bedroomproducersblog.com",
+      "category": "compressor",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/10/23/d16-group-echolite/",
+      "description": "D16 Group has released Echolite, a free stereo delay plugin for macOS and Windows with tempo sync, stereo spread, and a multi-mode filter. We’ve covered D16’s free Frontier limiter before, and the developer also has plenty of experience with delays, including Sigmund. Echolite is",
+      "discoveredAt": "2026-10-26",
+      "source": "rss"
+    },
+    {
+      "id": "minimal-audio-offers-element-downtempo-sample-pack-for-free",
+      "slug": "minimal-audio-offers-element-downtempo-sample-pack-for-free",
+      "name": "Minimal Audio offers Element downtempo sample pack for FREE",
+      "developer": "bedroomproducersblog.com",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/10/22/minimal-audio-element-free/",
+      "description": "Minimal Audio is offering Element, a collection of 184 samples for atmospheric downtempo beats, as a free download instead of its usual $10 price. The pack includes 107 loops and 77 one-shots, covering drums and percussion, melodic synths, deep basses, and organic textures. You c",
+      "discoveredAt": "2026-10-26",
+      "source": "rss"
+    },
+    {
+      "id": "raytown-productions-releases-hardstop-a-free-clipper-and-true-peak-limiter",
+      "slug": "raytown-productions-releases-hardstop-a-free-clipper-and-true-peak-limiter",
+      "name": "Raytown Productions releases HardStop, a FREE clipper and true-peak limiter",
+      "developer": "bedroomproducersblog.com",
+      "category": "compressor",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/10/22/raytown-hardstop/",
+      "description": "Raytown Productions has released HardStop, a hard clipper and true-peak limiter for macOS and Windows, with a permanently free Basic edition. Let’s quickly compare the Basic and Pro versions of HardStop. Basic version The free version of HardStop includes the full clipping engine",
+      "discoveredAt": "2026-10-26",
+      "source": "rss"
+    },
+    {
+      "id": "dymai-sound-releases-gluecomp-3b-a-free-multiband-compressor",
+      "slug": "dymai-sound-releases-gluecomp-3b-a-free-multiband-compressor",
+      "name": "DYMAI Sound releases GLUECOMP-3B, a FREE multiband compressor",
+      "developer": "bedroomproducersblog.com",
+      "category": "compressor",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/10/22/dymai-sound-gluecomp/",
+      "description": "DYMAI Sound has released GLUECOMP-3B, a free adaptive three-band compressor for macOS and Windows. This is one of the nicer-looking plugins I’ve seen lately, and it’s also quite versatile for a freebie compressor. GLUECOMP-3B splits your audio into lows, mids, and highs, then com",
+      "discoveredAt": "2026-10-26",
+      "source": "rss"
+    },
+    {
+      "id": "gforce-offers-axxess-and-m-tron-select-2-plugins-for-free",
+      "slug": "gforce-offers-axxess-and-m-tron-select-2-plugins-for-free",
+      "name": "GForce offers Axxess and M-Tron Select 2 plugins for FREE",
+      "developer": "bedroomproducersblog.com",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/10/22/gforce-axxess-mtron-free/",
+      "description": "GForce Software is offering Axxess and M-Tron Select 2 for free once again, bringing back a pretty cool synth freebie alongside an updated Mellotron instrument for macOS and Windows. If Axxess sounds familiar, we previously covered it as a free bonus with a Loopcloud subscription",
+      "discoveredAt": "2026-10-26",
+      "source": "rss"
+    },
+    {
+      "id": "ujam-releases-detunicorn-a-free-hypersaw-synth-for-halloween",
+      "slug": "ujam-releases-detunicorn-a-free-hypersaw-synth-for-halloween",
+      "name": "UJAM releases Detunicorn, a FREE hypersaw synth for Halloween",
+      "developer": "bedroomproducersblog.com",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/10/21/ujam-detunicorn/",
+      "description": "UJAM has released Detunicorn, a free hypersaw synthesizer for macOS and Windows, as part of its Halloween celebrations. The giveaway runs for 666 hours, so it should end on November 18 (and we can probably expect something else from UJAM on Black Friday). Of course, once you’ve c",
+      "discoveredAt": "2026-10-26",
+      "source": "rss"
+    },
+    {
+      "id": "arturia-audiofuse-studio-rev2-review",
+      "slug": "arturia-audiofuse-studio-rev2-review",
+      "name": "Arturia AudioFuse Studio Rev2 Review",
+      "developer": "bedroomproducersblog.com",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/10/21/arturia-audiofuse-studio-rev2-review/",
+      "description": "Arturia’s AudioFuse Studio Rev2 is a desktop audio interface with four microphone preamps, eight analog inputs, and enough additional connections to handle a fairly busy home studio. I’ve been testing it with electric guitars and synths, and it’s an excellent interface for produc",
+      "discoveredAt": "2026-10-26",
+      "source": "rss"
+    },
+    {
+      "id": "orra-audio-updates-key-pro-plugin-to-v1-1-0-intro-price-extended",
+      "slug": "orra-audio-updates-key-pro-plugin-to-v1-1-0-intro-price-extended",
+      "name": "Orra Audio updates Key Pro plugin to v1.1.0, intro price extended",
+      "developer": "rekkerd.org",
+      "category": "guitar",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/orra-audio-updates-key-pro-plugin-to-v1-1-0-intro-price-extended/",
+      "description": "Orra Audio has announced an update to its powerful key & scale detection plugin that finds chord progressions and matching samples. Version 1.1.0 of Orra Key Pro lets users build their own progressions and play chords and sample chops from a controller. MIDI files are ranked in M",
+      "discoveredAt": "2026-10-26",
+      "source": "rss"
+    },
+    {
+      "id": "hy-poly-software-synthesizer-by-hy-plugins-on-sale-at-30-off",
+      "slug": "hy-poly-software-synthesizer-by-hy-plugins-on-sale-at-30-off",
+      "name": "HY-POLY software synthesizer by HY-Plugins on sale at 30% OFF",
+      "developer": "rekkerd.org",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/hy-poly-software-synthesizer-by-hy-plugins-on-sale/",
+      "description": "As part of an exclusive Halloween promotion, Plugin Boutique is offering a 30% discount on the HY-POLY polyphonic synthesizer instrument by HY-Plugins. HY-POLY is a subtractive type polyphonic synthesizer with MIDI and audio effects. Many of the synth and audio fx parameters can ",
+      "discoveredAt": "2026-10-26",
+      "source": "rss"
+    },
+    {
+      "id": "free-mega-drum-machines-v2-instrument-plugin-by-autodafe",
+      "slug": "free-mega-drum-machines-v2-instrument-plugin-by-autodafe",
+      "name": "FREE: Mega Drum Machines V2 instrument plugin by Autodafe",
+      "developer": "rekkerd.org",
+      "category": "bundle",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/free-mega-drum-machines-v2-instrument-plugin-by-autodafe/",
+      "description": "Autodafe has released a completely rebuilt version of its long-running drum machine collection, now available as a free native plugin for macOS, Windows and Linux. Mega Drum Machines V2 includes 170 sampled drum machine kits, covering classic, vintage, rare and obscure electronic",
+      "discoveredAt": "2026-10-26",
+      "source": "rss"
+    },
+    {
+      "id": "past-to-future-plugins-releases-224-white-reverb-effect-plugin",
+      "slug": "past-to-future-plugins-releases-224-white-reverb-effect-plugin",
+      "name": "Past To Future Plugins releases 224 White Reverb effect plugin",
+      "developer": "rekkerd.org",
+      "category": "reverb",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/past-to-future-plugins-releases-224-white-reverb-effect-plugin/",
+      "description": "Past To Future Plugins has introduced a new reverb effect plugin for Windows and macOS (VST3/AU). Designed to bring the sound of Lexicon’s 224 Digital Reverb, 224 White Reverb follows the machine’s own signal path. The sound of the early-80s digital hall, the one behind countless",
+      "discoveredAt": "2026-10-26",
+      "source": "rss"
+    },
+    {
+      "id": "15-in-1-alternative-latin-rnb-bundle-by-tow-mmy-on-sale-for-9-95-usd",
+      "slug": "15-in-1-alternative-latin-rnb-bundle-by-tow-mmy-on-sale-for-9-95-usd",
+      "name": "15-in-1 Alternative & Latin RnB Bundle by Tow.mmy on sale for $9.95 USD",
+      "developer": "rekkerd.org",
+      "category": "loop_pack",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/15-in-1-alternative-latin-rnb-bundle-by-tow-mmy-on-sale/",
+      "description": "VST Alarm has launched a promotion on a value bundle from Tow.mmy, offering a collection of 15 sample packs at a 96% discount for the next few weeks. The Alternative & Latin RnB Bundle is priced only $9.95 USD. This 15 in 1 collection blends the moody depth of Alternative RnB wit",
+      "discoveredAt": "2026-10-26",
+      "source": "rss"
+    },
+    {
+      "id": "save-39-on-klangmacht-drums-helloween-for-kontakt-player",
+      "slug": "save-39-on-klangmacht-drums-helloween-for-kontakt-player",
+      "name": "Save 39% on Klangmacht Drums: Helloween for Kontakt Player",
+      "developer": "rekkerd.org",
+      "category": "drum_kit",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/ugritone-klangmacht-drums-helloween-for-kontakt-player-sale/",
+      "description": "Ugritone has launched a limited time Halloween sale on Klangmacht Drums: Helloween, a drum instrument library for Native Instruments Kontakt and the free Kontakt Player. The Keeper of the Seven Keys needs no introduction. This kit does. Ingo Schwichtenberg’s original Sonor Signat",
+      "discoveredAt": "2026-10-26",
+      "source": "rss"
+    },
+    {
+      "id": "s1gns-of-l1fe-updates-tranquility-software-synthesizer-to-v1-3",
+      "slug": "s1gns-of-l1fe-updates-tranquility-software-synthesizer-to-v1-3",
+      "name": "S1gns Of L1fe updates Tranquility software synthesizer to v1.3",
+      "developer": "rekkerd.org",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/s1gns-of-l1fe-updates-tranquility-software-synthesizer-to-v1-3/",
+      "description": "S1gns Of L1fe has announced an update to the Tranquility software synthesizer instrument. Version 1.3 comes with new ways to create your own sounds, shape evolving modulation, and build expressive sequences. The biggest addition is Wavetable Studio. Draw your own waveforms, edit ",
+      "discoveredAt": "2026-10-26",
+      "source": "rss"
+    },
+    {
+      "id": "save-30-on-hy-slicer-2-versatile-slicer-plugin",
+      "slug": "save-30-on-hy-slicer-2-versatile-slicer-plugin",
+      "name": "Save 30% on HY-Slicer 2 versatile slicer plugin",
+      "developer": "rekkerd.org",
+      "category": "guitar",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/hy-slicer-2-versatile-slicer-plugin-on-sale/",
+      "description": "Plugin Boutique has announced an exclusive promotion on the HY-Slicer 2 plugin, offering 30% off on HY-Plugins’ versatile audio slicer instrument through the end of the month. This is a sampler type plugin. You can load 8 different audio samples. And they will be chopped into aud",
+      "discoveredAt": "2026-10-26",
+      "source": "rss"
+    },
+    {
+      "id": "patrick-alavi-releases-patch-compressor-and-mastering-plugins",
+      "slug": "patrick-alavi-releases-patch-compressor-and-mastering-plugins",
+      "name": "Patrick Alavi releases patch compressor and mastering plugins",
+      "developer": "rekkerd.org",
+      "category": "compressor",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/patrick-alavi-releases-patch-compressor-and-mastering-plugins/",
+      "description": "Patrick Alavi has announced the release of PA.1, a patch matrix compressor effect that allows users to patch stages in any order. Every other compressor decides for you in which order detector, attack, release and colour work. In PA.1 I take it apart into five stages, COMP, ATTAC",
+      "discoveredAt": "2026-10-26",
+      "source": "rss"
+    },
+    {
+      "id": "rift-2-cutting-edge-hybrid-distortion-by-minimal-audio-on-sale-for-69-usd",
+      "slug": "rift-2-cutting-edge-hybrid-distortion-by-minimal-audio-on-sale-for-69-usd",
+      "name": "Rift 2 cutting-edge hybrid distortion by Minimal Audio on sale for $69 USD",
+      "developer": "rekkerd.org",
+      "category": "eq",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/minimal-audio-rift-unique-distortion-plugin-sale/",
+      "description": "Plugin Boutique has launched an exclusive promotion on Minimal Audio’s distortion effect that offers groundbreaking effects, extensive modulation, and an all-around musical mindset. Offered at 46% off regular, Rift 2 features a bi-polar processing engine, physical modeling feedba",
+      "discoveredAt": "2026-10-26",
+      "source": "rss"
+    },
+    {
+      "id": "figura-plugin-by-acusmagic-turns-sound-into-living-cymatic-figures",
+      "slug": "figura-plugin-by-acusmagic-turns-sound-into-living-cymatic-figures",
+      "name": "Figura plugin by AcusMagic turns sound into living cymatic figures",
+      "developer": "rekkerd.org",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/figura-plugin-by-acusmagic-turns-sound-into-living-cymatic-figures/",
+      "description": "AcusMagic has introduced an audio effect that draws the sound passing through it in real time. Similar to its Sonicrama wavetable synthesizer, Figura shows one sound in three ways. In Sand, grains gather on a vibrating plate into Chladni figures: the plugin measures up to 32 part",
+      "discoveredAt": "2026-10-26",
+      "source": "rss"
+    },
+    {
+      "id": "save-50-on-uvi-orchestral-suite-2-classical-instruments-collection",
+      "slug": "save-50-on-uvi-orchestral-suite-2-classical-instruments-collection",
+      "name": "Save 50% on UVI Orchestral Suite 2 classical instruments collection",
+      "developer": "rekkerd.org",
+      "category": "bundle",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/uvi-orchestral-suite-sale/",
+      "description": "Plugin Boutique has announced an exclusive limited time sale on the Orchestral Suite 2 by UVI, an extensive collection of classical instruments in a modern, uniform, and easy-to-use music production environment. Take complete control of your own orchestra including strings, brass",
+      "discoveredAt": "2026-10-26",
+      "source": "rss"
+    },
+    {
+      "id": "beatskillz-halloween-sale-save-up-to-80-on-effect-plugins-instruments",
+      "slug": "beatskillz-halloween-sale-save-up-to-80-on-effect-plugins-instruments",
+      "name": "BeatSkillz Halloween Sale: Save up to 80% on effect plugins & instruments",
+      "developer": "rekkerd.org",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/beatskillz-halloween-sale-plugins-bundles/",
+      "description": "Plugin Boutique has announced a limited time Halloween Sale on BeatSkillz, offering a selection of its audio effect plugins and virtual instruments at a discount. Save up to 84% on an incredible range of popular instruments and effect plugins by BeatSkillz in our limited-time sal",
+      "discoveredAt": "2026-10-26",
+      "source": "rss"
+    },
+    {
+      "id": "halloween-sale-save-up-to-60-on-pitch-innovation-s-creative-audio-plugins",
+      "slug": "halloween-sale-save-up-to-60-on-pitch-innovation-s-creative-audio-plugins",
+      "name": "Halloween Sale: Save up to 60% on Pitch Innovation’s creative audio plugins",
+      "developer": "rekkerd.org",
+      "category": "eq",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/pitch-innovations-pitchbend-chord-bending-plugins-sale/",
+      "description": "Pitch Innovations has announced the launch of a limited time Halloween Sale with discounts of up to 60% off on its innovative music production tools focused on enhancing creativity and workflow inside the DAW. The offer includes the Groove Shaper one-of-a-kind creative sequencer,",
+      "discoveredAt": "2026-10-26",
+      "source": "rss"
+    },
+    {
+      "id": "bloom-reverb-effect-by-uvi-on-sale-for-29-usd",
+      "slug": "bloom-reverb-effect-by-uvi-on-sale-for-29-usd",
+      "name": "Bloom reverb effect by UVI on sale for $29 USD",
+      "developer": "rekkerd.org",
+      "category": "reverb",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/bloom-reverb-effect-by-uvi-on-sale/",
+      "description": "AudioDeluxe has announced an exclusive promotion on UVI’s lush, expressive reverb that moves with your sound. Bloom is on offer at a 63% discount through the end of the month. Bloom is a vibrant, modern reverb designed to spark inspiration. Built on a custom diffusion architectur",
+      "discoveredAt": "2026-10-26",
       "source": "rss"
     }
   ]
