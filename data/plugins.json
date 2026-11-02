@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-10-26",
+  "updatedAt": "2026-11-02",
   "plugins": [
     {
       "id": "vital",
@@ -17384,6 +17384,699 @@
       "officialUrl": "https://rekkerd.org/bloom-reverb-effect-by-uvi-on-sale/",
       "description": "AudioDeluxe has announced an exclusive promotion on UVI’s lush, expressive reverb that moves with your sound. Bloom is on offer at a 63% discount through the end of the month. Bloom is a vibrant, modern reverb designed to spark inspiration. Built on a custom diffusion architectur",
       "discoveredAt": "2026-10-26",
+      "source": "rss"
+    },
+    {
+      "id": "temper",
+      "slug": "temper",
+      "name": "Temper",
+      "developer": "dewpoint-av",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://github.com/dewpoint-av/Temper",
+      "description": "vst/clap audio plugin - spectral supressor",
+      "discoveredAt": "2026-11-02",
+      "source": "github"
+    },
+    {
+      "id": "asunder",
+      "slug": "asunder",
+      "name": "Asunder",
+      "developer": "dewpoint-av",
+      "category": "distortion",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://github.com/dewpoint-av/Asunder",
+      "description": "Distortion audio effect plugin (CLAP/VST)",
+      "discoveredAt": "2026-11-02",
+      "source": "github"
+    },
+    {
+      "id": "externalizer",
+      "slug": "externalizer",
+      "name": "Externalizer",
+      "developer": "mpusch88",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://github.com/mpusch88/Externalizer",
+      "description": "Externalizer is a VST3 audio plugin developed using the JUCE framework, designed to enable routing audio to and from external hardware processors within DAWs and other audio programs. The goal of the project is to provide latency compensation, dry/wet control, and gain staging.",
+      "discoveredAt": "2026-11-02",
+      "source": "github"
+    },
+    {
+      "id": "phu-audio-lib",
+      "slug": "phu-audio-lib",
+      "name": "Phu Audio Lib",
+      "developer": "huberp",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://github.com/huberp/phu-audio-lib",
+      "description": "a lib which is use by my vst3 plugins",
+      "discoveredAt": "2026-11-02",
+      "source": "github"
+    },
+    {
+      "id": "viper4host",
+      "slug": "viper4host",
+      "name": "Viper4Host",
+      "developer": "Rygtx",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://github.com/Rygtx/ViPER4Host",
+      "description": "把 ViPER 音效（ViPER4Android）封装成 VST2/VST3 插件，在任意 DAW 或 VST 宿主中使用完整的 ViPER 处理链。基于 JUCE 构建。ViPER audio effects as a VST2/VST3 plugin — run the full ViPER4Android processing chain in any DAW or VST host. Built with JUCE.",
+      "discoveredAt": "2026-11-02",
+      "source": "github"
+    },
+    {
+      "id": "earth-audio-plugins",
+      "slug": "earth-audio-plugins",
+      "name": "Earth Audio Plugins",
+      "developer": "SammyEl-Sherif",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://github.com/SammyEl-Sherif/earth-audio-plugins",
+      "description": "Monorepo for VST Development.",
+      "discoveredAt": "2026-11-02",
+      "source": "github"
+    },
+    {
+      "id": "psp-audioware-releases-classicqlite-a-free-british-style-eq-plugin",
+      "slug": "psp-audioware-releases-classicqlite-a-free-british-style-eq-plugin",
+      "name": "PSP Audioware releases ClassicQlite, a FREE British-style EQ plugin",
+      "developer": "bedroomproducersblog.com",
+      "category": "eq",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/11/02/psp-audioware-releases-classicqlite-a-free-british-style-eq-plugin/",
+      "description": "PSP Audioware has released PSP ClassicQlite, a free British-style equalizer plugin for macOS and Windows, inspired by classic console designs, including early Neve EQs. I think TDR Nova covers most of what you need in an EQ for free, but ClassicQlite is a great option if you want",
+      "discoveredAt": "2026-11-02",
+      "source": "rss"
+    },
+    {
+      "id": "vatrica-is-a-free-mix-enhancer-and-my-birthday-gift-to-you",
+      "slug": "vatrica-is-a-free-mix-enhancer-and-my-birthday-gift-to-you",
+      "name": "Vatrica is a FREE mix enhancer and my birthday gift to you",
+      "developer": "bedroomproducersblog.com",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/10/31/vatrica/",
+      "description": "Today is my birthday, and I’m celebrating by releasing Vatrica (meaning “little fire” in Serbian), a free one-knob mix enhancer for macOS and Windows. I’m sharing it with all Bedroom Producers Blog readers and Flame Sound customers as a small gift to thank you for your support so",
+      "discoveredAt": "2026-11-02",
+      "source": "rss"
+    },
+    {
+      "id": "zl-audio-releases-zl-limiter-a-free-limiter-for-windows-macos-and-linux",
+      "slug": "zl-audio-releases-zl-limiter-a-free-limiter-for-windows-macos-and-linux",
+      "name": "ZL Audio releases ZL Limiter, a FREE limiter for Windows, macOS, and Linux",
+      "developer": "bedroomproducersblog.com",
+      "category": "eq",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/10/31/zl-audio-releases-zl-limiter-a-free-limiter-for-windows-macos-and-linux/",
+      "description": "ZL Audio has released ZL Limiter, a free and open-source limiter plugin for Windows, macOS, and Linux. We’ve previously covered the developer’s ZL Equalizer 2 dynamic EQ, ZL Compressor, and ZL Splitter signal-routing utility. The compressor already offered four compression modes ",
+      "discoveredAt": "2026-11-02",
+      "source": "rss"
+    },
+    {
+      "id": "neusynth-lets-you-explore-new-instrument-stems-in-your-projects",
+      "slug": "neusynth-lets-you-explore-new-instrument-stems-in-your-projects",
+      "name": "NeuSynth lets you explore new instrument stems in your projects",
+      "developer": "bedroomproducersblog.com",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/10/31/neusynth/",
+      "description": "NeuSynth is a Mac plugin for trying new instrument parts against a track you’re already making. If a loop has the right feel but you feel like it’s missing something, the plugin gives you several options to hear in context before importing them into your session. You start with u",
+      "discoveredAt": "2026-11-02",
+      "source": "rss"
+    },
+    {
+      "id": "stagebox-software-releases-voiks-a-free-toy-keyboard-sampler-plugin",
+      "slug": "stagebox-software-releases-voiks-a-free-toy-keyboard-sampler-plugin",
+      "name": "StageBox Software releases Voiks, a FREE toy keyboard sampler plugin",
+      "developer": "bedroomproducersblog.com",
+      "category": "guitar",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/10/31/stagebox-software-voiks/",
+      "description": "StageBox Software has released Voiks, a free lo-fi sampler plugin for macOS and Windows inspired by the Yamaha VSS-30 sampling keyboard. The original VSS-30 arrived in 1987 with an 8-bit sampler and about a second and a half of sample memory. The cool thing was that you could rec",
+      "discoveredAt": "2026-11-02",
+      "source": "rss"
+    },
+    {
+      "id": "plugin-boutique-offers-reaktor-prism-evolve-elastic-lite-and-resing-se-as-free",
+      "slug": "plugin-boutique-offers-reaktor-prism-evolve-elastic-lite-and-resing-se-as-free",
+      "name": "Plugin Boutique offers Reaktor Prism, Evolve Elastic Lite, and ReSing SE as FREE",
+      "developer": "bedroomproducersblog.com",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/10/30/plugin-boutique-nov-26-gifts/",
+      "description": "Plugin Boutique’s November promotion offers Reaktor Prism, Evolve Elastic Lite, and ReSing SE for free with qualifying purchases. Any paid purchase lets you pick either Prism or Elastic Lite, with no minimum spend. To unlock ReSing SE, you’ll need to spend at least $49. That said",
+      "discoveredAt": "2026-11-02",
+      "source": "rss"
+    },
+    {
+      "id": "simpletapestop-is-a-free-tape-stop-plugin-for-macos-windows-and-linux",
+      "slug": "simpletapestop-is-a-free-tape-stop-plugin-for-macos-windows-and-linux",
+      "name": "simpleTapeStop is a FREE tape stop plugin for macOS, Windows, and Linux",
+      "developer": "bedroomproducersblog.com",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/10/30/simpletapestop/",
+      "description": "simpleSoundbank has released simpleTapeStop, a free tape stop and reverse effect for macOS, Windows, and Linux. We’ve covered quite a few other free tape stop plugins recently, like cStop and TapeFi STOP. There’s also the fantastic TimeStop from Cableguys, which costs $16. With s",
+      "discoveredAt": "2026-11-02",
+      "source": "rss"
+    },
+    {
+      "id": "vitric-audio-releases-colorfield-mix-stage-a-visual-room-placement-plugin",
+      "slug": "vitric-audio-releases-colorfield-mix-stage-a-visual-room-placement-plugin",
+      "name": "Vitric Audio releases Colorfield Mix Stage, a visual room placement plugin",
+      "developer": "bedroomproducersblog.com",
+      "category": "eq",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/10/30/vitric-audio-colorfield-mix-stage/",
+      "description": "Vitric Audio has released Colorfield Mix Stage, a mixing plugin that lets you position your tracks together inside a virtual room. Colorfield Mix Stage costs $29 until November 19, 2026, before rising to its regular $99 price. And you might remember Vitric Audio from Bevel EQ, wh",
+      "discoveredAt": "2026-11-02",
+      "source": "rss"
+    },
+    {
+      "id": "boom-library-offers-trailer-basics-with-294-cinematic-sound-effects-for-free",
+      "slug": "boom-library-offers-trailer-basics-with-294-cinematic-sound-effects-for-free",
+      "name": "BOOM Library offers Trailer Basics with 294 cinematic sound effects for FREE",
+      "developer": "bedroomproducersblog.com",
+      "category": "bundle",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/10/30/boom-library-trailer-basics/",
+      "description": "BOOM Library is offering Trailer Basics, a free collection of 294 braams, booms, and impacts for trailers, game audio, and cinematic music. If you’ve been collecting cinematic freebies like Flame Sound’s Futuristic Textures and the Cinematic Sounds collection on 99Sounds, here’s ",
+      "discoveredAt": "2026-11-02",
+      "source": "rss"
+    },
+    {
+      "id": "get-ujam-ufx-distort-free-in-an-exclusive-offer-for-bpb-readers",
+      "slug": "get-ujam-ufx-distort-free-in-an-exclusive-offer-for-bpb-readers",
+      "name": "Get UJAM UFX Distort FREE in an exclusive offer for BPB readers",
+      "developer": "bedroomproducersblog.com",
+      "category": "distortion",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/10/30/ujam-ufx-distort-free/",
+      "description": "Bedroom Producers Blog has teamed up with UJAM to offer UFX Distort, its $49 distortion and multi-effects plugin for macOS and Windows, FREE to BPB readers. The exclusive giveaway runs from October 30 until November 1, 2026. To claim your copy, subscribe to UJAM’s newsletter thro",
+      "discoveredAt": "2026-11-02",
+      "source": "rss"
+    },
+    {
+      "id": "spotlight-is-a-free-stereo-shaping-plugin-with-a-minimalist-interface",
+      "slug": "spotlight-is-a-free-stereo-shaping-plugin-with-a-minimalist-interface",
+      "name": "Spotlight is a FREE stereo shaping plugin with a minimalist interface",
+      "developer": "bedroomproducersblog.com",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/10/29/spotlight-stereo-shaping/",
+      "description": "Developer Daniel Fernandes has released Spotlight, a free/pay-what-you-want stereo shaping plugin for Windows, Linux, and macOS, currently in beta. Spotlight lets you adjust a sound’s width and stereo position by moving around a single dot. Daniel initially set out to make a pann",
+      "discoveredAt": "2026-11-02",
+      "source": "rss"
+    },
+    {
+      "id": "decent-sampler-1-40-1-adds-kontakt-import-and-automatic-hardware-sampling-for-fr",
+      "slug": "decent-sampler-1-40-1-adds-kontakt-import-and-automatic-hardware-sampling-for-fr",
+      "name": "Decent Sampler 1.40.1 adds Kontakt import and automatic hardware sampling for FR",
+      "developer": "bedroomproducersblog.com",
+      "category": "guitar",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/10/29/decent-sampler-kontakt-import/",
+      "description": "Decent Samples has released Decent Sampler 1.40.1, a major update to its free sampler that adds Kontakt instrument import and an Auto Sampler for recording your hardware instruments. I previously highlighted Decent Sampler in our Kontakt alternatives comparison for its large sele",
+      "discoveredAt": "2026-11-02",
+      "source": "rss"
+    },
+    {
+      "id": "bfd-3-5-acoustic-drum-studio-virtual-instrument-on-sale-for-35-usd-expansions",
+      "slug": "bfd-3-5-acoustic-drum-studio-virtual-instrument-on-sale-for-35-usd-expansions",
+      "name": "BFD 3.5 Acoustic Drum Studio virtual instrument on sale for $35 USD, Expansions",
+      "developer": "rekkerd.org",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/bfd3-acoustic-drum-studio-virtual-instrument-sale/",
+      "description": "Plugin Boutique has announced a limited time Black Friday Sale on the BFD 3.5 Acoustic Drum Studio, offering the virtual drum instrument for Windows and Mac at 82% off regular. An updated third generation of FXpansion’s flagship software acoustic drum studio, BFD 3.5 comes new le",
+      "discoveredAt": "2026-11-02",
+      "source": "rss"
+    },
+    {
+      "id": "save-87-on-audio-juice-halloween-collection-for-analog-lab",
+      "slug": "save-87-on-audio-juice-halloween-collection-for-analog-lab",
+      "name": "Save 87% on Audio Juice Halloween Collection for Analog Lab",
+      "developer": "rekkerd.org",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/audio-juice-halloween-bundle-for-analog-v-pigments-sale/",
+      "description": "VST Alarm has launched a limited time sale on a collection of sound packs by the Audio Juice label. The Halloween Collection contains a total of 120 presets for the Analog Lab virtual instrument and Pigments synthesizer by Arturia, alongside over 200 drum one shots and loops. The",
+      "discoveredAt": "2026-11-02",
+      "source": "rss"
+    },
+    {
+      "id": "vs-2-4-adds-gpu-particle-systems-to-imaginando-s-visual-synthesizer",
+      "slug": "vs-2-4-adds-gpu-particle-systems-to-imaginando-s-visual-synthesizer",
+      "name": "VS 2.4 adds GPU particle systems to Imaginando’s visual synthesizer",
+      "developer": "rekkerd.org",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/vs-2-4-adds-gpu-particle-systems-to-imaginandos-visual-synthesizer/",
+      "description": "Imaginando has released a free update to its visual synthesizer for macOS, Windows, iPad and Android. Version 2.4 of VS 2 adds Particles, a new kind of layer material: a GPU particle system that simulates up to 131,072 particles every frame, as streams, swarms, solids and clouds,",
+      "discoveredAt": "2026-11-02",
+      "source": "rss"
+    },
+    {
+      "id": "mey-audio-engineering-releases-rob-synthesizer-mey-play-disk-sampler-sonata-e",
+      "slug": "mey-audio-engineering-releases-rob-synthesizer-mey-play-disk-sampler-sonata-e",
+      "name": "MEY Audio Engineering releases ROB synthesizer, MEY PLAY disk sampler & Sonata e",
+      "developer": "rekkerd.org",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/mey-audio-engineering-releases-rob-synthesizer-mey-play-disk-sampler-sonata-expression-plugin/",
+      "description": "MEY Audio Engineering has announced the release of its signature polysynth, a sampler for old Akai and Kurzweil disks, and a one-wheel expression tool for orchestral playing. ROB features sixteen voices of four oscillators each and a transistor ladder filter built to be pushed. E",
+      "discoveredAt": "2026-11-02",
+      "source": "rss"
+    },
+    {
+      "id": "frctl-audio-releases-dukr-sidechain-ducker-effect-plugin",
+      "slug": "frctl-audio-releases-dukr-sidechain-ducker-effect-plugin",
+      "name": "FRCTL Audio releases DUKR sidechain ducker effect plugin",
+      "developer": "rekkerd.org",
+      "category": "eq",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/frctl-audio-releases-dukr-sidechain-ducker-effect-plugin/",
+      "description": "FRCTL Audio has recently launched a sidechain ducker designed for producers who want to trace the duck from the sidechain, shape it by hand and carve out only the frequencies that clash, with zero latency. DUKR works in two stages. The first turns the track down in the shape of a",
+      "discoveredAt": "2026-11-02",
+      "source": "rss"
+    },
+    {
+      "id": "save-up-to-70-on-gforce-software-s-virtual-synthesizer-instruments",
+      "slug": "save-up-to-70-on-gforce-software-s-virtual-synthesizer-instruments",
+      "name": "Save up to 70% on GForce Software’s virtual synthesizer instruments",
+      "developer": "rekkerd.org",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/gforce-software-virtual-synthesizer-instruments-sale/",
+      "description": "Plugin Boutique has announced a limited time sale on virtual instruments from GForce Software, offering up to 70% off regular as part of a Black Friday promotion. The sale includes popular products such as the IconDrum and Oberheim DMX drum machines, Novation Bass Station synthes",
+      "discoveredAt": "2026-11-02",
+      "source": "rss"
+    },
+    {
+      "id": "free-vatrica-one-knob-mix-enhancer-plugin-by-flame-sound",
+      "slug": "free-vatrica-one-knob-mix-enhancer-plugin-by-flame-sound",
+      "name": "FREE: Vatrica one-knob mix enhancer plugin by Flame Sound",
+      "developer": "rekkerd.org",
+      "category": "mastering",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/free-vatrica-one-knob-mix-enhancer-plugin-by-flame-sound/",
+      "description": "Flame Sound has introduced a single-knob effect plugin built on the processing engine of its VATRA mix finisher. Vatrica features 3 modes to add loudness, warmth, punch, weight, and air to your mix. One Macro knob blends five of VATRA’s controls across three modes. Try the MSTR m",
+      "discoveredAt": "2026-11-02",
+      "source": "rss"
+    },
+    {
+      "id": "save-40-on-tracktion-s-virtual-instruments-effects-waveform-pro",
+      "slug": "save-40-on-tracktion-s-virtual-instruments-effects-waveform-pro",
+      "name": "Save 40% on Tracktion’s virtual instruments, effects & Waveform Pro",
+      "developer": "rekkerd.org",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/tracktion-waveform-pro-daw-plugins-sale/",
+      "description": "Tracktion is offering a 40% discount storewide in celebration of the Halloween season. Everything at Tracktion is 40% OFF right now. Create custom instruments and effects as plugins, experiment with new sounds, and expand your studio with tools that keep you focused on making mus",
+      "discoveredAt": "2026-11-02",
+      "source": "rss"
+    },
+    {
+      "id": "turn2on-releases-odc-diode-contour-overdrive-for-reason",
+      "slug": "turn2on-releases-odc-diode-contour-overdrive-for-reason",
+      "name": "Turn2on releases ODC Diode Contour Overdrive for Reason",
+      "developer": "rekkerd.org",
+      "category": "distortion",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/turn2on-releases-odc-diode-contour-overdrive-for-reason/",
+      "description": "Turn2on has announced the release of an original power-amp fx Rack Extension inspired by the revisions of the Fulltone OCD pedal. It is designed for musicians, who want a dynamic, amp-like overdrive that stays articulate from the lightest edge to full saturation. Original pedal e",
+      "discoveredAt": "2026-11-02",
+      "source": "rss"
+    },
+    {
+      "id": "november-10-in-1-mega-bundle-by-audio-plugin-deals",
+      "slug": "november-10-in-1-mega-bundle-by-audio-plugin-deals",
+      "name": "November 10-in-1 Mega Bundle by Audio Plugin Deals",
+      "developer": "rekkerd.org",
+      "category": "bundle",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/november-10-in-1-mega-bundle-by-audio-plugin-deals/",
+      "description": "Audio Plugin Deals has launched a new value bundle featuring a collection of effect plugins, playable instruments, trailer sound design and loop libraries. Offered at 96% off regular, the November 10-in-1 Mega Bundle is on sale for only $30 USD through the end of the month. Shape",
+      "discoveredAt": "2026-11-02",
+      "source": "rss"
+    },
+    {
+      "id": "free-relic-studio-classics-collection-updated-with-rf-224-rf-480r-reverb-plug",
+      "slug": "free-relic-studio-classics-collection-updated-with-rf-224-rf-480r-reverb-plug",
+      "name": "FREE: Relic studio classics collection updated with RF-224 & RF-480R reverb plug",
+      "developer": "rekkerd.org",
+      "category": "eq",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/free-relic-studio-classics-collection-updated-with-rf-224-rf-480r-reverb-plugins/",
+      "description": "Riverflux Audio has announced an update to its free collection of classic studio units for Windows, macOS and Linux. 15 classic studio units, each its own plugin: five compressors, five equalizers, two tape machines, a channel strip and two reverbs, with meters, needles and reels",
+      "discoveredAt": "2026-11-02",
+      "source": "rss"
+    },
+    {
+      "id": "save-40-on-soundid-voiceai-studio-grade-voice-transformer-plugin",
+      "slug": "save-40-on-soundid-voiceai-studio-grade-voice-transformer-plugin",
+      "name": "Save 40% on SoundID VoiceAI studio-grade voice transformer plugin",
+      "developer": "rekkerd.org",
+      "category": "vocal",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/soundid-voiceai-studio-grade-voice-transformer-plugin-sale/",
+      "description": "Plugin Boutique has announced an exclusive limited time offer on Sonarworks’ plugin designed to boost the way you produce your vocal tracks. Using the power of AI to transform your voice track instantly without leaving either your DAW or your studio, SoundID VoiceAI is offered at",
+      "discoveredAt": "2026-11-02",
+      "source": "rss"
+    },
+    {
+      "id": "free-microsampler-85-virtual-instrument-by-brownie-digital",
+      "slug": "free-microsampler-85-virtual-instrument-by-brownie-digital",
+      "name": "FREE: Microsampler 85′ virtual instrument by Brownie Digital",
+      "developer": "rekkerd.org",
+      "category": "guitar",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/free-microsampler-85-virtual-instrument-by-brownie-digital/",
+      "description": "Brownie Digital has introduced an emulation of the classic 1985 Casio SK-1 sampling keyboard. The free version of Microsampler 85′ comes with features from the complete 1985 unit (1.47s mono sampling, built-in tones, 11 accompaniment rhythms, step editor, circuit bends), while an",
+      "discoveredAt": "2026-11-02",
+      "source": "rss"
+    },
+    {
+      "id": "fabfilter-updates-twin-synthesizer-to-v3-10-incl-full-mpe-support",
+      "slug": "fabfilter-updates-twin-synthesizer-to-v3-10-incl-full-mpe-support",
+      "name": "FabFilter updates Twin synthesizer to v3.10, incl. full MPE support",
+      "developer": "rekkerd.org",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/fabfilter-updates-twin-synthesizer-to-v3-10-incl-full-mpe-support/",
+      "description": "FabFilter has announced an update to its software synthesizer instrument. Version 3.10 of Twin 3 introduces full MPE support for polyphonic expression. Color your sounds using per-note pitch bend, timbre and lift, all customizable via Twin’s powerful modulation system. The factor",
+      "discoveredAt": "2026-11-02",
+      "source": "rss"
+    },
+    {
+      "id": "morph-3-pro-audio-morphing-plugin-by-zynaptiq-on-sale-for-99-usd",
+      "slug": "morph-3-pro-audio-morphing-plugin-by-zynaptiq-on-sale-for-99-usd",
+      "name": "Morph 3 Pro audio morphing plugin by Zynaptiq on sale for $99 USD",
+      "developer": "rekkerd.org",
+      "category": "reverb",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/morph-3-pro-audio-morphing-plugin-by-zynaptiq-on-sale/",
+      "description": "Plugin Boutique has announced a limited time sale on Zynaptiq’s real-time plugin for audio morphing, offering 63% off regular for a few days only. Morph 3 Pro features 11 different morphing algorithms, a style transfer and file playback module, transient bypass options, a stunnin",
+      "discoveredAt": "2026-11-02",
       "source": "rss"
     }
   ]
