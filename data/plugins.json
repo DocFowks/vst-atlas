@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-11-02",
+  "updatedAt": "2026-11-09",
   "plugins": [
     {
       "id": "vital",
@@ -18077,6 +18077,573 @@
       "officialUrl": "https://rekkerd.org/morph-3-pro-audio-morphing-plugin-by-zynaptiq-on-sale/",
       "description": "Plugin Boutique has announced a limited time sale on Zynaptiq’s real-time plugin for audio morphing, offering 63% off regular for a few days only. Morph 3 Pro features 11 different morphing algorithms, a style transfer and file playback module, transient bypass options, a stunnin",
       "discoveredAt": "2026-11-02",
+      "source": "rss"
+    },
+    {
+      "id": "morpheral-machines-releases-desense-a-free-lo-fi-interference-instrument",
+      "slug": "morpheral-machines-releases-desense-a-free-lo-fi-interference-instrument",
+      "name": "Morpheral Machines releases Desense, a FREE lo-fi interference instrument",
+      "developer": "bedroomproducersblog.com",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/11/09/morpheral-desense/",
+      "description": "Morpheral Machines has released Desense, a free instrument that turns stuff like phone interference, electrical hum, and radio noise into sounds you can play from your keyboard. The developer is a new Berlin studio founded by Renoise creator Eduard Müller. Desense actually starte",
+      "discoveredAt": "2026-11-09",
+      "source": "rss"
+    },
+    {
+      "id": "what-bpb-readers-think-about-ai-in-music-software",
+      "slug": "what-bpb-readers-think-about-ai-in-music-software",
+      "name": "What BPB readers think about AI in music software",
+      "developer": "bedroomproducersblog.com",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/11/09/bpb-reader-poll-ai/",
+      "description": "More than 2,000 BPB readers took part in our poll about AI in music software. I received 2,096 responses and 762 comments. The consensus is that most readers want BPB to cover at least some of these tools, while drawing a firm line at software that generates music. Thank you to e",
+      "discoveredAt": "2026-11-09",
+      "source": "rss"
+    },
+    {
+      "id": "pulsar-modular-releases-q-bit-a-free-bitcrusher-with-rhythmic-time-hold",
+      "slug": "pulsar-modular-releases-q-bit-a-free-bitcrusher-with-rhythmic-time-hold",
+      "name": "Pulsar Modular releases Q BIT, a FREE bitcrusher with rhythmic Time Hold",
+      "developer": "bedroomproducersblog.com",
+      "category": "compressor",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/11/09/pulsar-modular-qbit/",
+      "description": "Pulsar Modular has released Q BIT, a free bitcrusher that combines digital distortion inspired by vintage hardware with a Time Hold effect for some pretty interesting rhythmic results. We previously covered the developer’s Sahara compressor, but this one explores the digital arti",
+      "discoveredAt": "2026-11-09",
+      "source": "rss"
+    },
+    {
+      "id": "scrap-brain-audio-releases-2g-a-free-lo-fi-sampler-with-a-retro-phone-interface",
+      "slug": "scrap-brain-audio-releases-2g-a-free-lo-fi-sampler-with-a-retro-phone-interface",
+      "name": "Scrap Brain Audio releases 2G, a FREE lo-fi sampler with a retro phone interface",
+      "developer": "bedroomproducersblog.com",
+      "category": "guitar",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/11/09/scrap-brain-audio-26/",
+      "description": "Scrap Brain Audio’s 2G is a free lo-fi sampler inspired by early-2000s mobile phones, with text-to-sound generation. I’m absolutely in love with the interface. In fact, it’s one of the coolest and most fun plugin interfaces I’ve ever used. I love pixel art, and we’ve been seeing ",
+      "discoveredAt": "2026-11-09",
+      "source": "rss"
+    },
+    {
+      "id": "tuned-launches-its-v2-vocal-plugin-bundle-for-9-99-with-f-ck-ai-slop-campaign",
+      "slug": "tuned-launches-its-v2-vocal-plugin-bundle-for-9-99-with-f-ck-ai-slop-campaign",
+      "name": "Tuned launches its V2 vocal plugin bundle for $9.99 with “F*CK AI SLOP” campaign",
+      "developer": "bedroomproducersblog.com",
+      "category": "bundle",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/11/09/tuned-fck-ai-slop/",
+      "description": "Tuned Plugins has released Vocal Essentials Bundle V2, a collection of four updated vocal effects for macOS and Windows, with a 72-hour launch offer priced at $9.99. The Tuned V2 launch offer is part of the developer’s “F*CK AI SLOP” campaign, which is the developer’s antidote to",
+      "discoveredAt": "2026-11-09",
+      "source": "rss"
+    },
+    {
+      "id": "rev-246-is-a-free-emt-246-inspired-reverb-for-macos-windows-and-linux",
+      "slug": "rev-246-is-a-free-emt-246-inspired-reverb-for-macos-windows-and-linux",
+      "name": "REV-246 is a FREE EMT 246-inspired reverb for macOS, Windows, and Linux",
+      "developer": "bedroomproducersblog.com",
+      "category": "reverb",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/11/08/rev-246-reverb/",
+      "description": "Developer Leigh Pierce has released REV-246, a free, open-source digital reverb inspired by the EMT 246 studio hardware, for macOS, Windows, and Linux. The plugin covers tight rooms, long cathedral tails, and gated or reverse effects across five programs. In addition to these EMT",
+      "discoveredAt": "2026-11-09",
+      "source": "rss"
+    },
+    {
+      "id": "tech-audio-shrapnel-turns-particle-collisions-into-sound-with-an-exclusive-bpb",
+      "slug": "tech-audio-shrapnel-turns-particle-collisions-into-sound-with-an-exclusive-bpb",
+      "name": "Tech Audio Shrapnel turns particle collisions into sound, with an exclusive BPB",
+      "developer": "bedroomproducersblog.com",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/11/08/tech-audio-shrapnel/",
+      "description": "Tech Audio has updated Shrapnel, its physics-based sound design plugin for macOS and Windows, with a free 100-preset pack, and BPB readers can get an exclusive 10% discount through November 15. Use the code BPBSHRAP10 at checkout to get Shrapnel for $44.10 instead of $49. The cod",
+      "discoveredAt": "2026-11-09",
+      "source": "rss"
+    },
+    {
+      "id": "tinyant-releases-purpl-a-free-chorus-and-shimmer-reverb-plugin",
+      "slug": "tinyant-releases-purpl-a-free-chorus-and-shimmer-reverb-plugin",
+      "name": "tinyant releases purpl, a FREE chorus and shimmer reverb plugin",
+      "developer": "bedroomproducersblog.com",
+      "category": "reverb",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/11/08/tinyant-purpl-shimmer-reverb/",
+      "description": "tinyant has released purpl, a free chorus and reverb plugin for Windows and Linux. It felt super refreshing to discover a free plugin from a developer I haven’t heard of before, and to find a website without the AI design and bombastic marketing messages we’re seeing everywhere n",
+      "discoveredAt": "2026-11-09",
+      "source": "rss"
+    },
+    {
+      "id": "flame-sound-black-friday-sale-offers-everything-bundle-for-49",
+      "slug": "flame-sound-black-friday-sale-offers-everything-bundle-for-49",
+      "name": "Flame Sound Black Friday sale offers Everything Bundle for $49",
+      "developer": "bedroomproducersblog.com",
+      "category": "bundle",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/11/07/flame-sound-black-friday-2026/",
+      "description": "Flame Sound is running its Black Friday sale from November 6 through December 1, 2026. First, thank you to everyone who has tried VATRA and shared such kind feedback. If you missed the intro sale, the plugin is now $39 again, down from $69. VATRA lets you add loudness with Ignite",
+      "discoveredAt": "2026-11-09",
+      "source": "rss"
+    },
+    {
+      "id": "polyend-offers-patch-modular-effects-sample-pack-for-free",
+      "slug": "polyend-offers-patch-modular-effects-sample-pack-for-free",
+      "name": "Polyend offers Patch modular effects sample pack for FREE",
+      "developer": "bedroomproducersblog.com",
+      "category": "loop_pack",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/11/07/polyend-patch/",
+      "description": "Polyend is offering Patch, a sample pack featuring 101 experimental Eurorack effects, for free with the code PROMOPATCH at checkout. Simply add the pack to your cart and apply the code before completing checkout. Thanks to BPB reader Stan for the info! The collection is great for",
+      "discoveredAt": "2026-11-09",
+      "source": "rss"
+    },
+    {
+      "id": "ilio-adds-2-000-more-free-low-end-theory-2-licenses-for-bpb-readers",
+      "slug": "ilio-adds-2-000-more-free-low-end-theory-2-licenses-for-bpb-readers",
+      "name": "ILIO adds 2,000 more FREE Low End Theory 2 licenses for BPB readers",
+      "developer": "bedroomproducersblog.com",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/11/07/low-end-theory-2-more/",
+      "description": "ILIO has added 2,000 more free licenses for Low End Theory 2, giving BPB readers another chance to grab Sean Divine’s 100-preset sound pack with the free AAS Player. The first batch from our giveaway earlier this week went quickly, and I’ve received quite a few emails from reader",
+      "discoveredAt": "2026-11-09",
+      "source": "rss"
+    },
+    {
+      "id": "krotos-offers-simple-monsters-and-10-5-gb-starter-library-free-until-november-11",
+      "slug": "krotos-offers-simple-monsters-and-10-5-gb-starter-library-free-until-november-11",
+      "name": "Krotos offers Simple Monsters and 10.5 GB Starter Library FREE until November 11",
+      "developer": "bedroomproducersblog.com",
+      "category": "bundle",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/11/07/krotos-simple-monsters-free/",
+      "description": "Krotos is giving away Dehumaniser Simple Monsters and the Krotos Starter Sound Effects Library, a voice-processing plugin and sound effects collection normally priced at $298 combined. The Free Sound Design Kit offer ends on November 11, 2026, at 23:59 GMT. You need to complete c",
+      "discoveredAt": "2026-11-09",
+      "source": "rss"
+    },
+    {
+      "id": "past-to-future-plugins-releases-ptf-144-4-track-cassette-mixer-plugin",
+      "slug": "past-to-future-plugins-releases-ptf-144-4-track-cassette-mixer-plugin",
+      "name": "Past To Future Plugins releases PTF-144 4-track cassette mixer plugin",
+      "developer": "rekkerd.org",
+      "category": "distortion",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/past-to-future-plugins-releases-ptf-144-4-track-cassette-mixer-plugin/",
+      "description": "Past To Future Plugins has introduced a new audio plugin which aims to bring the unmistakable sound and workflow of a legendary vintage 4-track cassette recorder straight into your DAW. From subtle analog warmth to crunchy, wobbly lo-fi destruction, PTF-144 is designed to capture",
+      "discoveredAt": "2026-11-09",
+      "source": "rss"
+    },
+    {
+      "id": "mok-updates-filtryg-filter-plugin-to-v1-2-2-with-windows-arm-support",
+      "slug": "mok-updates-filtryg-filter-plugin-to-v1-2-2-with-windows-arm-support",
+      "name": "MOK updates Filtryg filter plugin to v1.2.2 with Windows ARM support",
+      "developer": "rekkerd.org",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/mok-updates-filtryg-filter-plugin-to-v1-2-2-with-windows-arm-support/",
+      "description": "Media Overkill (MOK) has released an update to its dual filter effect plugin for Windows, macOS and Linux (VST/VST3, AU and AAX). Version 1.2.2 of Filtryg adds support for Windows ARM64X (ARM64CE/ARM64). On Linux, in addition to the usual .deb package, a new download option for a",
+      "discoveredAt": "2026-11-09",
+      "source": "rss"
+    },
+    {
+      "id": "free-fandust-slows-down-detunes-and-wobbles-your-sound",
+      "slug": "free-fandust-slows-down-detunes-and-wobbles-your-sound",
+      "name": "FREE: FANDUST slows down, detunes and wobbles your sound",
+      "developer": "rekkerd.org",
+      "category": "reverb",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/free-fandust-slows-down-detunes-and-wobbles-your-sound/",
+      "description": "Sunfish Software has introduced a new audio plugin for Windows, macOS and Linux (VST3/AU). A smear machine for slowing down, detuning and wearing out sound, FANDUST can be used for slowed + reverb edits, lo-fi beats, vaporwave, or anything that should sound like an old tape. It s",
+      "discoveredAt": "2026-11-09",
+      "source": "rss"
+    },
+    {
+      "id": "save-68-on-ethesia-sampler-synthesizer-instrument-by-cloudy-samples",
+      "slug": "save-68-on-ethesia-sampler-synthesizer-instrument-by-cloudy-samples",
+      "name": "Save 68% on Ethesia sampler/synthesizer instrument by Cloudy Samples",
+      "developer": "rekkerd.org",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/ethesia-sampler-synthesizer-instrument-by-cloudy-samples-on-sale/",
+      "description": "VST Alarm has launched an exclusive promotion on Cloudy Samples’ premium hybrid sampler synthesizer for Windows and macOS (VST3/AU). Ethesia is on sale for $12.95 USD for the next few days. Ethesia is a brand new hybrid sampler synthesizer from Cloudy Samples – an advanced sample",
+      "discoveredAt": "2026-11-09",
+      "source": "rss"
+    },
+    {
+      "id": "save-up-to-70-on-murst-instruments-inspiring-kontakt-player-libraries",
+      "slug": "save-up-to-70-on-murst-instruments-inspiring-kontakt-player-libraries",
+      "name": "Save up to 70% on Murst Instruments inspiring Kontakt Player libraries",
+      "developer": "rekkerd.org",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/murst-instruments-inspiring-kontakt-player-libraries-sale/",
+      "description": "Plugin Boutique has launched a limited time Black Friday Sale on the Kontakt instrument libraries from Murst Instruments, offering up to 70% off for a few weeks only. Murst Instruments develop tools that are inspiring and immediate, that blend acoustic and electronic sound source",
+      "discoveredAt": "2026-11-09",
+      "source": "rss"
+    },
+    {
+      "id": "unusable-engineering-releases-currents-nostalgia-synthesizer",
+      "slug": "unusable-engineering-releases-currents-nostalgia-synthesizer",
+      "name": "Unusable Engineering releases Currents & Nostalgia synthesizer",
+      "developer": "rekkerd.org",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/unusable-engineering-releases-currents-nostalgia-synthesizer/",
+      "description": "Unusable Engineering has introduced a new synthesizer instrument whose basic sound is designed to make you want to keep playing. The kind of sound that suggests a melody, then another part, until an arrangement starts taking shape in your head. Currents & Nostalgia‘s familiar sub",
+      "discoveredAt": "2026-11-09",
+      "source": "rss"
+    },
+    {
+      "id": "free-mg-mini-midi-grabber-plugin-by-never-found",
+      "slug": "free-mg-mini-midi-grabber-plugin-by-never-found",
+      "name": "FREE: MG-Mini MIDI grabber plugin by Never Found",
+      "developer": "rekkerd.org",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/free-mg-mini-midi-grabber-plugin-by-never-found/",
+      "description": "Never Found has introduced a new audio plugin for Windows (VST3 and standalone) which takes what just played and puts the MIDI on your bars. Press GRAB and what just played lands as MIDI on your bars, ready to drag onto a track. You can also drop an audio file on it. Single Line ",
+      "discoveredAt": "2026-11-09",
+      "source": "rss"
+    },
+    {
+      "id": "save-70-on-shane-everything-bundle-37-plugins",
+      "slug": "save-70-on-shane-everything-bundle-37-plugins",
+      "name": "Save 70% on Shane Everything Bundle (37 plugins)",
+      "developer": "rekkerd.org",
+      "category": "bundle",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/shane-everything-plugin-bundle-sale/",
+      "description": "Audio Plugin Deals has launched a limited time promotion on a value bundle featuring plugins from Shane Audio. On sale for $45 USD (regular $149 USD), the Shane Everything Bundle comprises all 37 of Shane’s paid plugins. Shane Audio is the work of Shane, a K-pop producer in Seoul",
+      "discoveredAt": "2026-11-09",
+      "source": "rss"
+    },
+    {
+      "id": "initial-audio-updates-sourcelab-virtual-instrument-to-v2-6",
+      "slug": "initial-audio-updates-sourcelab-virtual-instrument-to-v2-6",
+      "name": "Initial Audio updates SourceLab virtual instrument to v2.6",
+      "developer": "rekkerd.org",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/initial-audio-updates-sourcelab-virtual-instrument-to-v2-6/",
+      "description": "Initial Audio has released an update to its hybrid instrument with an advanced wavetable engine, multisample playback, and loop slicing. Version 2.6 of SourceLab brings spline drawing, physically modeled patch cables, Difro 2 Pro AI compatibility and 100 new presets. Stop jumping",
+      "discoveredAt": "2026-11-09",
+      "source": "rss"
+    },
+    {
+      "id": "save-80-on-the-bells-virtual-instrument-by-samplescience",
+      "slug": "save-80-on-the-bells-virtual-instrument-by-samplescience",
+      "name": "Save 80% on The Bells virtual instrument by SampleScience",
+      "developer": "rekkerd.org",
+      "category": "guitar",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/the-bells-virtual-instrument-by-samplescience-on-sale/",
+      "description": "SampleScience has announced a 24-hour flash sale on its virtual instrument featuring the sound of tuned bell sounds. The Bells is on sale at 80% off regular. Whether you are scoring a dramatic cinematic scene, building a dark orchestral cue, or crafting moody trap and lo-fi beats",
+      "discoveredAt": "2026-11-09",
+      "source": "rss"
+    },
+    {
+      "id": "free-with-purchase-prime-8-stardust-201-little-foot-2-or-all-tec-eqs",
+      "slug": "free-with-purchase-prime-8-stardust-201-little-foot-2-or-all-tec-eqs",
+      "name": "FREE with purchase: Prime 8+, Stardust 201, Little Foot 2 or All-Tec EQs",
+      "developer": "rekkerd.org",
+      "category": "eq",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/free-with-purchase-prime-8-stardust-201-little-foot-2-or-all-tec-eqs/",
+      "description": "AudioDeluxe is offering its customers a choice from four free products with a purchase at its store through the end of November. Any order of $10 USD or more qualifies to pick one of the following plugins: UVI Prime8+ (regular $39 USD): The sounds of a classic ’80s drum machine. ",
+      "discoveredAt": "2026-11-09",
+      "source": "rss"
+    },
+    {
+      "id": "2026-45-round-up-new-instruments-effects-utilities-and-more",
+      "slug": "2026-45-round-up-new-instruments-effects-utilities-and-more",
+      "name": "2026-45 Round-Up: New instruments & effects, utilities and more",
+      "developer": "rekkerd.org",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/2026-45-round-up-new-instruments-effects-utilities-and-more/",
+      "description": "Another week, another round-up of plugins and other music tools. While putting together a post like this takes less time than if I were to mention each plugin separately in a news article, I’m still putting in considerable effort. I reckon there’s some useful things in the list b",
+      "discoveredAt": "2026-11-09",
+      "source": "rss"
+    },
+    {
+      "id": "the-very-loud-indeed-co-releases-ember-for-omnisphere-3",
+      "slug": "the-very-loud-indeed-co-releases-ember-for-omnisphere-3",
+      "name": "The Very Loud Indeed Co. releases Ember for Omnisphere 3",
+      "developer": "rekkerd.org",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/the-very-loud-indeed-co-releases-ember-for-omnisphere-3/",
+      "description": "Sound design boutique company The Very Loud Indeed Co. has launched a collection of 120 new cinematic patches for Spectrasonics’ Omnisphere 3 synthesizer. Omnisphere 3 Ember includes 123 new sound sources which have been recorded and designed specifically for this soundset. It on",
+      "discoveredAt": "2026-11-09",
+      "source": "rss"
+    },
+    {
+      "id": "free-purrigee-drone-reverb-that-lets-your-chords-float-in-the-night-sky",
+      "slug": "free-purrigee-drone-reverb-that-lets-your-chords-float-in-the-night-sky",
+      "name": "FREE: Purrigee drone reverb that lets your chords float in the night sky",
+      "developer": "rekkerd.org",
+      "category": "reverb",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/free-purrigee-drone-reverb-that-lets-your-chords-float-in-the-night-sky/",
+      "description": "Cat Psychedelia, a one-person plugin brand from Japan, has released a free reverb plugin for Windows and macOS (VST3/AU). Designed for making pads and drones quickly, Purrigee centers on one big knob, TIDE. Users can play a chord once and let go, and instead of dying away, the so",
+      "discoveredAt": "2026-11-09",
+      "source": "rss"
+    },
+    {
+      "id": "singomakers-releases-tech-house-freaks-sample-pack",
+      "slug": "singomakers-releases-tech-house-freaks-sample-pack",
+      "name": "Singomakers releases Tech House Freaks sample pack",
+      "developer": "rekkerd.org",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/singomakers-releases-tech-house-freaks-sample-pack/",
+      "description": "Singomakers has a new royalty-free sample pack featuring a fresh batch of chunky basslines, punchy drums, catchy synths, vocal hooks, and more. Tech House Freaks offers everything you need to get those ideas moving and keep your productions sounding current. Inspired by artists l",
+      "discoveredAt": "2026-11-09",
       "source": "rss"
     }
   ]
