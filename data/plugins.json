@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-11-09",
+  "updatedAt": "2026-11-16",
   "plugins": [
     {
       "id": "vital",
@@ -18644,6 +18644,699 @@
       "officialUrl": "https://rekkerd.org/singomakers-releases-tech-house-freaks-sample-pack/",
       "description": "Singomakers has a new royalty-free sample pack featuring a fresh batch of chunky basslines, punchy drums, catchy synths, vocal hooks, and more. Tech House Freaks offers everything you need to get those ideas moving and keep your productions sounding current. Inspired by artists l",
       "discoveredAt": "2026-11-09",
+      "source": "rss"
+    },
+    {
+      "id": "corrode",
+      "slug": "corrode",
+      "name": "Corrode",
+      "developer": "Lyness97",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://github.com/Lyness97/corrode",
+      "description": "A audio effect vst plugin based on Abletons Erosion",
+      "discoveredAt": "2026-11-16",
+      "source": "github"
+    },
+    {
+      "id": "minaton-xt",
+      "slug": "minaton-xt",
+      "name": "Minaton Xt",
+      "developer": "AnClark",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://github.com/AnClark/Minaton-XT",
+      "description": "An analogue style synthesizer with beefy, warm sound",
+      "discoveredAt": "2026-11-16",
+      "source": "github"
+    },
+    {
+      "id": "pluginrack",
+      "slug": "pluginrack",
+      "name": "Pluginrack",
+      "developer": "PixelAxolotl",
+      "category": "vocal",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://github.com/PixelAxolotl/PluginRack",
+      "description": "A voicemeter inspiried audio mixer/router for livestreaming or device audio routing",
+      "discoveredAt": "2026-11-16",
+      "source": "github"
+    },
+    {
+      "id": "uncleal",
+      "slug": "uncleal",
+      "name": "Uncleal",
+      "developer": "liftarn",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://github.com/liftarn/UncleAl",
+      "description": "An industrial-style rhythmic noise gate, downward expander, and audio stutter VST (or other) plugin.",
+      "discoveredAt": "2026-11-16",
+      "source": "github"
+    },
+    {
+      "id": "curve",
+      "slug": "curve",
+      "name": "Curve",
+      "developer": "tomderham",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://github.com/tomderham/curve",
+      "description": "Menu bar macOS app that hosts audio plugins",
+      "discoveredAt": "2026-11-16",
+      "source": "github"
+    },
+    {
+      "id": "mysticaland",
+      "slug": "mysticaland",
+      "name": "Mysticaland",
+      "developer": "trishargolder12-oss",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://github.com/trishargolder12-oss/mysticaland",
+      "description": "Mysticaland — A gothic boutique audio plugin ecosystem shell. VST/AU host, instrument rack, effects browser and DAW bridge.",
+      "discoveredAt": "2026-11-16",
+      "source": "github"
+    },
+    {
+      "id": "gulldsp-phathom-is-a-free-bass-preamp-and-distortion-plugin-for-windows",
+      "slug": "gulldsp-phathom-is-a-free-bass-preamp-and-distortion-plugin-for-windows",
+      "name": "GullDSP Phathom is a FREE bass preamp and distortion plugin for Windows",
+      "developer": "bedroomproducersblog.com",
+      "category": "distortion",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/11/16/gulldsp-phathom/",
+      "description": "GullDSP offers Phathom, a free and open-source bass guitar preamp plugin for Windows, designed for fuzzy, growling, and clanky modern bass tones. We previously covered the developer’s Circulate phase smearing plugin. That one was pretty wild, and definitely worth trying for inter",
+      "discoveredAt": "2026-11-16",
+      "source": "rss"
+    },
+    {
+      "id": "in-session-audio-offers-dyad-solo-kalimba-free-for-kontakt-player",
+      "slug": "in-session-audio-offers-dyad-solo-kalimba-free-for-kontakt-player",
+      "name": "In Session Audio offers Dyad: Solo Kalimba FREE for Kontakt Player",
+      "developer": "bedroomproducersblog.com",
+      "category": "eq",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/11/16/dyal-solo-kalimba/",
+      "description": "In Session Audio is offering Dyad: Solo Kalimba, a kalimba sample library for the free Kontakt Player, as a free download through November 25. We’ve previously covered their Fruit Shake giveaways, which focused on sequenced shaker performances. This time, the freebie brings that ",
+      "discoveredAt": "2026-11-16",
+      "source": "rss"
+    },
+    {
+      "id": "soundtrap-adds-vst-instrument-support-and-partners-with-arturia",
+      "slug": "soundtrap-adds-vst-instrument-support-and-partners-with-arturia",
+      "name": "Soundtrap adds VST instrument support and partners with Arturia",
+      "developer": "bedroomproducersblog.com",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/11/16/soundtrap-arturia-partnership/",
+      "description": "Soundtrap has added VST instrument support to its cloud-based music production platform, with Arturia’s Pigments synth and Efx MOTIONS joining the launch. The update lets producers bring virtual instruments into their Soundtrap projects alongside third-party effects. Pigments and",
+      "discoveredAt": "2026-11-16",
+      "source": "rss"
+    },
+    {
+      "id": "audiomodern-updates-free-filterstep-2-with-new-effects-and-sequencing-modes",
+      "slug": "audiomodern-updates-free-filterstep-2-with-new-effects-and-sequencing-modes",
+      "name": "Audiomodern updates FREE Filterstep 2 with new effects and sequencing modes",
+      "developer": "bedroomproducersblog.com",
+      "category": "eq",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/11/16/audiomodern-filterstep-2/",
+      "description": "Audiomodern has released Filterstep 2, a free rhythmic filter plugin for macOS and Windows with expanded sequencing options and five additional effect engines. We covered the original Filterstep back in 2020. It’s a filter plugin that lets you use a step sequencer to turn pads, d",
+      "discoveredAt": "2026-11-16",
+      "source": "rss"
+    },
+    {
+      "id": "tone-empire-offers-optored-optical-compressor-free-this-black-friday",
+      "slug": "tone-empire-offers-optored-optical-compressor-free-this-black-friday",
+      "name": "Tone Empire offers OptoRED optical compressor FREE this Black Friday",
+      "developer": "bedroomproducersblog.com",
+      "category": "compressor",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/11/16/tone-empire-optored-black-friday/",
+      "description": "Tone Empire is offering OptoRED, its $79 optical compressor plugin for macOS and Windows, for free with the coupon code optobf26. To claim it, add OptoRED to your cart on the developer’s website and enter the code at checkout. Make sure the total drops to zero before completing t",
+      "discoveredAt": "2026-11-16",
+      "source": "rss"
+    },
+    {
+      "id": "riverflux-audio-adds-rf-bus-free-bus-compressor-to-the-relic-bundle",
+      "slug": "riverflux-audio-adds-rf-bus-free-bus-compressor-to-the-relic-bundle",
+      "name": "RiverFlux Audio adds RF-BUS FREE bus compressor to the Relic bundle",
+      "developer": "bedroomproducersblog.com",
+      "category": "eq",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/11/15/riverflux-audio-rf-bus-free/",
+      "description": "RiverFlux Audio has released RF-BUS, a free stereo bus compressor included in the Relic 0.4.7 update for macOS, Windows, and Linux. We covered the original Relic bundle when it launched in October with twelve processors. The collection now includes seventeen plugins. RF-BUS joins",
+      "discoveredAt": "2026-11-16",
+      "source": "rss"
+    },
+    {
+      "id": "algoriffix-s-pitch-perfekt-v2-adds-vocal-transformation-and-four-part-harmony",
+      "slug": "algoriffix-s-pitch-perfekt-v2-adds-vocal-transformation-and-four-part-harmony",
+      "name": "Algoriffix’s Pitch Perfekt v2 adds vocal transformation and four-part harmony",
+      "developer": "bedroomproducersblog.com",
+      "category": "vocal",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/11/15/algoriffix-pitch-perfekt-v2/",
+      "description": "Algoriffix has released Pitch Perfekt v2, adding Vocal Transformer and Functional Harmony to its voice-to-MIDI plugin and standalone app for macOS and Windows. The two new premium features let Pitch Perfekt do more than capture a sung melody as MIDI. You can reshape the vocal its",
+      "discoveredAt": "2026-11-16",
+      "source": "rss"
+    },
+    {
+      "id": "xfer-records-releases-shrub-a-free-serum-based-synthesizer-for-macos-windows",
+      "slug": "xfer-records-releases-shrub-a-free-serum-based-synthesizer-for-macos-windows",
+      "name": "Xfer Records releases Shrub, a FREE Serum-based synthesizer for macOS, Windows,",
+      "developer": "bedroomproducersblog.com",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/11/15/xfer-records-shrub/",
+      "description": "Xfer Records has released Shrub, a free wavetable synthesizer based on Serum, available in beta for macOS, Windows, and Linux. We’ve already seen quite a few unofficial ports or emulations of various synths, both hardware and software (for example, the modern take on Synth1). But",
+      "discoveredAt": "2026-11-16",
+      "source": "rss"
+    },
+    {
+      "id": "audio-plugin-deals-offers-17-plugins-and-sound-packs-in-a-free-black-friday-mega",
+      "slug": "audio-plugin-deals-offers-17-plugins-and-sound-packs-in-a-free-black-friday-mega",
+      "name": "Audio Plugin Deals offers 17 plugins and sound packs in a FREE Black Friday Mega",
+      "developer": "bedroomproducersblog.com",
+      "category": "bundle",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/11/13/audio-plugin-deals-black-friday/",
+      "description": "Audio Plugin Deals is offering the FREE Black Friday Mega Bundle, a collection of 17 plugins, instruments, and sound packs, at no cost until November 26. The advertised value is $709.74, but I don’t think this is quite as big a deal as that number suggests. Some of the included p",
+      "discoveredAt": "2026-11-16",
+      "source": "rss"
+    },
+    {
+      "id": "stereoghost-releases-phasekicker-an-automatic-kick-bass-phase-alignment-plugin",
+      "slug": "stereoghost-releases-phasekicker-an-automatic-kick-bass-phase-alignment-plugin",
+      "name": "StereoGhost releases PhaseKicker, an automatic kick-bass phase alignment plugin",
+      "developer": "bedroomproducersblog.com",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/11/13/stereoghost-releases-phasekicker-an-automatic-kick-bass-phase-alignment-plugin/",
+      "description": "StereoGhost has released PhaseKicker, a plugin that automatically adjusts the phase relationship between your kick and bass on every kick hit. The Swiss developer is offering PhaseKicker for $35/€39 during its introductory sale, advertised to run until November 30, 2026. The regu",
+      "discoveredAt": "2026-11-16",
+      "source": "rss"
+    },
+    {
+      "id": "six-cheap-plugin-boutique-deals-starting-at-5-plus-a-free-gift",
+      "slug": "six-cheap-plugin-boutique-deals-starting-at-5-plus-a-free-gift",
+      "name": "Six cheap Plugin Boutique deals starting at $5, plus a FREE gift",
+      "developer": "bedroomproducersblog.com",
+      "category": "delay",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/11/13/six-cheap-plugin-boutique-deals/",
+      "description": "Plugin Boutique has several worthwhile Black Friday deals starting at just $5, and even the cheapest purchase here qualifies for a free gift. Current options with any paid purchase include UVI Tape Suite and Excite Audio Evolve Elastic Lite. Tape Suite includes four separate tape",
+      "discoveredAt": "2026-11-16",
+      "source": "rss"
+    },
+    {
+      "id": "dztl8-releases-merg-a-free-stereo-to-mono-plugin-for-macos-and-windows",
+      "slug": "dztl8-releases-merg-a-free-stereo-to-mono-plugin-for-macos-and-windows",
+      "name": "DZTL8 releases Merg, a FREE stereo-to-mono plugin for macOS and Windows",
+      "developer": "bedroomproducersblog.com",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://bedroomproducersblog.com/2026/11/13/dztl8-merg/",
+      "description": "DZTL8 has released Merg, a free stereo-to-mono utility plugin for macOS and Windows that lets you adjust how much of each channel makes it into the mono mix. This one is mainly aimed at producers sampling stereo records, but I think it’s also useful for working with stereo bass s",
+      "discoveredAt": "2026-11-16",
+      "source": "rss"
+    },
+    {
+      "id": "toontrack-launches-black-friday-sale-with-two-weeks-of-deals",
+      "slug": "toontrack-launches-black-friday-sale-with-two-weeks-of-deals",
+      "name": "Toontrack launches Black Friday Sale with two weeks of deals",
+      "developer": "rekkerd.org",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/toontrack-black-friday-sale-deals/",
+      "description": "Toontrack has announced the launch of its 2026 Black Friday sale. The promotion will stretch over two weeks, with new deals every day at approximately 9am CET Monday through Friday both weeks. Each set of deals will be on sale from the day of announcement through December 1st, 20",
+      "discoveredAt": "2026-11-16",
+      "source": "rss"
+    },
+    {
+      "id": "fabfilter-black-friday-sale-save-25-on-plugins-bundles",
+      "slug": "fabfilter-black-friday-sale-save-25-on-plugins-bundles",
+      "name": "FabFilter Black Friday Sale: Save 25% on plugins & bundles",
+      "developer": "rekkerd.org",
+      "category": "eq",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/fabfilter-black-friday-sale-plugins-bundles/",
+      "description": "FabFilter has announced the launch of its annual Black Friday Sale, offering a 25% discount on its audio plugins and bundles for the next few days. The offer includes the popular plugins such as the FabFilter Pro-Q 4 top-quality equalizer with perfect analog modeling, dynamic EQ,",
+      "discoveredAt": "2026-11-16",
+      "source": "rss"
+    },
+    {
+      "id": "save-50-on-basic-audio-programming-tutorial-course-by-pointblank",
+      "slug": "save-50-on-basic-audio-programming-tutorial-course-by-pointblank",
+      "name": "Save 50% on Basic Audio Programming tutorial course by Pointblank",
+      "developer": "rekkerd.org",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/pointblank-plugin-boutique-launch-basic-audio-programming-tutorial-course/",
+      "description": "Plugin Boutique has announced a limited time promotion on a focused, 4-hour mini course created by Dr Chris Nash from pointblank Music School in association with The Audio Programmer. An introduction to music software engineering, the Basic Audio Programming course offers a pract",
+      "discoveredAt": "2026-11-16",
+      "source": "rss"
+    },
+    {
+      "id": "muze-everything-bundle-47-kontakt-libraries-for-39-95-usd",
+      "slug": "muze-everything-bundle-47-kontakt-libraries-for-39-95-usd",
+      "name": "Muze Everything Bundle: 47 Kontakt libraries for $39.95 USD",
+      "developer": "rekkerd.org",
+      "category": "bundle",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/muze-everything-kontakt-instrument-library-bundle-sale/",
+      "description": "VST Alarm has launched an exclusive limited time sale on the Everything Bundle by Muze, offering 98% off on the collection of all of Muze’s Kontakt libraries for music production and sound design. The Everything Bundle includes 47 products that cover a wide range of instruments, ",
+      "discoveredAt": "2026-11-16",
+      "source": "rss"
+    },
+    {
+      "id": "initial-audio-updates-difro-melody-generator-to-v2-5-incl-vst3-au",
+      "slug": "initial-audio-updates-difro-melody-generator-to-v2-5-incl-vst3-au",
+      "name": "Initial Audio updates Difro melody generator to v2.5 incl. VST3/AU",
+      "developer": "rekkerd.org",
+      "category": "piano",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/initial-audio-updates-difro-melody-generator-to-v2-5-incl-vst3-au/",
+      "description": "Initial Audio has released an update to its AI-powered MIDI and melody generator for Windows and macOS. Version 2.5 of Difro turns any audio loop you drag loop into the piano roll into MIDI. Additionally, the generator is now available in VST3 and AU plugin formats, allowing user",
+      "discoveredAt": "2026-11-16",
+      "source": "rss"
+    },
+    {
+      "id": "soundghost-releases-fragment-cycling-audio-fragmenter-plugin",
+      "slug": "soundghost-releases-fragment-cycling-audio-fragmenter-plugin",
+      "name": "SoundGhost releases Fragment cycling audio fragmenter plugin",
+      "developer": "rekkerd.org",
+      "category": "guitar",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/soundghost-releases-fragment-cycling-audio-fragmenter-plugin/",
+      "description": "SoundGhost has introduced a new audio plugin that turns any passing sound into raw material for looping, cycling textures. Freeze a moment of live audio or drop in your own sample, then split it into four fragments that each play back independently — jumping to new positions, dri",
+      "discoveredAt": "2026-11-16",
+      "source": "rss"
+    },
+    {
+      "id": "free-filterstep-2-creative-motion-filter-by-audiomodern",
+      "slug": "free-filterstep-2-creative-motion-filter-by-audiomodern",
+      "name": "FREE: Filterstep 2 creative motion filter by Audiomodern",
+      "developer": "rekkerd.org",
+      "category": "eq",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": true,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/free-filterstep-2-creative-motion-filter-by-audiomodern/",
+      "description": "Audiomodern has announced the release of an update to its rhythmic multi-effect for shaping movement, texture and character. Filterstep 2 brings sequencing, modulation and effects together with precise control and room for the unexpected. Five sequencing modes and custom filter s",
+      "discoveredAt": "2026-11-16",
+      "source": "rss"
+    },
+    {
+      "id": "black-friday-sale-get-60-off-bandlab-pro-plan-exclusive-deal",
+      "slug": "black-friday-sale-get-60-off-bandlab-pro-plan-exclusive-deal",
+      "name": "Black Friday Sale: Get 60% OFF BandLab Pro plan + Exclusive deal",
+      "developer": "rekkerd.org",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/bandlab-pro-plan-on-sale/",
+      "description": "BandLab has launched a Black Friday promotion, offering 60% off its annual Pro plan for a limited time. This brings the first year down to $70 USD, its lowest price ever (around $5.80 USD/month, billed annually). A Pro subscription gives creators access to 50+ music-making tools,",
+      "discoveredAt": "2026-11-16",
+      "source": "rss"
+    },
+    {
+      "id": "ultimate-patches-releases-u-he-diva-ultimate-patches-volumes-1-2",
+      "slug": "ultimate-patches-releases-u-he-diva-ultimate-patches-volumes-1-2",
+      "name": "Ultimate Patches releases U-he Diva Ultimate Patches — Volumes 1+2",
+      "developer": "rekkerd.org",
+      "category": "synth",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/ultimate-patches-releases-u-he-diva-ultimate-patches-volumes-12/",
+      "description": "Ultimate Patches, creators of well-received factory presets (JN-80 Banks A-E, Polyeight Bank A, UB-1, Pro-VS-Mini, Uno Synth etc.) has unleashed a total refresh of the u-he Diva synth. U-he Diva Ultimate Patches — Volumes 1+2 is the all-new collection of high-quality Diva presets",
+      "discoveredAt": "2026-11-16",
+      "source": "rss"
+    },
+    {
+      "id": "wavelet-audio-launches-black-friday-sale-with-up-to-70-off",
+      "slug": "wavelet-audio-launches-black-friday-sale-with-up-to-70-off",
+      "name": "Wavelet Audio launches Black Friday Sale with up to 70% OFF",
+      "developer": "rekkerd.org",
+      "category": "bundle",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/wavelet-audio-kontakt-instrument-libraries-sale/",
+      "description": "Plugin Boutique has announced a limited time Black Friday promotion on Wavelet Audio‘s Kontakt Player-powered virtual instruments. The sale includes the popular Senfine cinematic collection of atmospheric and emotive sounds, Cabal 8 virtual guitar series, and more recent librarie",
+      "discoveredAt": "2026-11-16",
+      "source": "rss"
+    },
+    {
+      "id": "simpler-midi-max-for-live-midi-sampler-for-ableton-live-by-pezzner",
+      "slug": "simpler-midi-max-for-live-midi-sampler-for-ableton-live-by-pezzner",
+      "name": "Simpler MIDI Max for Live MIDI sampler for Ableton Live by Pezzner",
+      "developer": "rekkerd.org",
+      "category": "eq",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/simpler-midi-max-for-live-midi-sampler-for-ableton-live-by-pezzner/",
+      "description": "Pezzner has recently released a Max for Live MIDI sampler for Ableton Live that records MIDI sequences into a playable, manipulable sample buffer. Simpler MIDI lets producers loop, reverse, repitch, and rearrange their ideas in real time by replaying pieces of those ideas using t",
+      "discoveredAt": "2026-11-16",
+      "source": "rss"
+    },
+    {
+      "id": "the-drum-broker-introduces-the-slow-cooker-vol-2-by-tane",
+      "slug": "the-drum-broker-introduces-the-slow-cooker-vol-2-by-tane",
+      "name": "The Drum Broker introduces The Slow Cooker Vol. 2 by Tane",
+      "developer": "rekkerd.org",
+      "category": "bundle",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/the-drum-broker-introduces-the-slow-cooker-vol-2-by-tane/",
+      "description": "The Drum Broker has announced the release of the follow up to the wildly popular “Slow Cooker” multi-kit series by Tane: The Slow Cooker Vol. 2. The Slow Cooker Vol. 2 by Tane is a heavy collection of boom bap samples for cooking dark, low-tempo beats and grimy underground classi",
+      "discoveredAt": "2026-11-16",
+      "source": "rss"
+    },
+    {
+      "id": "lostin70s-releases-hanon-b76-physical-modeled-organ-instrument",
+      "slug": "lostin70s-releases-hanon-b76-physical-modeled-organ-instrument",
+      "name": "Lostin70s releases Hanon B76 physical modeled organ instrument",
+      "developer": "rekkerd.org",
+      "category": "delay",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/lostin70s-releases-hanon-b76-physical-modeled-organ-instrument/",
+      "description": "Lostin70s has announced the release of an authentic physical modeled instrument that brings the sounds of a legend with studio-measured Leslie, two iconic amps, vintage effects (flanger, phaser, ring, delay), and extensive MIDI options. Hanon B76 is the successor of the previousl",
+      "discoveredAt": "2026-11-16",
+      "source": "rss"
+    },
+    {
+      "id": "parish-audio-releases-dgr-digital-degrader-effect-plugin-vst3-au",
+      "slug": "parish-audio-releases-dgr-digital-degrader-effect-plugin-vst3-au",
+      "name": "Parish Audio releases DGR Digital Degrader effect plugin (VST3/AU)",
+      "developer": "rekkerd.org",
+      "category": "guitar",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/parish-audio-releases-dgr-digital-degrader-effect-plugin-vst3-au/",
+      "description": "Parish Audio has released a new lo-fi digital degradation plugin designed to create everything from subtle vintage digital texture to aggressive bitcrushing, unstable converters, and broken-hardware effects. DGR combines bit-depth and sample-rate reduction with independent Jitter",
+      "discoveredAt": "2026-11-16",
+      "source": "rss"
+    },
+    {
+      "id": "sonniss-black-friday-sale-save-up-to-60-on-2-700-sound-effects-libraries",
+      "slug": "sonniss-black-friday-sale-save-up-to-60-on-2-700-sound-effects-libraries",
+      "name": "Sonniss Black Friday Sale: Save up to 60% on 2,700+ sound effects libraries",
+      "developer": "rekkerd.org",
+      "category": "utility",
+      "formats": [
+        "VST3",
+        "AU"
+      ],
+      "platforms": [
+        "windows",
+        "macos"
+      ],
+      "isFree": false,
+      "priceEur": null,
+      "officialUrl": "https://rekkerd.org/sonniss-black-friday-sale-save-up-to-60-on-2700-sound-effects-libraries/",
+      "description": "Sonniss has announced the launch of its 2026 Black Friday promotion, offering up to 60% off on over 2,700 sound effects libraries from more than 250 independent publishers. If you’ve had libraries sitting on a wishlist since the summer, this is the bit where you finally buy them.",
+      "discoveredAt": "2026-11-16",
       "source": "rss"
     }
   ]
